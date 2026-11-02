@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "important",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "important"
+  },
+  "reveal_sequence": [
+    "radiology_report",
+    "previous_notes",
+    "psa_trend"
+  ],
+  "free_text": "Known prostate cancer (prior positive biopsy). A specialist model using prior ISUP grade and PSA trend gives risk 0.51: biopsy recommended. MRI: PI-RADS 4."
+}

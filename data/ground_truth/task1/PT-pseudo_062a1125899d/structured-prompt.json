@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_062a1125899d",
+  "pid": "PT-pseudo_062a1125899d",
+  "task": 1,
+  "psa": 3.0,
+  "age": 68,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.12,
+  "psav": 0.78,
+  "psap": 2.1,
+  "vol": 25.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.7542332,
+  "medhx": "Coronary artery disease, Chronic kidney disease, Atrial fibrillation",
+  "meds": "atorvastatin, metoprolol, apixaban",
+  "notes": "PSA 3 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 25 mL. csPCa 0.75.",
+  "pmhx": [
+    "Coronary artery disease",
+    "Chronic kidney disease",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "64 kg",
+    "height": "182 cm",
+    "bmi": "19.3",
+    "bp": "133/87 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Current smoker (17 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review sought after an earlier negative biopsy coincided with a PSA increase to 3.0 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A 68-year-old gentleman presents for clinical review, his medical background including coronary artery disease, chronic kidney disease, and atrial fibrillation. Pharmacological management consists of atorvastatin, metoprolol, and apixaban, with cardiology oversight recently confirming stable rhythm control. Divorced but currently residing with his partner, he recently retired from carpentry and maintains an active routine centred around gardening, though he admits to no formal exercise programme. Alcohol intake is moderate at nine units weekly, and he is a current smoker with a 17 pack-year history, but he reports no lower urinary tract symptoms, with an IPSS score of zero. He notes occasional mild tinnitus and mentions a routine chest X-ray performed recently for occupational health clearance, which was unremarkable. He has noted some hearing difficulty and prefers written summaries during consultations. Initial PSA elevation noted in 2022 has progressed to this current clinical review."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: prostate texture symmetric and smooth, devoid of nodularity or asymmetry, aligning with a normal assessment. General examination shows a well-appearing gentleman with a regular heart rhythm at 79 bpm, clear lung fields, blood pressure 133/87 mmHg, and no peripheral oedema."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "9 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

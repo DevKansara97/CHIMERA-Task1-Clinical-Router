@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "vol": "noted",
+    "comorbidity": "noted",
+    "fh": "noted",
+    "psad": "noted",
+    "dre": "important",
+    "cspca": "not_used",
+    "bx": "important",
+    "psa": "noted",
+    "age": "important",
+    "pirads": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "radiology_report",
+    "psa_trend"
+  ],
+  "free_text": "80yr, low risk PC. Only biopsy if signs of high risk PC, no indication for active treatment otherwise. Biopsyfinding congruent with MRI finding is reassuring."
+}

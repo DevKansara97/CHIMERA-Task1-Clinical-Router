@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_4e545d350c5b",
+  "pid": "PT-pseudo_4e545d350c5b",
+  "task": 1,
+  "psa": 22.0,
+  "age": 68,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.696,
+  "psav": 2.9,
+  "psap": 19.9,
+  "vol": 31.63,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.8591883,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 22 ng/mL. PI-RADS 5. PSAD 0.70. Prostate volume 32 mL. csPCa 0.86.",
+  "pmhx": [],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "vitals": {
+    "weight": "85 kg",
+    "height": "181 cm",
+    "bmi": "25.9",
+    "bp": "120/77 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Ex-smoker (20 pack-yr, quit 2013)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "09 Feb 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent prostate-specific antigen elevation alongside recent imaging findings prompted this consultation."
+    },
+    {
+      "s": "History",
+      "t": "Serial prostate-specific antigen measurements demonstrating a steady climb initiated a prolonged urological evaluation for this 68-year-old man. He works as a retired firefighter and resides with his partner, maintaining a brisk pace through weekend hikes. Lower urinary tract complaints surface moderately, yielding an IPSS of 10 driven mainly by occasional hesitancy and mild nocturia. He firmly denies unexplained weight loss, pelvic discomfort, or blood in the urine. Medical background remains clear apart from a distant appendectomy during his twenties and a recent dermatology appointment for actinic keratosis treatment. Former smoking habits total 20 pack-years, though he ceased tobacco use in 2013. Alcohol intake averages nine units each week. Mild visual impairment dictates large-print correspondence, and his adult daughter acts as his main liaison. An autumn 2024 cardiology assessment confirmed steady cardiovascular health without any current prescriptions. Comorbid conditions are absent. Marital status is divorced."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: texture smooth and uniform; mobility intact; no focal nodules or dimensional irregularities detected. The gland measures within normal parameters and presents bilaterally symmetric. General assessment shows stable vital markers and absence of lymphadenopathy or systemic disease indicators. Nutritional status appears robust, and functional mobility remains excellent."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "9 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

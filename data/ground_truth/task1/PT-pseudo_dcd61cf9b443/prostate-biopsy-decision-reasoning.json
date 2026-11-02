@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "important",
+    "bx": "important",
+    "psa": "important",
+    "cspca": "not_used",
+    "age": "important",
+    "comorbidity": "noted",
+    "psad": "noted",
+    "dre": "important",
+    "vol": "noted",
+    "fh": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "This person should discuss curative treatment (younger patient with palpable, MRI-visible high-risk disease incl Gleason 5 findings). If not curative treatment for any reason, a strategy for medical treatment should be set. Potentially reasonable already now, but could also be delayed (but to the risk of disease progression)."
+}

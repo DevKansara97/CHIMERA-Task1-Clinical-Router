@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_f99f0627e536",
+  "pid": "PT-pseudo_f99f0627e536",
+  "task": 1,
+  "psa": 10.0,
+  "age": 70,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.349,
+  "psav": 2.0,
+  "psap": 5.6,
+  "vol": 28.64,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.83261764,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 10 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 29 mL. csPCa 0.83.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "112 kg",
+    "height": "181 cm",
+    "bmi": "34.2",
+    "bp": "104/81 mmHg",
+    "hr": "82 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Post-prostatectomy monitoring revealed a PSA increase to 10.0 ng/mL, necessitating immediate specialist review."
+    },
+    {
+      "s": "History",
+      "t": "At age seventy, the patient works as a retired greenhouse horticulturalist and resides with his wife. After an initial PSA elevation in 2022 prompted a radical prostatectomy when he was sixty-nine, he has maintained strict surveillance protocols. His current PSA stands at 10.0 ng/mL. He reports no urinary blockage, blood in the urine, or skeletal discomfort, recording a minimal IPSS of 1 out of 35. Alcohol consumption averages twenty-six units per week, and he regularly hikes on weekends. Beyond urological matters, he completed a six-session physiotherapy regimen for persistent lower back strain and underwent baseline cognitive screening at a memory clinic; both interventions are progressing without complication. He smokes nothing and requires no daily pharmacotherapy."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth; mobility: unrestricted; asymmetry: absent. The prostatic fossa presents symmetrically without palpable irregularities. Vital signs remain stable, and systemic examination shows no acute abnormalities. While a walking frame assists him during extended ambulation, his baseline functional capacity remains solid for routine tasks."
+    }
+  ],
+  "occupation": "retired greenhouse horticulturalist",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "26 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Erasmus MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

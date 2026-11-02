@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_5f263f325019",
+  "pid": "PT-pseudo_5f263f325019",
+  "task": 1,
+  "psa": 12.3,
+  "age": 70,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.198,
+  "psav": 2.06,
+  "psap": 8.0,
+  "vol": 62.18,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8065341,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 12.3 ng/mL. PI-RADS 5. PSAD 0.20. Prostate volume 62 mL. csPCa 0.81.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "71 kg",
+    "height": "171 cm",
+    "bmi": "24.3",
+    "bp": "104/79 mmHg",
+    "hr": "82 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A progressive PSA elevation coupled with previously positive biopsy results necessitates specialist evaluation."
+    },
+    {
+      "s": "History",
+      "t": "At seventy years of age, this retired butcher presents for routine prostate surveillance. He is married and resides with his partner, maintaining steady contact with his adult daughter. Daily mobility includes a forty-five minute walk, while weekly alcohol intake sits at roughly thirteen units. He abstains from tobacco. Lower urinary tract complaints remain negligible, reflected by an IPSS score of 5, and he denies haematuria or pelvic discomfort. Systemic health remains uncomplicated, with no active comorbidities or current medications. A cardiology consultation last autumn confirmed stable cardiac function, and an ophthalmology visit addressed routine cataract screening. The commute to the hospital exceeds one hour by train, a journey he manages comfortably with the allotted appointment window."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: symmetrically enlarged without palpable nodules or asymmetry. Vital parameters remain stable, registering a blood pressure of 104/79 mmHg and a heart rate of 82 bpm. Systemic assessment reveals no abdominal masses or peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "retired butcher",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "13 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "LUMC (Leiden)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

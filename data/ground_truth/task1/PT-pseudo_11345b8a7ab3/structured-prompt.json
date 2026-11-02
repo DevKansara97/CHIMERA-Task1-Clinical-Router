@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_11345b8a7ab3",
+  "pid": "PT-pseudo_11345b8a7ab3",
+  "task": 1,
+  "psa": 113.0,
+  "age": 67,
+  "months": 1,
+  "pirads": "5",
+  "psad": 2.61,
+  "psav": 13.27,
+  "psap": 108.5,
+  "vol": 43.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.94776064,
+  "medhx": "Hypertension, Osteoarthritis",
+  "meds": "amlodipine, valsartan, lisinopril, metoprolol, paracetamol PRN",
+  "notes": "PSA 113 ng/mL. PI-RADS 5. PSAD 2.61. Prostate volume 43 mL. DRE nodus. csPCa 0.95.",
+  "pmhx": [
+    "Hypertension",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "86 kg",
+    "height": "174 cm",
+    "bmi": "28.4",
+    "bp": "138/88 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation combined with previously confirmed high-grade disease on biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Aged 67, this non-smoker works as a primary school teacher. Marriage and residence in an independent retirement community define his current lifestyle. Initial prostate investigation occurred three years back, with his adult son acting as the designated contact. Lower urinary tract symptoms sit at a moderate IPSS score of 12. Hypertension and osteoarthritis are managed via amlodipine, valsartan, lisinopril, metoprolol, and paracetamol PRN. Daily 45-minute walks characterize his routine, alongside a weekly alcohol intake of roughly 13 units. Memory clinic screening yielded normal results, and he reports stable cognition. A knee arthroscopy for degenerative joint disease took place five years ago; major abdominal surgeries are absent. Unexplained weight loss and bone pain are denied."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: A firm, irregular nodule is distinctly palpable within the right posterior peripheral zone, while the rest of the gland remains symmetrically enlarged and non-tender. Vital parameters show a blood pressure of 138/88 mmHg and a heart rate of 70 bpm. Systemic inspection detects no lymphadenopathy or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "primary school teacher",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "13 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

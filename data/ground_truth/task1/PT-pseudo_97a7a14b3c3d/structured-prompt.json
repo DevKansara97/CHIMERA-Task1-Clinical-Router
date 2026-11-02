@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_97a7a14b3c3d",
+  "pid": "PT-pseudo_97a7a14b3c3d",
+  "task": 1,
+  "psa": 6.5,
+  "age": 73,
+  "months": 3,
+  "pirads": "2",
+  "psad": 0.081,
+  "psav": 0.72,
+  "psap": 5.7,
+  "vol": 80.6,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.0,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.5 ng/mL. PI-RADS 2. PSAD 0.08. Prostate volume 81 mL. csPCa 0.00.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "179 cm",
+    "bmi": "25.6",
+    "bp": "128/91 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Ex-smoker (29 pack-yr, quit 2018)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Mar 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation of prostate-specific antigen levels coupled with newly acquired multiparametric MRI findings prompted this clinical encounter."
+    },
+    {
+      "s": "History",
+      "t": "At 73 years of age, this retired warehouse worker initially entered evaluation in 2022 due to a steady increase in prostate-specific antigen levels. Widowed and currently residing with his partner, he navigates minor mobility constraints with a walking frame. Lower urinary tract symptoms have accompanied him for several years, yielding an IPSS score of 18 that indicates moderate bother; he explicitly denies haematuria or acute urinary retention. Daily activity includes a twenty-minute walk, and his alcohol intake averages seven units weekly. A recent ophthalmology visit addressed routine cataract screening, with no systemic complaints or unexplained weight loss reported. He maintains a 29 pack-year smoking history but ceased consumption in 2018. No regular medications are taken, and known drug allergies are absent."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal assessment demonstrates a symmetrically enlarged prostate with a smooth, rubbery consistency and an absence of palpable nodules or asymmetry. General examination remains unremarkable, with stable vital signs and absent lymphadenopathy or abdominal masses. The patient ambulates using a frame per administrative records, yet otherwise appears well-nourished and free of acute distress."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 18/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "LUMC (Leiden)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

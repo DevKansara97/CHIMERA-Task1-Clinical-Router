@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "noted",
+    "bx": "not_used",
+    "psa": "important"
+  },
+  "reveal_sequence": [
+    "radiology_report",
+    "psa_trend",
+    "laboratory_results",
+    "previous_notes"
+  ],
+  "free_text": "Priads 2 with only sightly elevated PSA"
+}

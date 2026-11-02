@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_ee512fea9006",
+  "pid": "PT-pseudo_ee512fea9006",
+  "task": 1,
+  "psa": 4.2,
+  "age": 69,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.177,
+  "psav": 0.73,
+  "psap": 3.0,
+  "vol": 23.73,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.7802015,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.2 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 24 mL. DRE nodus. csPCa 0.78.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "66 kg",
+    "height": "189 cm",
+    "bmi": "18.5",
+    "bp": "108/70 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Ex-smoker (20 pack-yr, quit 2016)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "29 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A marked increase in PSA to 4.2 ng/mL alongside a recently completed multiparametric MRI prompted this clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "At 69 years of age, this retired postal worker first entered clinical evaluation in late 2023 due to an elevated PSA. Current complaints are limited to mild lower urinary tract symptoms, quantified by an IPSS score of 4; hematuria and pelvic discomfort are absent. Divorced and residing with his partner, he sustains a highly active lifestyle featuring weekly swimming sessions alongside routine podiatry and gastroenterology check-ups. Alcohol consumption averages 14 units weekly. Tobacco use ceased completely in 2016 following a 20-pack-year exposure. Intermittent fatigue has led to a sleep clinic referral for suspected obstructive sleep apnoea, which remains under diagnostic review. Visual impairment necessitates large-print materials, and he explicitly declines to designate a next-of-kin. No comorbidities or active medications are documented. A July 2021 MRI at RUMC identified a minor left-sided lesion, with prior biopsy bucket recorded as None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents with clear asymmetry, characterized by a firm, discrete nodule localized to the left peripheral zone. The remaining glandular tissue feels smooth and lacks tenderness. Systemic assessment shows stable vitals, absent lymphadenopathy, and no skeletal tenderness."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "None recorded — patient declines to nominate",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "Gastroenterology — surveillance colonoscopy",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "14 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Erasmus MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

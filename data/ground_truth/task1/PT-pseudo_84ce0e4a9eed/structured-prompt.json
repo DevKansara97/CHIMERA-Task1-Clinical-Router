@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_84ce0e4a9eed",
+  "pid": "PT-pseudo_84ce0e4a9eed",
+  "task": 1,
+  "psa": 15.0,
+  "age": 71,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.351,
+  "psav": 1.43,
+  "psap": 15.2,
+  "vol": 42.78,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.85514855,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 15 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 43 mL. csPCa 0.86.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "75 kg",
+    "height": "163 cm",
+    "bmi": "28.2",
+    "bp": "122/78 mmHg",
+    "hr": "44 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Jan 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent prostate-specific antigen elevation alongside earlier histology revealing ISUP Grade Group 2 disease prompted this consultation."
+    },
+    {
+      "s": "History",
+      "t": "A mid-2023 PSA rise triggered a structured urological evaluation for this 71-year-old primary school teacher. He is divorced yet resides with his partner, who routinely attends visits. Lower urinary tract symptoms exist but remain well-tolerated, yielding an IPSS of 9/35 without nocturia surpassing twice per night. He remains physically active, cycling to work five days weekly while averaging 17 units of alcohol each week. He is a non-smoker. Medical history lacks comorbidities, and he takes no active medication. His urological background features two prior positive biopsies returning ISUP Grade Groups 1 and 2. A recent podiatry appointment for nail care and an uncomplicated annual influenza vaccination complete his recent medical timeline. Administrative protocols have secured an Arabic interpreter for the upcoming consultation to guarantee precise diagnostic communication."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a normal digital rectal assessment, characterized by a symmetrically enlarged gland exhibiting a smooth, firm consistency without palpable nodules or asymmetry. General physical evaluation shows stable vital parameters and lacks lymphadenopathy or abdominal masses."
+    }
+  ],
+  "occupation": "primary school teacher",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "17 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

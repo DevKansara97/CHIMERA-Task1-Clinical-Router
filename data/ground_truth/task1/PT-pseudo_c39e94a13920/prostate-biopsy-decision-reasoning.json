@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "bx": "important",
+    "fh": "noted",
+    "psa": "noted",
+    "age": "important",
+    "dre": "noted",
+    "cspca": "noted",
+    "vol": "decisive",
+    "pirads": "important",
+    "comorbidity": "noted",
+    "psad": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "AS for Intermediate risk PC in younger patient with very large prostate and only one biopsy procedure before. Needs confirmatory biopsy."
+}

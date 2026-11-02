@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_0de7e606ca70",
+  "pid": "PT-pseudo_0de7e606ca70",
+  "task": 1,
+  "psa": 9.0,
+  "age": 65,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.409,
+  "psav": 1.24,
+  "psap": 7.8,
+  "vol": 22.03,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.886139,
+  "medhx": "Hypertension",
+  "meds": "valsartan, lisinopril",
+  "notes": "PSA 9 ng/mL. PI-RADS 5. PSAD 0.41. Prostate volume 22 mL. csPCa 0.89.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "76 kg",
+    "height": "183 cm",
+    "bmi": "22.7",
+    "bp": "138/91 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Ex-smoker (27 pack-yr, quit 2017)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical attention directed toward steadily climbing PSA values alongside newly acquired mpMRI results."
+    },
+    {
+      "s": "History",
+      "t": "Primary care surveillance has tracked his PSA trajectory for approximately two years. He is a sixty-five-year-old retired truck driver, never married, yet residing with his partner. Daily habits feature a twenty-minute walking regimen and a weekly alcohol intake capped at four units. Chronic hypertension remains stable on valsartan and lisinopril. He also carries a smoking background of 27 pack-years, though cessation occurred in 2017. Lower urinary tract complaints are minimal, scoring a 7 on the IPSS questionnaire, and he has never experienced urinary retention or visible blood in the urine. Outside of urological care, he recently completed a standard hearing evaluation and consulted a pain specialist regarding persistent right shoulder aches. Administrative correspondence and paperwork are handled by his grown daughter, acting with explicit permission."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: A normal prostate presents with symmetrically smooth contours and uniform consistency, devoid of discrete masses or lateral asymmetry. Systemic evaluation shows stable vitals: a blood pressure of 138/91 mmHg and a pulse rate of 78 bpm. Comprehensive review of systems and vital parameters indicates no peripheral adenopathy or skeletal tenderness."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

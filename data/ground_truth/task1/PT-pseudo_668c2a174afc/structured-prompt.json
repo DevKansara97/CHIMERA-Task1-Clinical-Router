@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_668c2a174afc",
+  "pid": "PT-pseudo_668c2a174afc",
+  "task": 1,
+  "psa": 7.93,
+  "age": 74,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.267,
+  "psav": 1.17,
+  "psap": 5.7,
+  "vol": 29.7,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.72964996,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 7.93 ng/mL. PI-RADS 5. PSAD 0.27. Prostate volume 30 mL. csPCa 0.73.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "64 kg",
+    "height": "174 cm",
+    "bmi": "21.1",
+    "bp": "141/69 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current assessment focuses on interpreting the most recent multiparametric MRI alongside updated PSA metrics."
+    },
+    {
+      "s": "History",
+      "t": "At seventy-four years of age, this retired bank clerk is divorced and shares a household with his partner. He maintains a strict non-smoker status and abstains completely from alcohol, supplementing that routine with light home-based resistance training twice weekly. Medical history reveals zero comorbidities and no active prescriptions. Lower urinary tract symptoms are entirely absent, registering a zero IPSS score, while he explicitly denies erectile dysfunction or hematuria. Routine health maintenance includes biannual dental examinations, a dermatology screening last month for actinic keratosis surveillance, and the recent completion of a six-session physiotherapy program targeting stable mechanical lower back pain. Travel to this facility necessitates a train commute exceeding one hour. Prior biopsy history registers as negative."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination demonstrates a symmetrically smooth gland with uniform consistency and absolutely no palpable asymmetry or discrete nodularity. Vital signs remain stable, and general inspection shows a well-appearing gentleman free of acute distress. Palpation of the abdomen yields a soft, non-tender contour with no detectable masses or lymphadenopathy."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up",
+    "Physiotherapy — lower back, six sessions",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

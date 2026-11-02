@@ -1,0 +1,21 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "fh": "noted",
+    "psa": "noted",
+    "comorbidity": "noted",
+    "dre": "noted",
+    "vol": "important",
+    "cspca": "not_used",
+    "bx": "important",
+    "psad": "noted",
+    "age": "important",
+    "pirads": "important"
+  },
+  "reveal_sequence": [
+    "radiology_report",
+    "previous_notes",
+    "psa_trend"
+  ],
+  "free_text": "Need to know initial ISUP and MRI results"
+}

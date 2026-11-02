@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_9ac935d9650f",
+  "pid": "PT-pseudo_9ac935d9650f",
+  "task": 1,
+  "psa": 17.0,
+  "age": 68,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.35,
+  "psav": 1.9,
+  "psap": 14.5,
+  "vol": 48.89,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.86317605,
+  "medhx": "Benign prostatic hyperplasia",
+  "meds": "None",
+  "notes": "PSA 17 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 49 mL. csPCa 0.86.",
+  "pmhx": [
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "101 kg",
+    "height": "185 cm",
+    "bmi": "29.5",
+    "bp": "121/67 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Escalating PSA values alongside a previous negative biopsy necessitate specialist assessment."
+    },
+    {
+      "s": "History",
+      "t": "Operating as an active dairy farmer, this 68-year-old gentleman was first evaluated after an incidental PSA elevation surfaced in late 2022. Widowed and residing independently, he balances his self-employment with a flexible schedule that permits him to manage the farm solo. Lower urinary tract symptoms remain mild, registering an IPSS of 7, while chair-based exercises sustain his routine given limited mobility. He is a non-smoker, consumes roughly 25 units of alcohol per week, and takes no active medication. He recently completed routine surveillance colonoscopy alongside a vascular surgery consult for stable varicose veins. An unremarkable chest X-ray aligns with his report of no bone pain or new systemic complaints. His drive to maintain independence, coupled with occupational demands, motivates his pursuit of further evaluation. Prior biopsy results were negative, and digital rectal examination proved normal."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal. The prostate presents as symmetrically enlarged with a smooth, firm consistency, lacking any palpable nodules or asymmetry. General assessment shows stable vital signs, with no peripheral lymphadenopathy or abdominal masses detected."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)",
+    "Gastroenterology — surveillance colonoscopy",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "25 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "decisive",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "noted"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy recommended: PI-RADS 5 (12 mm lesion) in a patient without a prior positive biopsy meets the guideline indication for biopsy. Supporting values: PSA density 0.85; PSA 16.8 ng/mL; DRE: normal."
+}

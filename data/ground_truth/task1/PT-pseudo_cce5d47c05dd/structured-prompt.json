@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_cce5d47c05dd",
+  "pid": "PT-pseudo_cce5d47c05dd",
+  "task": 1,
+  "psa": 12.0,
+  "age": 61,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.28,
+  "psav": 3.98,
+  "psap": 7.0,
+  "vol": 42.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8442586,
+  "medhx": "Obesity (BMI >30), Osteoarthritis",
+  "meds": "paracetamol PRN",
+  "notes": "PSA 12 ng/mL. PI-RADS 5. PSAD 0.28. Prostate volume 42 mL. csPCa 0.84.",
+  "pmhx": [
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "vitals": {
+    "weight": "86 kg",
+    "height": "173 cm",
+    "bmi": "28.7",
+    "bp": "109/68 mmHg",
+    "hr": "59 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "17 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinician seeks re-evaluation due to a sustained PSA elevation and a previous biopsy documenting ISUP Grade Group 2 adenocarcinoma."
+    },
+    {
+      "s": "History",
+      "t": "This 61-year-old individual was first evaluated in 2022 after an unexpected PSA elevation surfaced. A subsequent targeted biopsy confirmed disease, with the prior biopsy bucket \"Positive\", and he now attends for routine surveillance. He reports persistent lower urinary tract symptoms, recording an IPSS score of 20 mainly due to nocturia and a diminished stream, which he currently manages with paracetamol PRN. A retired postal worker, he maintains an active lifestyle that includes weekend hiking and is Married, Lives with partner. His Osteoarthritis remains controlled, and he recently visited podiatry for routine nail care without incident. He is a Non-smoker and maintains Obesity (BMI >30). He explicitly denies unexplained weight loss, bone pain, or haematuria, and abstains completely from alcohol."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Normal DRE; the prostate presents with a symmetrically enlarged, firm, and smooth contour without asymmetry or palpable nodules. General inspection shows stable vital parameters and absence of abdominal masses or lymphadenopathy. Ambulation is independent, although mild bilateral knee crepitus correlates with his established condition."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 20/35 (severe LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

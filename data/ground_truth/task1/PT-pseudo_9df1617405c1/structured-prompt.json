@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_9df1617405c1",
+  "pid": "PT-pseudo_9df1617405c1",
+  "task": 1,
+  "psa": 2.4,
+  "age": 75,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.066,
+  "psav": 0.91,
+  "psap": 1.9,
+  "vol": 36.21,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.76987416,
+  "medhx": "Hypercholesterolaemia, Benign prostatic hyperplasia",
+  "meds": "simvastatin, rosuvastatin, tamsulosin",
+  "notes": "PSA 2.4 ng/mL. PI-RADS 3. PSAD 0.07. Prostate volume 36 mL. csPCa 0.77.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "65 kg",
+    "height": "177 cm",
+    "bmi": "20.7",
+    "bp": "94/80 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Current smoker (16 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Serial PSA tracking and earlier biopsy outcomes necessitate a clinical re-evaluation."
+    },
+    {
+      "s": "History",
+      "t": "This 75-year-old graphic designer entered initial investigation after a routine PSA screen in early 2023. His medical background includes hypercholesterolaemia and benign prostatic hyperplasia, managed with simvastatin, rosuvastatin, and tamsulosin. Two previous systematic biopsies established low-grade disease, specifically Gleason 3+3, ISUP GG 1. He remains married within a multi-generational household shared with an adult child. A daily cycling commute occurs five times weekly, alongside zero alcohol consumption and an IPSS score of 7. Past medical history includes a youthful appendectomy and an unremarkable gastroenterology surveillance colonoscopy. Recent fatherhood of a first grandchild has triggered mild sleep disturbances. Vital signs remain stable, and he explicitly denies unexplained weight loss or bone pain. Current smoking status registers at 16 pack-years."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal. The prostate presents as symmetrically enlarged, exhibiting smooth, firm consistency without palpable nodules or asymmetry. General assessment yields unremarkable results, with vital signs recording a blood pressure of 94/80 mmHg and a heart rate of 69 bpm. Palpation of the abdomen reveals a soft, non-tender region devoid of masses or organomegaly."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "UMCG (Groningen)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

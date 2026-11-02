@@ -1,0 +1,72 @@
+{
+  "case_id": "PT-pseudo_06b319f42fcb",
+  "pid": "PT-pseudo_06b319f42fcb",
+  "task": 1,
+  "psa": 13.5,
+  "age": 66,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.452,
+  "psav": 1.92,
+  "psap": 12.3,
+  "vol": 29.86,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8947026,
+  "medhx": "Hypertension, COPD, Chronic kidney disease, Benign prostatic hyperplasia",
+  "meds": "valsartan, metoprolol, tiotropium, salbutamol PRN, tamsulosin",
+  "notes": "PSA 13.5 ng/mL. PI-RADS 5. PSAD 0.45. Prostate volume 30 mL. csPCa 0.89.",
+  "pmhx": [
+    "Hypertension",
+    "COPD",
+    "Chronic kidney disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "186 cm",
+    "bmi": "24.3",
+    "bp": "129/83 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "24 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current clinical focus centers on reassessing known ISUP GG1 pathology alongside a PSA reading of 13.5 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A retired civil servant first entered investigation for elevated PSA markers in early 2023. The individual is married and shares a home with his partner. He maintains a strictly non-smoking status. Medical background includes hypertension, chronic obstructive pulmonary disease, chronic kidney disease, and benign prostatic hyperplasia. Current pharmacotherapy consists of valsartan, metoprolol, tiotropium, and salbutamol on a PRN basis, alongside tamsulosin for lower urinary tract symptoms. Cardiology and pulmonary assessments have recently confirmed stable parameters. Daily mobility includes a twenty-minute walking routine, though he experiences intermittent fatigue that does not correlate with physical activity. Lower urinary tract symptom severity registers at an IPSS score of 13. Two systematic biopsies performed in 2023 and 2024 both revealed Gleason 3+3 disease, placing him under ongoing surveillance. A routine colonoscopy and a recent influenza vaccination occurred without complication. He reports no alterations in bowel habits, unexplained weight shifts, hematuria, pelvic discomfort, or bone pain. Overall systemic health remains steady."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: unrestricted; asymmetry: absent. The gland presents with symmetrical enlargement and lacks any palpable nodules. Systemic assessment shows stable vital signs, recording a blood pressure of 129/83 mmHg and a regular heart rate of 64 bpm. Abdominal palpation yields no masses, and peripheral lymphatic examination remains entirely unremarkable."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Gastroenterology — surveillance colonoscopy",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

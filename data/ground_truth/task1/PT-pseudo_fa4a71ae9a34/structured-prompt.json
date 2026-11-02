@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_fa4a71ae9a34",
+  "pid": "PT-pseudo_fa4a71ae9a34",
+  "task": 1,
+  "psa": 4.8,
+  "age": 65,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.19,
+  "psav": 1.05,
+  "psap": 3.6,
+  "vol": 25.31,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8035576,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.8 ng/mL. PI-RADS 5. PSAD 0.19. Prostate volume 25 mL. DRE nodus. csPCa 0.80.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "90 kg",
+    "height": "176 cm",
+    "bmi": "29.1",
+    "bp": "129/75 mmHg",
+    "hr": "56 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Rising prostate-specific antigen (4.8 ng/mL) combined with a confirmed ISUP GG 4 result from a previous biopsy procedure."
+    },
+    {
+      "s": "History",
+      "t": "Investigated initially for an incidental prostate-specific antigen elevation in the middle of 2023, this 65-year-old individual subsequently received a positive biopsy result confirming ISUP GG 4 disease. He works as a retired carpenter, resides with his partner, and reports being never married. A non-smoker with no active medications or comorbid conditions, he maintains a regular cycling regimen five days weekly and restricts alcohol to four units per week. Lower urinary tract symptoms remain minimal, reflected by an International Prostate Symptom Score of 3 out of 35, and he explicitly denies hematuria or pelvic discomfort. His clinical background is otherwise unremarkable aside from a recent dermatology visit for actinic keratosis screening. Commuting over an hour by train, he favors flexible scheduling to accommodate his travel routine."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm, discrete nodule palpable in the right lobe; mobility: unrestricted; asymmetry: noted only at the nodular site, with the remainder of the gland presenting symmetrically and smooth. Vital parameters demonstrate stability, registering a blood pressure of 129/75 mmHg and a heart rate of 56 bpm. Systemic inspection reveals no palpable lymphadenopathy or abdominal abnormalities."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

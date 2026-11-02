@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_0020cfca66c8",
+  "pid": "PT-pseudo_0020cfca66c8",
+  "task": 1,
+  "psa": 4.7,
+  "age": 67,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.14,
+  "psav": 0.48,
+  "psap": 4.4,
+  "vol": 33.46,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.59620297,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.7 ng/mL. PI-RADS 2. PSAD 0.14. Prostate volume 33 mL. csPCa 0.60.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "68 kg",
+    "height": "175 cm",
+    "bmi": "22.2",
+    "bp": "147/77 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Ex-smoker (22 pack-yr, quit 2012)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Specialist reassessment sought after previous prostate biopsy results and a recent increase in prostate-specific antigen levels."
+    },
+    {
+      "s": "History",
+      "t": "A 67-year-old gentleman, recently retired from greenhouse horticulture, entered the diagnostic pathway in early 2022 after an incidental PSA increase. He experiences moderate lower urinary tract symptoms, recording an IPSS score of 18 out of 35, predominantly driven by nocturia and a weak urinary stream, while explicitly denying haematuria or pelvic discomfort. Since losing his spouse several years back, he has maintained a solitary residence, with his adult daughter serving as his main point of contact. Outside urological matters, he manages mild bilateral knee discomfort stemming from prolonged standing during his career, recently completed successful left-eye cataract surgery, and underwent a standard chest radiograph last month. His routine includes a daily twenty-minute walk, weekly alcohol consumption averaging twenty-seven units, and a smoking background of twenty-two pack-years, with cessation dating back to 2012. He reports mild bilateral hearing impairment and requests written documentation for all clinical consultations."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm and smooth; symmetry: symmetric; asymmetry: none; nodules: absent. General inspection shows no abnormalities, with clear cardiovascular and respiratory systems. Independent ambulation is maintained, notwithstanding mild bilateral knee stiffness. Vital parameters record a blood pressure of 147/77 mmHg and a pulse rate of 79 beats per minute."
+    }
+  ],
+  "occupation": "retired greenhouse horticulturalist",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "27 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 18/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

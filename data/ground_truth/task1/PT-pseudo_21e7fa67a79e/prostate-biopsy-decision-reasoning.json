@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "vol": "important",
+    "fh": "noted",
+    "age": "noted",
+    "cspca": "not_used",
+    "psa": "important",
+    "bx": "important",
+    "psad": "noted",
+    "pirads": "decisive",
+    "comorbidity": "not_used",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Patient on Activ Surveillance with severe LUTS symptoms. There are two options , recommend surgery direkt or do a new biopsy."
+}

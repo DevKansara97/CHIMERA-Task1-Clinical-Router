@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_3646e0a2ae13",
+  "pid": "PT-pseudo_3646e0a2ae13",
+  "task": 1,
+  "psa": 4.5,
+  "age": 67,
+  "months": 3,
+  "pirads": "NA",
+  "psad": 0.095,
+  "psav": 0.6,
+  "psap": 4.1,
+  "vol": 47.29,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.5290899,
+  "medhx": "Type 2 diabetes, Chronic kidney disease",
+  "meds": "metformin, empagliflozin",
+  "notes": "PSA 4.5 ng/mL. PI-RADS NA. PSAD 0.10. Prostate volume 47 mL. csPCa 0.53.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "88 kg",
+    "height": "194 cm",
+    "bmi": "23.4",
+    "bp": "126/80 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (31 pack-yr, quit 2012)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Evaluation of a steadily increasing prostate-specific antigen level alongside newly acquired multiparametric imaging data."
+    },
+    {
+      "s": "History",
+      "t": "At sixty-seven, this patient is a small business owner (cafe) and maintains a vigorous fitness regimen of three five-kilometre runs each week. Former tobacco use totals 31 pack-years, though cessation occurred in 2012. His medical background includes Type 2 diabetes and Chronic kidney disease, currently managed with metformin and empagliflozin. A recent vascular consultation addressed asymptomatic varicose veins, and a laparoscopic cholecystectomy was performed in 2008. He lives in a retirement community (independent unit) following the loss of his wife two years prior. Only mild lower urinary tract symptoms are reported, yielding an IPSS score of 5. He denies prior prostate interventions or catheterization, and his biopsy bucket records as None, yet voiced considerable hesitation regarding any invasive diagnostic procedures during this consultation. Occasional seasonal allergies round out his clinical profile."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: unrestricted; asymmetry: absent. The gland measures symmetrically without discrete nodules. Systemic vitals remain stable, registering 126/80 mmHg with a regular pulse at 68 beats per minute. Palpation of the abdomen reveals no tenderness or masses."
+    }
+  ],
+  "occupation": "small business owner (cafe)",
+  "marital": "Widowed",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

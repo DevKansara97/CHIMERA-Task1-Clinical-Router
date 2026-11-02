@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_d95b3a02898e",
+  "pid": "PT-pseudo_d95b3a02898e",
+  "task": 1,
+  "psa": 5.0,
+  "age": 77,
+  "months": 1,
+  "pirads": "2",
+  "psad": 0.1,
+  "psav": 0.65,
+  "psap": 4.5,
+  "vol": 48.92,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.8184269,
+  "medhx": "COPD, Chronic kidney disease, Benign prostatic hyperplasia",
+  "meds": "salbutamol PRN",
+  "notes": "PSA 5 ng/mL. PI-RADS 2. PSAD 0.10. Prostate volume 49 mL. csPCa 0.82.",
+  "pmhx": [
+    "COPD",
+    "Chronic kidney disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "81 kg",
+    "height": "168 cm",
+    "bmi": "28.7",
+    "bp": "137/70 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Ex-smoker (13 pack-yr, quit 2023)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "07 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment follows recent MRI completion and ongoing PSA elevation."
+    },
+    {
+      "s": "History",
+      "t": "Routine surveillance began after an initial PSA elevation was noted in early 2022. The 77-year-old subject carries a background of benign prostatic hyperplasia, chronic kidney disease with a baseline eGFR under 60 mL/min/1.73m², and well-controlled COPD treated with salbutamol PRN. Occupation: retired civil engineer. Residence: Lives alone. Daily habits include a 20-minute walk and complete alcohol abstinence. Tobacco use ceased in 2023 following a 13 pack-year exposure. Hearing loss remains stable, and he strongly prefers written clinical summaries. Surgical past includes a remote appendectomy during his thirties alongside conservative care for mild knee osteoarthritis. He denies bone pain, haematuria, or unexplained weight loss. An annual influenza vaccination was administered by the practice nurse recently."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The gland appears symmetrically enlarged, firm yet smooth, with absolutely no palpable nodules. General inspection shows a well-nourished individual free of acute distress. Lung fields are clear, cardiac rhythm regular. Abdominal palpation yields a soft, non-tender abdomen devoid of masses or organomegaly."
+    }
+  ],
+  "occupation": "retired civil engineer",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

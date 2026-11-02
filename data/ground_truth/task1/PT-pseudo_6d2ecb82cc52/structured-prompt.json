@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_6d2ecb82cc52",
+  "pid": "PT-pseudo_6d2ecb82cc52",
+  "task": 1,
+  "psa": 25.0,
+  "age": 60,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.783,
+  "psav": 12.01,
+  "psap": 13.2,
+  "vol": 31.91,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.918368,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 25 ng/mL. PI-RADS 5. PSAD 0.78. Prostate volume 32 mL. DRE abnormal. csPCa 0.92.",
+  "pmhx": [],
+  "allergies": [
+    "Iodinated contrast (mild)"
+  ],
+  "vitals": {
+    "weight": "71 kg",
+    "height": "182 cm",
+    "bmi": "21.4",
+    "bp": "130/75 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Ex-smoker (40 pack-yr, quit 2005)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation of prostate-specific antigen coupled with an abnormal digital rectal examination."
+    },
+    {
+      "s": "History",
+      "t": "A 60-year-old married man residing with his partner, this active dairy farmer initially sought evaluation after an elevated PSA reading surfaced in early 2022. He is an ex-smoker (40 pack-yr, quit 2005). He experiences moderate lower urinary tract symptoms, scoring 10 out of 35 on the IPSS questionnaire, though he requires no pharmacological intervention. Weekly alcohol consumption sits at roughly 10 units, complemented by a weekly swimming routine. He reports no chronic illnesses and takes no daily medications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals an asymmetrically enlarged gland featuring a firm, irregular nodule within the left peripheral zone. The right lobe exhibits slightly reduced compliance without discrete focal induration. General inspection remains unremarkable."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,22 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "psa": "important",
+    "fh": "noted",
+    "bx": "decisive",
+    "vol": "important",
+    "comorbidity": "not_used",
+    "cspca": "not_used",
+    "psad": "not_used",
+    "dre": "noted",
+    "age": "noted",
+    "pirads": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "laboratory_results",
+    "radiology_report"
+  ],
+  "free_text": "Patient on Active surveillance. Initial ISUP and MRI is needed."
+}

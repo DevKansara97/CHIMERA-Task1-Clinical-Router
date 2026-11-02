@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_956f2054a1ea",
+  "pid": "PT-pseudo_956f2054a1ea",
+  "task": 1,
+  "psa": 19.0,
+  "age": 71,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.328,
+  "psav": 1.74,
+  "psap": 16.6,
+  "vol": 57.89,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.75379103,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 19 ng/mL. PI-RADS 5. PSAD 0.33. Prostate volume 58 mL. DRE nodus. csPCa 0.75.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "100 kg",
+    "height": "170 cm",
+    "bmi": "34.6",
+    "bp": "116/65 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Current smoker (33 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "30 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment driven by escalating PSA values and histological upgrading observed during the previous prostate biopsy."
+    },
+    {
+      "s": "History",
+      "t": "A 71-year-old secondary school teacher presents for review. Initial workup for a rising PSA occurred in early 2024, with levels climbing to 19.0 ng/mL subsequent to a radical prostatectomy performed at age 70. He is married yet resides independently, relying on his spouse for primary support. Daily exercise consists of 45-minute walks, alongside a weekly alcohol intake of roughly six units. Moderate lower urinary tract symptoms yield an IPSS score of 14/35, though he denies haematuria or skeletal discomfort. A current smoking habit totals 33 pack-years, without associated chronic cough or shortness of breath. Body weight registers at 100 kg, corresponding to a BMI of 34.6. He voices significant apprehension about invasive interventions, preferring extended consultation periods. Past surgical history encompasses a distant appendectomy during his twenties and a right knee meniscectomy. Recent outpatient visits address cataract surveillance by ophthalmology and routine foot care via podiatry. No comorbidities or active medications are reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — prostate: symmetrically enlarged, firm nodule (nodus) palpable in the right lobe. General assessment shows stable vitals (BP 116/65 mmHg, HR 77 bpm), absent drug allergies, and no palpable supraclavicular or inguinal lymphadenopathy."
+    }
+  ],
+  "occupation": "secondary school teacher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 14/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

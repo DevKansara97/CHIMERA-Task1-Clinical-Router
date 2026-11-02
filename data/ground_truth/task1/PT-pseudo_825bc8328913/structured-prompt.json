@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_825bc8328913",
+  "pid": "PT-pseudo_825bc8328913",
+  "task": 1,
+  "psa": 8.8,
+  "age": 60,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.19,
+  "psav": 2.67,
+  "psap": 9.8,
+  "vol": 47.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.7517428,
+  "medhx": "Hypertension, Type 2 diabetes, Hypercholesterolaemia",
+  "meds": "valsartan, lisinopril, metoprolol, metformin, empagliflozin, rosuvastatin",
+  "notes": "PSA 8.8 ng/mL. PI-RADS 5. PSAD 0.19. Prostate volume 47 mL. csPCa 0.75.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes",
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "103 kg",
+    "height": "185 cm",
+    "bmi": "30.1",
+    "bp": "135/93 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Ex-smoker (14 pack-yr, quit 2001)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical attention required for a current PSA elevation to 8.8 ng/mL following a previously negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "A 60-year-old hospital porter who has never married initially came under investigation for an elevated PSA in late 2023. He shares a home with his partner, and his adult children make weekly visits, with one daughter managing administrative correspondence on his behalf. His clinical background includes hypertension, type 2 diabetes, and hypercholesterolaemia. Current pharmacotherapy consists of valsartan, lisinopril, metoprolol, metformin, empagliflozin, and rosuvastatin. He experiences significant lower urinary tract symptoms scoring 21 on the IPSS, while explicitly denying haematuria, pelvic discomfort, or erectile dysfunction. He does not consume alcohol and swims weekly. A prior twelve-core biopsy last year returned negative. He reports no history of transurethral resection or catheterisation. Stable right knee osteoarthritis is managed with paracetamol, and he recently underwent cataract surgery overseas, though he otherwise feels well."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as symmetrically enlarged with a smooth, firm consistency and lacks any palpable nodules or asymmetry, confirming a normal digital rectal examination. General inspection shows a well-nourished man in no acute distress. Vital signs record a blood pressure of 135/93 mmHg and a regular pulse of 80 bpm. Abdominal palpation yields no masses or organomegaly."
+    }
+  ],
+  "occupation": "hospital porter",
+  "marital": "Never married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 21/35 (severe LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

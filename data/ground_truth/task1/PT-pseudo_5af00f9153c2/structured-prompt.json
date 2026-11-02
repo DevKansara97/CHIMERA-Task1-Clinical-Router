@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_5af00f9153c2",
+  "pid": "PT-pseudo_5af00f9153c2",
+  "task": 1,
+  "psa": 11.2,
+  "age": 64,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.18,
+  "psav": 1.9,
+  "psap": 7.5,
+  "vol": 61.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8541575,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia, Chronic kidney disease",
+  "meds": "metformin, empagliflozin, atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 11.2 ng/mL. PI-RADS 5. PSAD 0.18. Prostate volume 61 mL. csPCa 0.85.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "95 kg",
+    "height": "173 cm",
+    "bmi": "31.7",
+    "bp": "99/73 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (29 pack-yr, quit 2001)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "31 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Evaluation initiated after documenting a sustained PSA elevation alongside a previous biopsy result establishing ISUP grade group 4 malignancy."
+    },
+    {
+      "s": "History",
+      "t": "A 64-year-old factory supervisor, currently cohabiting with his partner after a divorce, seeks re-assessment of a known prostate malignancy. His PSA values have climbed steadily from 3.3 ng/mL in early 2023 to the present 11.2 ng/mL. Underlying type 2 diabetes and chronic kidney disease are managed with metformin and empagliflozin, while hypercholesterolaemia is addressed through a combination of atorvastatin, simvastatin, and rosuvastatin. His estimated glomerular filtration rate has held steady beneath 60 mL/min/1.73m2. Urological discomfort is negligible, reflected by an IPSS score of 4, and he denies any blood in the urine or voiding difficulties. A significant smoking background of 29 pack-years ended in 2001; alcohol consumption remains limited to four units per week. He favors weekend gardening over formal exercise routines. Recent non-urological care included a standard chest radiograph and an audiology check for mild age-related hearing shifts, alongside a persistent sleep disturbance he links to occupational stress. Due to residing over ninety minutes from the clinic, he has asked that telephone consultations be utilized whenever medically suitable."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal assessment: Normal DRE — prostate measures approximately 60 g with a smooth, firm consistency and no detectable nodules or asymmetry.\nSystemic evaluation shows no abnormalities. Vital parameters remain stable at a blood pressure of 99/73 mmHg and a heart rate of 81 bpm. Body mass index registers at 31.7, aligning with his reported activity levels. Peripheral lymph nodes are non-palpable, and suprapubic regions exhibit no tenderness."
+    }
+  ],
+  "occupation": "factory supervisor",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

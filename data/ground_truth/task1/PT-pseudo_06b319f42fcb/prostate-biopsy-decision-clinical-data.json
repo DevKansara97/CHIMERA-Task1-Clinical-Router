@@ -1,0 +1,108 @@
+{
+  "radiology_report": "Subject: Prostate mpMRI | Date: 10 February 2025 | Department: Radiology\n\nClinical indication: A 66-year-old gentleman presents for re-evaluation of suspected clinically significant prostate cancer, following previous positive biopsies. Current PSA measures 13.5 ng/mL.\n\nFINDINGS:\nThe gland occupies 29.86 mL. T2-weighted sequences highlight a 14 x 12 x 10 mm hypointense focus within the right mid-gland peripheral zone. Diffusion-weighted imaging demonstrates pronounced restriction with correspondingly low ADC values. Dynamic contrast-enhanced sequences reveal early focal enhancement within that same area. No extraprostatic extension, seminal vesicle invasion, or suspicious pelvic lymphadenopathy is identified. Limited field of view imaging shows no osseous abnormalities.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right mid-gland peripheral zone.\nProstate volume 29.86 mL, PSAD 0.452 ng/mL/mL.\ncsPCa predicted probability 0.8947026.",
+  "previous_notes": [
+    {
+      "date": "27 Oct 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Clinical review focused on a progressive PSA trajectory. A biopsy conducted in 2023 established ISUP GG1 disease. Subsequent testing in June 2024 yielded a PSA reading of 12.3 ng/mL, which triggered further urological referral. The individual remains on tamsulosin for lower urinary tract symptoms and maintains stable COPD management via tiotropium."
+    },
+    {
+      "date": "29 Jun 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Initial PSA elevation noted during a March 2023 consultation led to serial monitoring. A November 2023 recheck returned 17.8 ng/mL, prompting a transrectal ultrasound-guided sampling. Pathology from that session returned Gleason 3+3, ISUP GG 1. Routine laboratory rechecking was scheduled alongside standard symptom tracking."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2023",
+      "val": 4.2
+    },
+    {
+      "date": "Nov 2023",
+      "val": 6.2
+    },
+    {
+      "date": "Jun 2024",
+      "val": 9.1
+    },
+    {
+      "date": "Feb 2025",
+      "val": 13.5
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "13.5 ng/mL",
+      "date": "19 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.59 ng/mL",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "19%",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.8 g/dL",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.4 x10^9/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "234 x10^9/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "129 umol/L",
+      "date": "19 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "19 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.4 nmol/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "62 U/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "228 U/L",
+      "date": "19 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.7 %",
+      "date": "19 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

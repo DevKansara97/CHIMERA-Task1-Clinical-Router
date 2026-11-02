@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_ef8ea220bdc6",
+  "pid": "PT-pseudo_ef8ea220bdc6",
+  "task": 1,
+  "psa": 6.9,
+  "age": 57,
+  "months": 1,
+  "pirads": "2",
+  "psad": 0.089,
+  "psav": 2.44,
+  "psap": 4.7,
+  "vol": 77.9,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.49575716,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 2. PSAD 0.09. Prostate volume 78 mL. csPCa 0.50.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "178 cm",
+    "bmi": "25.2",
+    "bp": "119/80 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (12 pack-yr, quit 2015)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Elevated PSA trajectory coupled with a prior positive biopsy mandates a definitive re-evaluation for biopsy decision."
+    },
+    {
+      "s": "History",
+      "t": "A 57-year-old retired civil engineer presents with a rising PSA trajectory and a prior positive biopsy bucket. He lives alone, though he is married and maintains close daily contact with his adult son. Social history reveals an ex-smoker status (12 pack-yr, quit 2015) with a strictly alcohol-free lifestyle. He engages in light weight-training at home twice weekly. No comorbidities or active medications are reported. He recently attended a sleep clinic for suspected obstructive sleep apnoea and completed a baseline memory screening at the local clinic, both under routine observation. He denies bone pain, haematuria, or unexplained weight loss. General well-being remains stable aside from occasional nocturia and a weak urinary stream."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents with a normal contour, smooth rubbery consistency, and no palpable nodules or asymmetry. Vital signs remain stable, registering a blood pressure of 119/80 mmHg and a regular heart rate of 70 bpm. General examination is unremarkable, with no peripheral lymphadenopathy or abdominal masses noted."
+    }
+  ],
+  "occupation": "retired civil engineer",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

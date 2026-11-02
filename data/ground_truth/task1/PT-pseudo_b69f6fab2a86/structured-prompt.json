@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_b69f6fab2a86",
+  "pid": "PT-pseudo_b69f6fab2a86",
+  "task": 1,
+  "psa": 9.5,
+  "age": 65,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.193,
+  "psav": 1.85,
+  "psap": 7.9,
+  "vol": 49.29,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.6352939,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 9.5 ng/mL. PI-RADS 3. PSAD 0.19. Prostate volume 49 mL. DRE nodus. csPCa 0.64.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "83 kg",
+    "height": "180 cm",
+    "bmi": "25.6",
+    "bp": "132/77 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Ex-smoker (24 pack-yr, quit 2016)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment of a progressive PSA elevation in light of past biopsy findings."
+    },
+    {
+      "s": "History",
+      "t": "A 65-year-old musician in semi-retirement presents with mild lower urinary tract symptoms and a documented smoking cessation history. Marital status is married, yet he resides solo, leaning on his wife for primary support while navigating daily tasks with a walking frame. His clinical background includes an earlier biopsy confirming ISUP GG 2 disease. Tobacco use ceased in 2016 following a cumulative exposure of 24 pack-years. He explicitly denies unexplained weight reduction or skeletal pain. Occasional knee stiffness restricts his physical activity to seated exercises. He abstains from alcohol, maintains consistent energy levels, and requires no current pharmacotherapy."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — prostate: moderately enlarged, asymmetric contour, featuring a discrete, firm nodule localized to the right aspect. General survey shows a well-nourished adult in no acute distress. Lung fields remain clear, cardiac rhythm regular. Vital parameters are stable. Lower limb mobility shows marked limitation, correlating with his documented reliance on a walking frame."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

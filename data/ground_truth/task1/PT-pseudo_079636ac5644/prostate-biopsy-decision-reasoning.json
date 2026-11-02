@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psad": "noted",
+    "psa": "noted",
+    "comorbidity": "noted",
+    "age": "noted",
+    "pirads": "important",
+    "fh": "not_used",
+    "bx": "important",
+    "cspca": "not_used",
+    "vol": "noted",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "All depends if the lesion has grown in size since 2024. If stable no biopsy , if increased in size I will do a biopsy."
+}

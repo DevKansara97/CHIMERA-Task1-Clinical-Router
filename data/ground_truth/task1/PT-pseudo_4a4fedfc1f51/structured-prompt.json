@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_4a4fedfc1f51",
+  "pid": "PT-pseudo_4a4fedfc1f51",
+  "task": 1,
+  "psa": 8.5,
+  "age": 56,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.368,
+  "psav": 2.14,
+  "psap": 6.6,
+  "vol": 23.08,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.87014735,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 8.5 ng/mL. PI-RADS 5. PSAD 0.37. Prostate volume 23 mL. DRE nodus. csPCa 0.87.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "175 cm",
+    "bmi": "25.5",
+    "bp": "118/79 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (22 pack-yr, quit 2009)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "16 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A marked increase in serum prostate-specific antigen levels alongside concerning multiparametric magnetic resonance imaging results prompted this clinical evaluation."
+    },
+    {
+      "s": "History",
+      "t": "Initial screening in late 2022 uncovered an elevated prostate-specific antigen reading, leading to ongoing serial assessments and symptom monitoring. He is a 56-year-old retired civil servant, widowed, and resides independently in a retirement community. Lower urinary tract complaints are negligible, scoring 5 on the IPSS questionnaire, and his regular cycling routine covers roughly 20 kilometres twice each week. Alcohol consumption averages 24 units weekly. He explicitly denies any urinary retention or haematuria. His medical background is otherwise clear, noting no active medications or systemic comorbidities. Past interventions include a surveillance colonoscopy and occasional over-the-counter analgesics for mild knee discomfort. A recent trip to southern France was documented, and he indicated that an Arabic interpreter would facilitate communication during this consultation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a discrete Nodus within the left peripheral zone, while the remainder of the gland maintains uniform symmetry. General assessment shows no abnormalities; vital parameters are stable, respiratory sounds remain clear bilaterally, and peripheral lymph nodes are non-palpable."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Widowed",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "24 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

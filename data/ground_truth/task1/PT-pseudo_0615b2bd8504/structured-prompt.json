@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_0615b2bd8504",
+  "pid": "PT-pseudo_0615b2bd8504",
+  "task": 1,
+  "psa": 160.0,
+  "age": 63,
+  "months": 1,
+  "pirads": "5",
+  "psad": 2.635,
+  "psav": 35.73,
+  "psap": 115.9,
+  "vol": 60.71,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.95889634,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 160 ng/mL. PI-RADS 5. PSAD 2.63. Prostate volume 61 mL. DRE abnormal. csPCa 0.96.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "93 kg",
+    "height": "191 cm",
+    "bmi": "25.5",
+    "bp": "140/81 mmHg",
+    "hr": "48 bpm",
+    "smoking": "Current smoker (20 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation in PSA levels alongside a history of biopsy-confirmed prostate adenocarcinoma warrants clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "Now aged 63-year-old, the individual works as a retired bank clerk and Lives in ground-floor apartment with partner. Following an initial PSA measurement of 55.0 ng/mL in late 2022, a prior biopsy bucket \"Positive\" was documented. He maintains a Married status and engages in light resistance training twice weekly, complemented by a moderate alcohol intake of 14 units per week. Current smoker (20 pack-yr) status is noted, though he explicitly denies haematuria, pelvic discomfort, or lower urinary tract symptoms exceeding a baseline IPSS of 10. Past medical reviews include a routine hearing evaluation, an orthopaedic check for stable knee osteoarthritis, and a memory clinic assessment revealing intact cognition. He has never utilized 5-alpha-reductase inhibitors. General health remains excellent with an ECOG performance status of 0. Comorbidities: none. Active medication: None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm and irregular nodule palpable in the left posterior peripheral zone; mobility: fixed; asymmetry: pronounced enlargement with right lobe induration but no distinct discrete masses; overall classification: cT3a. Abnormal DRE confirmed. Vital signs record a blood pressure of 140/81 mmHg and a resting heart rate of 48 bpm. General survey shows no palpable lymphadenopathy or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Orthopaedic outpatient — knee follow-up",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "14 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

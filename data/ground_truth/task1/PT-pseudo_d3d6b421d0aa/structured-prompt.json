@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_d3d6b421d0aa",
+  "pid": "PT-pseudo_d3d6b421d0aa",
+  "task": 1,
+  "psa": 8.6,
+  "age": 68,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.202,
+  "psav": 0.77,
+  "psap": 7.4,
+  "vol": 42.65,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8539465,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 8.6 ng/mL. PI-RADS 5. PSAD 0.20. Prostate volume 43 mL. DRE nodus. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "170 cm",
+    "bmi": "25.6",
+    "bp": "164/61 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "09 Feb 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Ongoing assessment of established prostate malignancy alongside a persistent upward PSA trend."
+    },
+    {
+      "s": "History",
+      "t": "At 68 years of age, this self-employed carpentry contractor entered clinical review in early 2023 after an unexpected PSA spike, building upon a prior biopsy bucket marked Positive. He endures marked lower urinary tract obstruction, scoring 30 out of 35 on the IPSS, driven mainly by frequent nighttime urination and a diminished urinary stream that heavily disrupts his everyday activities. Though married, he maintains a solo household; his grown daughter acts as his main point of contact and handles all medical paperwork with his permission. He refrains from tobacco use entirely, leads a largely sedentary routine punctuated by brief walks, and limits alcohol intake to roughly nine units weekly. Unexplained weight loss and skeletal pain are firmly denied. Recent sleep disturbances stem chiefly from nocturia and occupational pressures."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as asymmetrically enlarged, harboring a distinct firm nodule within the right posterior peripheral zone. Vital signs record a blood pressure of 164/61 mmHg and a steady heart rate of 77 beats per minute. Body mass index registers at 25.6 kg/m². Systemic screening shows no peripheral lymphadenopathy or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "9 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 30/35 (severe LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

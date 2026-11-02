@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_b0321645a5de",
+  "pid": "PT-pseudo_b0321645a5de",
+  "task": 1,
+  "psa": 7.8,
+  "age": 57,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.333,
+  "psav": 1.01,
+  "psap": 6.6,
+  "vol": 23.44,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8538012,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 7.8 ng/mL. PI-RADS 5. PSAD 0.33. Prostate volume 23 mL. DRE nodus. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "180 cm",
+    "bmi": "24.7",
+    "bp": "139/74 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Current smoker (31 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Feb 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Progressive PSA elevation alongside a prior prostate cancer diagnosis necessitates re-evaluation."
+    },
+    {
+      "s": "History",
+      "t": "Aged 57-year-old, the patient works as a secondary school teacher and was first evaluated for a PSA elevation in late 2023. Marital: Married. Living: Lives alone, relying on his spouse as his primary emergency contact. He carries a prior biopsy bucket \"Positive\" status. He cycles roughly 20 kilometres twice each week, abstains from alcohol, and remains a current smoker (31 pack-yr). Urinary symptoms are absent, reflected by an IPSS score of 1. Hearing impairment is present, leading him to request written summaries during consultations. An annual influenza vaccination was administered by the GP practice nurse recently. Occasional lower back stiffness occurs after prolonged teaching days due to standing at the blackboard, yet he denies radiating pain or neurological deficits. Full mobility persists following an arthroscopic knee procedure for a meniscal tear five years prior. Comorbidities: none. Active medication: None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Nodus in the right peripheral zone presents as a firm, irregular palpable lesion. The remaining prostatic tissue feels symmetrically smooth, lacking other focal abnormalities. General examination remains unremarkable, displaying normal cardiovascular and respiratory parameters. The patient appears well-nourished, registering a BMI of 24.7."
+    }
+  ],
+  "occupation": "secondary school teacher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

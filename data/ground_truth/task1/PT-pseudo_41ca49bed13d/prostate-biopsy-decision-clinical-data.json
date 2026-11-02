@@ -1,0 +1,97 @@
+{
+  "radiology_report": "Subject: Multiparametric MRI Prostate | Date: 28 Jan 2025 | Facility: Tergooi MC\n\nClinical Indication:\nClinical suspicion of prostate malignancy accompanies a PSA reading of 14.0 ng/mL.\n\nFINDINGS:\nProstatic tissue occupies 19.07 mL. T2 sequences highlight a 12 mm focus of hypointensity within the right anterior mid-gland peripheral zone. High b-value DWI shows intense restricted diffusion, mirrored by corresponding ADC hypointensity. DCE sequences capture prompt focal enhancement against adjacent tissue. Capsular integrity remains preserved; neurovascular bundles are spared. No seminal vesicle invasion, extraprostatic spread, suspicious nodal enlargement, or skeletal abnormalities are detected.\n\nIMPRESSION:\nPI-RADS 4\nProstate volume 19.07 mL.\nPSA density 0.734 ng/mL/mL.\ncsPCa predicted probability 0.8159218.",
+  "previous_notes": [
+    {
+      "date": "07 Oct 2024",
+      "author": "Dr. L. Smits (GP)",
+      "text": "Subsequent review highlights a progressive PSA trajectory, climbing from 12.0 ng/mL recorded in April 2024 to 14.0 ng/mL on recent assays. Accompanying deterioration in lower urinary tract symptoms prompted referral for expert consultation and advanced cross-sectional imaging."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Aug 2022",
+      "val": 2.3
+    },
+    {
+      "date": "Jun 2023",
+      "val": 4.2
+    },
+    {
+      "date": "Apr 2024",
+      "val": 7.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 14.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "14.0 ng/mL",
+      "date": "26 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.97 ng/mL",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.9 g/dL",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.0 x10^9/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "196 x10^9/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "86 umol/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.6 nmol/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "62 U/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "230 U/L",
+      "date": "26 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "Yes"
+}

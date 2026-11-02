@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_2cd88bcdf81c",
+  "pid": "PT-pseudo_2cd88bcdf81c",
+  "task": 1,
+  "psa": 12.0,
+  "age": 73,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.313,
+  "psav": 2.57,
+  "psap": 12.1,
+  "vol": 38.29,
+  "dre": "Not done",
+  "bx": "Negative",
+  "cspca": 0.8336016,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 12 ng/mL. PI-RADS 4. PSAD 0.31. Prostate volume 38 mL. csPCa 0.83.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "189 cm",
+    "bmi": "20.7",
+    "bp": "116/67 mmHg",
+    "hr": "76 bpm",
+    "smoking": "Current smoker (25 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation of prostate-specific antigen levels alongside a previously negative biopsy necessitates clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "Most recent prostate-specific antigen measurement stands at 12.0 ng/mL, recorded in January 2025. At seventy-three years of age, this divorced retired carpenter resides independently while sustaining an active routine that includes biweekly tennis matches. A substantial smoking history of 25 pack-yr remains current. Lower urinary tract symptoms are negligible, scoring merely 2 on the IPSS scale, with complete denial of hematuria or pelvic discomfort. Weekly alcohol intake averages twenty-six units, and recent visits covered standard dental care alongside endocrine screening for thyroid surveillance. Invasive interventions provoke marked anxiety, prompting a request for detailed explanations and extended consultation periods. Past medical background remains clear of comorbidities, with no prescribed medications and zero documented allergies."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: N/A, mobility: N/A, asymmetry: N/A. The examination was omitted entirely because of scheduling limitations and the patient’s explicit preference. General assessment shows stable parameters: blood pressure sits at 116/67 mmHg, heart rate rests at 76 bpm, and body mass index measures 20.7. Palpation of the abdomen yields a soft, non-tender response without detectable masses or organ enlargement."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Divorced",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "26 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

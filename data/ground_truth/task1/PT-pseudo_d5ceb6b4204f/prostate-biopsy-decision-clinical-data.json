@@ -1,0 +1,102 @@
+{
+  "radiology_report": "Subject: Multiparametric MRI of the Prostate | Date: 10 Jan 2025 | Facility: Amsterdam UMC (AMC campus)\n\nClinical indication: Surveillance after a previously positive biopsy; current PSA stands at 4.1 ng/mL with clinical suspicion for clinically significant disease.\n\nFINDINGS:\nThe gland measures 22.65 mL in volume. T2-weighted sequences highlight an asymmetric focal hypointensity in the right mid-gland peripheral zone, spanning roughly 12 mm. Diffusion-weighted imaging shows marked restriction, mirrored by correspondingly low apparent diffusion coefficient values. Dynamic contrast enhancement demonstrates early, focal uptake compared to adjacent tissue. There is no evidence of extraprostatic extension or seminal vesicle invasion. The central zone appears normal without notable benign enlargement. Pelvic lymph nodes are unremarkable. Skeletal survey reveals no suspicious osseous abnormalities.\n\nIMPRESSION:\nPI-RADS 4 lesion situated in the right mid-gland peripheral zone.\nProstate volume 22.65 mL; PSA density 0.181 ng/mL/mL.\ncsPCa predicted probability 0.8003183.",
+  "previous_notes": [
+    {
+      "date": "18 May 2024",
+      "author": "Dr. C. Peters (GP)",
+      "text": "18 May 2024 - Dr. C. Peters (GP)\nConsultation focused on tracking the ascending PSA trajectory. An earlier reading from July 2023 recorded 1.7 ng/mL, followed by a January 2024 measurement of 2.2 ng/mL. The individual notes stable, mild lower urinary tract complaints while continuing a consistent running schedule. Laboratory panels were ordered to track the progression, and a specialist urology referral was processed given the steady increase and the history of a previously positive biopsy."
+    },
+    {
+      "date": "23 Jul 2023",
+      "author": "Dr. C. Peters (GP)",
+      "text": "23 Jul 2023 - Dr. C. Peters (GP)\nStandard check-in following the first PSA elevation. The latest result measures 1.7 ng/mL, sitting just above the standard laboratory reference range. Urinary function remains unaffected, and he continues residing in his assisted-living residence. A follow-up PSA test was planned for January to calculate velocity, accompanied by routine metabolic panels."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jul 2023",
+      "val": 1.0
+    },
+    {
+      "date": "Jan 2024",
+      "val": 1.2
+    },
+    {
+      "date": "Jul 2024",
+      "val": 3.4
+    },
+    {
+      "date": "Jan 2025",
+      "val": 4.1
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "4.1 ng/mL",
+      "date": "30 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.48 ng/mL",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "12%",
+      "date": "30 Nov 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.3 g/dL",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.0 x10^9/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "153 x10^9/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "81 umol/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "13.3 nmol/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "68 U/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "185 U/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

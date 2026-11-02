@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_249def42388a",
+  "pid": "PT-pseudo_249def42388a",
+  "task": 1,
+  "psa": 7.6,
+  "age": 78,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.236,
+  "psav": 0.84,
+  "psap": 5.7,
+  "vol": 32.25,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.82135016,
+  "medhx": "Type 2 diabetes",
+  "meds": "empagliflozin",
+  "notes": "PSA 7.6 ng/mL. PI-RADS 5. PSAD 0.24. Prostate volume 32 mL. DRE nodus. csPCa 0.82.",
+  "pmhx": [
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "104 kg",
+    "height": "190 cm",
+    "bmi": "28.8",
+    "bp": "136/96 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Current smoker (29 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation alongside recent multiparametric MRI results prompted this clinical evaluation."
+    },
+    {
+      "s": "History",
+      "t": "Now 78 years old, this widowed civil engineer recently retired and moved to the region half a year ago. He shares a home with his sister, while his adult son handles daily logistics and serves as his lasting power of attorney. His prior biopsy bucket remains \"None\". Lower urinary tract complaints are entirely absent, yielding an IPSS score of zero, and he explicitly denies pelvic discomfort or blood in the urine. His medical background includes well-regulated type 2 diabetes, currently treated with empagliflozin under quarterly diabetes nurse supervision. A substantial 29 pack-yr smoking history is noted, alongside a moderate alcohol consumption pattern of twelve units weekly. He swims once a week to stay fit. Stable osteoarthritis in his right knee is managed with paracetamol, and he recalls a minor appendectomy during his twenties. Otherwise, he reports feeling generally robust."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm with a discrete Nodus localized to the left peripheral zone; asymmetry: clearly present. General examination remains unremarkable, recording a blood pressure of 136/96 mmHg, a heart rate of 64 bpm, and a body mass index of 28.8. No abdominal masses or peripheral lymphadenopathy are detected."
+    }
+  ],
+  "occupation": "civil engineer",
+  "marital": "Widowed",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Adult son (acts as caregiver, lasting power of attorney)",
+  "recent_other": [
+    "Diabetes nurse — quarterly review"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

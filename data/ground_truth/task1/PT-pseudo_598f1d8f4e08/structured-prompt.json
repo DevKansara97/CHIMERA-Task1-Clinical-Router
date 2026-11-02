@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_598f1d8f4e08",
+  "pid": "PT-pseudo_598f1d8f4e08",
+  "task": 1,
+  "psa": 11.7,
+  "age": 69,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.281,
+  "psav": 0.49,
+  "psap": 8.6,
+  "vol": 41.58,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.6642831,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 11.7 ng/mL. PI-RADS 4. PSAD 0.28. Prostate volume 42 mL. csPCa 0.66.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "92 kg",
+    "height": "192 cm",
+    "bmi": "25.0",
+    "bp": "125/75 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (10 pack-yr, quit 2002)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "07 Feb 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Escalation prompted by a sustained PSA increase alongside a history of previous positive biopsy results."
+    },
+    {
+      "s": "History",
+      "t": "At sixty-nine years of age, the patient works as a warehouse manager and has maintained routine oversight since a prior biopsy returned positive several years ago. He underwent robotic-assisted radical prostatectomy at sixty-eight, with subsequent monitoring focused on biochemical markers. Lower urinary tract complaints are absent; his IPSS score sits at 1 out of 35. He denies hematuria, pelvic discomfort, or skeletal pain. A former smoker, he accumulated ten pack-years before ceasing in 2002. Widowed and residing independently, he keeps his adult son close by. He engages in tennis twice weekly and limits alcohol intake to roughly two units per week. With no immediate family, a longtime friend acts as his next-of-kin. Recent referrals to a sleep clinic for suspected obstructive sleep apnoea and to ophthalmology for cataract evaluation remain stable. A minor knee arthroscopy in 2018 addressed a meniscal tear without leaving residual functional deficits. Given his residence exceeds ninety minutes from the clinic, he favors telehealth consultations when clinically suitable."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: unrestricted; asymmetry: absent. The gland appears symmetrically enlarged without palpable irregularities. General inspection shows stable vital parameters and no evidence of systemic disease or peripheral lymphadenopathy. Abdominal palpation reveals a soft, non-tender contour with no palpable masses."
+    }
+  ],
+  "occupation": "warehouse manager",
+  "marital": "Widowed",
+  "living": "Lives alone; adult son nearby",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

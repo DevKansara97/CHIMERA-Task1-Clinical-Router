@@ -1,0 +1,22 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "comorbidity": "important",
+    "pirads": "important",
+    "psad": "important",
+    "age": "noted",
+    "bx": "important",
+    "fh": "not_used",
+    "vol": "important",
+    "psa": "important",
+    "dre": "important",
+    "cspca": "important"
+  },
+  "reveal_sequence": [
+    "radiology_report",
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend"
+  ],
+  "free_text": "What was the result of the earlier positive biopsy and the MRI precluding that biopsy? Hard to determine what we are looking at here."
+}

@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_aed2e170b8e6",
+  "pid": "PT-pseudo_aed2e170b8e6",
+  "task": 1,
+  "psa": 86.0,
+  "age": 73,
+  "months": 1,
+  "pirads": "5",
+  "psad": 2.306,
+  "psav": 14.92,
+  "psap": 57.4,
+  "vol": 37.29,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.9527162,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 86 ng/mL. PI-RADS 5. PSAD 2.31. Prostate volume 37 mL. DRE nodus. csPCa 0.95.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "181 cm",
+    "bmi": "25.6",
+    "bp": "111/74 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Specialist assessment required after confirmed malignancy and subsequent PSA elevation."
+    },
+    {
+      "s": "History",
+      "t": "A 73-year-old warehouse manager seeks specialist guidance following prolonged urological tracking. He is married and resides in an independent unit within a retirement community. He is a non-smoker. Lower urinary tract complaints remain minimal, yielding a 4/35 IPSS score. Despite significant anxiety surrounding invasive diagnostics, he requests thorough consultations. His medical history contains no comorbidities, and he takes no active medication, aside from a minor knee arthroscopy more than ten years ago and a recent dermatology check for actinic keratosis monitoring. He explicitly denies bone discomfort, unexplained weight reduction, or blood in the urine."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm; mobility: fixed; asymmetry: palpable nodus in the right lobe. The remaining abdominal and cardiovascular survey shows no anomalies. Vital signs record 111/74 mmHg with a steady pulse of 72 bpm. He demonstrates adequate perfusion and preserves standard functional capacity."
+    }
+  ],
+  "occupation": "warehouse manager",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

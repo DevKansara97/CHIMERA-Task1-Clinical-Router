@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_b00a553261d2",
+  "pid": "PT-pseudo_b00a553261d2",
+  "task": 1,
+  "psa": 4.8,
+  "age": 61,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.07,
+  "psav": 0.39,
+  "psap": 4.8,
+  "vol": 68.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.800129,
+  "medhx": "Chronic kidney disease, Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 4.8 ng/mL. PI-RADS 4. PSAD 0.07. Prostate volume 68 mL. csPCa 0.80.",
+  "pmhx": [
+    "Chronic kidney disease",
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "172 cm",
+    "bmi": "24.3",
+    "bp": "114/61 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Current smoker (25 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment needed due to ongoing prostate-specific antigen elevation after an earlier negative biopsy outcome."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old retired plumber entered the diagnostic pathway in mid-2023 after a prostate-specific antigen reading of 3.5 ng/mL triggered a transrectal biopsy that ultimately returned benign results. Currently residing with his spouse, he experiences only mild lower urinary tract symptoms, registering a score of 4 on the IPSS instrument. His clinical background includes chronic kidney disease and Obesity (BMI >30). He is a Current smoker (25 pack-yr) and takes no active medications. Physical activity remains consistent, featuring cycling sessions of roughly 20 kilometres twice weekly, alongside moderate alcohol intake at 12 units per week. Recent visits to a sleep specialist addressed suspected obstructive sleep apnoea, while mechanical lower back pain was managed through six physiotherapy visits; both conditions remain stable. He has opted out of urological research trials and favors a straightforward approach to ongoing clinical observation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal. The prostate presents as symmetrically enlarged, maintaining a smooth and homogeneous consistency without detectable nodules or asymmetry. Hemodynamic parameters are stable, recording a blood pressure of 114/61 mmHg and a pulse rate of 72 bpm. Systemic assessment reveals no abnormalities, with absent lymphadenopathy and no palpable abdominal masses."
+    }
+  ],
+  "occupation": "retired plumber",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

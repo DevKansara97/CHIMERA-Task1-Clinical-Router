@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "fh": "noted",
+    "dre": "noted",
+    "bx": "important",
+    "psa": "noted",
+    "pirads": "decisive",
+    "psad": "noted",
+    "vol": "noted",
+    "age": "noted",
+    "comorbidity": "noted",
+    "cspca": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Prev biopsy finding is left lobe, MRI finding highly suspicious of ISUP≥2 on right side. Active surveillance, only 1 biopsy session performed (of unclear date and unclear number of needles, unclear if targeted or systematic)."
+}

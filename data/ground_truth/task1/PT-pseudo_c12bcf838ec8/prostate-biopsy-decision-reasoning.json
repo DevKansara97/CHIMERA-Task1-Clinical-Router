@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "comorbidity": "noted",
+    "age": "important",
+    "vol": "important",
+    "bx": "important",
+    "pirads": "important",
+    "cspca": "noted",
+    "fh": "important",
+    "psa": "important",
+    "dre": "important",
+    "psad": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Prev benign biopsy + PIRADS 3 (=no significant lesion) + low PSA-density -> Low longterm risk of lethal prostate cancer. 2yr too short interval for next assessment. suggest new PSA in two years, potentially new MRI with biopsy if PIRADS≥4"
+}

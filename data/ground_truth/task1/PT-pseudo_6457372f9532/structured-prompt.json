@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_6457372f9532",
+  "pid": "PT-pseudo_6457372f9532",
+  "task": 1,
+  "psa": 12.0,
+  "age": 68,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.23,
+  "psav": 1.02,
+  "psap": 12.3,
+  "vol": 52.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.51779693,
+  "medhx": "Hypercholesterolaemia, Chronic kidney disease, Benign prostatic hyperplasia",
+  "meds": "simvastatin, tamsulosin",
+  "notes": "PSA 12 ng/mL. PI-RADS 4. PSAD 0.23. Prostate volume 52 mL. csPCa 0.52.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Chronic kidney disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "63 kg",
+    "height": "172 cm",
+    "bmi": "21.3",
+    "bp": "130/77 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Ex-smoker (36 pack-yr, quit 2017)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation alongside a previously negative biopsy warrants specialist consultation."
+    },
+    {
+      "s": "History",
+      "t": "A retired postal worker, currently 68 years of age, entered initial evaluation for an incidental PSA rise in late 2022, a value that has since advanced to 12.0 ng/mL following a negative systematic biopsy earlier this year. Moderate lower urinary tract symptoms, characterized by nocturia and a diminished stream, are being managed via tamsulosin, yielding an IPSS score of 15. He shares a home with his spouse, engages in light gardening, and follows a largely sedentary lifestyle punctuated by neighborhood walks, alongside a weekly alcohol intake of approximately ten units. Medical background encompasses well-managed hypercholesterolaemia under simvastatin therapy and stage 3 chronic kidney disease, with cardiology assessments in autumn 2024 confirming stable cardiovascular function. An ex-smoker, he accumulated 36 pack-years before ceasing tobacco use in 2017, and previously opted out of prostate cancer research initiatives. He explicitly denies unexplained bone pain, haematuria, or notable weight loss, noting only a resolved right knee arthroscopy from several years prior."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Normal DRE — texture: smooth and rubbery; mobility: unremarkable; asymmetry: absent. The gland presents as symmetrically enlarged without palpable nodules. General survey shows stable vital signs at 130/77 mmHg and a regular pulse of 72 bpm. Abdominal palpation yields a soft, non-tender field with no detectable masses or organomegaly."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 15/35 (moderate LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

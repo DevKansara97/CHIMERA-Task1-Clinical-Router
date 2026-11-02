@@ -1,0 +1,98 @@
+{
+  "radiology_report": "UMCG Groningen | Radiology Department | 10 Feb 2025\nStudy: Multiparametric MRI Prostate\nReason for scan: Re-evaluation after previous prostate cancer diagnosis. Presenting PSA level: 2.4 ng/mL.\nObservations: The gland measures 36.21 mL overall. Mild symmetric hypertrophy is noted, accompanied by a prominent median lobe. At the mid-gland level within the right peripheral zone, a discrete focus spans roughly 8 by 6 mm. T2-weighted sequences display intermediate signal here, matched by restricted diffusion on high b-value DWI and correspondingly low ADC values. Post-contrast dynamic imaging captures early, focal enhancement. There is no evidence of extraprostatic spread, seminal vesicle invasion, or suspicious pelvic lymphadenopathy. Neurovascular bundles remain anatomically preserved.\nConclusion:\nPI-RADS 3 lesion in the right mid peripheral zone. Prostate volume 36.21 mL, PSA density 0.066 ng/mL/mL. csPCa predicted probability 0.76987416.",
+  "previous_notes": [
+    {
+      "date": "23 Aug 2023",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "23 Aug 2023 - Dr. M. Jansen (GP): A review was conducted after the first biopsy confirmed ISUP Grade Group 1 disease. Following a PSA increase to 1.1 ng/mL in February 2023, the patient was directed to the urology outpatient clinic for structured re-evaluation. Mild lower urinary tract symptoms persist, currently managed conservatively with tamsulosin. Routine blood work remains stable, and the patient continues his statin regimen for hypercholesterolaemia."
+    },
+    {
+      "date": "19 Feb 2024",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "19 Feb 2024 - Dr. M. Jansen (GP): Follow-up documentation recorded a PSA rise to 1.9 ng/mL compared to the prior year. Systemic complaints are absent, though mild LUTS align with his established BPH. He maintains a daily cycling commute and shares a home with his spouse and adult child. A routine gastroenterology surveillance colonoscopy concluded without abnormalities."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Feb 2023",
+      "val": 1.2
+    },
+    {
+      "date": "Feb 2024",
+      "val": 1.1
+    },
+    {
+      "date": "Feb 2025",
+      "val": 2.4
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "2.4 ng/mL",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.51 ng/mL",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "12.3 g/dL",
+      "date": "12 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "WBC",
+      "val": "5.6 x10^9/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "197 x10^9/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "78 umol/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.1 nmol/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "103 U/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "173 U/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "comorbidity": "noted",
+    "age": "important",
+    "fh": "noted",
+    "psad": "noted",
+    "pirads": "decisive",
+    "psa": "important",
+    "bx": "noted",
+    "vol": "noted",
+    "cspca": "not_used",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "P5 in a 57 year old man."
+}

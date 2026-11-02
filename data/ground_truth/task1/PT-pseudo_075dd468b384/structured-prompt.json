@@ -1,0 +1,70 @@
+{
+  "case_id": "PT-pseudo_075dd468b384",
+  "pid": "PT-pseudo_075dd468b384",
+  "task": 1,
+  "psa": 13.2,
+  "age": 66,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.14,
+  "psav": 2.7,
+  "psap": 10.2,
+  "vol": 96.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.6351894,
+  "medhx": "Hypertension, Hypercholesterolaemia",
+  "meds": "amlodipine, atorvastatin, simvastatin",
+  "notes": "PSA 13.2 ng/mL. PI-RADS 4. PSAD 0.14. Prostate volume 96 mL. DRE nodus. csPCa 0.64.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "60 kg",
+    "height": "178 cm",
+    "bmi": "18.9",
+    "bp": "146/82 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (33 pack-yr, quit 2010)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Specialist reassessment sought due to a steadily rising PSA curve alongside historical biopsy results."
+    },
+    {
+      "s": "History",
+      "t": "A 66-year-old office administrator arrives for specialist review after an initial PSA elevation in 2022. Married and settled in an independent unit of a retirement community, he walks 45 minutes daily and avoids alcohol entirely. His medical background encompasses hypertension and hypercholesterolaemia, treated with amlodipine, atorvastatin, and simvastatin. A substantial smoking history of 33 pack-years was concluded in 2010. Lower urinary tract complaints remain mild, scoring 5 out of 35 on the IPSS. Documented hypersensitivity to NSAIDs exists, necessitating large-print correspondence, and his brother serves as his designated next of kin. Unrelated to the current urological focus, he had uncomplicated cataract extraction in 2018, recently visited a sleep clinic for suspected obstructive sleep apnoea, and maintains routine podiatry appointments for foot care."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm; asymmetry: present; location: left posterior peripheral zone (Nodus). The remainder of the abdominal and cardiovascular assessment proves unremarkable, recording a blood pressure of 146/82 mmHg and a heart rate of 70 bpm. General inspection reveals a slender physique with a BMI of 18.9, alongside adequate nutritional status and an absence of acute distress."
+    }
+  ],
+  "occupation": "office administrator",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

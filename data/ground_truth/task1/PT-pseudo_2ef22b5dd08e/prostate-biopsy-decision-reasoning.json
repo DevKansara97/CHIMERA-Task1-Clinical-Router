@@ -1,0 +1,21 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "vol": "noted",
+    "dre": "noted",
+    "bx": "noted",
+    "fh": "noted",
+    "psad": "noted",
+    "pirads": "decisive",
+    "comorbidity": "not_used",
+    "age": "important",
+    "cspca": "not_used"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "P4 in 66 year old patient."
+}

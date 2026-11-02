@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_a32d7e3c3cdf",
+  "pid": "PT-pseudo_a32d7e3c3cdf",
+  "task": 1,
+  "psa": 2.5,
+  "age": 72,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 0.32,
+  "psap": 2.4,
+  "vol": 22.83,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.83914113,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 2.5 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 23 mL. DRE nodus. csPCa 0.84.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "184 cm",
+    "bmi": "24.2",
+    "bp": "108/74 mmHg",
+    "hr": "82 bpm",
+    "smoking": "Ex-smoker (37 pack-yr, quit 2001)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "07 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Escalating PSA markers alongside fresh MRI results prompt clinical attention following his initial prostatectomy."
+    },
+    {
+      "s": "History",
+      "t": "At seventy-two years of age, he works as a graphic designer. Marital: Widowed. Living: Recently relocated; lives with sister. He carries a prior biopsy bucket 'Positive' designation and remains under active surveillance. He holds a 37 pack-year smoking record but ceased in 2001. Comorbidities: none. Active medication: None. Aside from a routine cataract screening last month, his health remains stable. He engages in light home-based weight training twice weekly and limits alcohol intake to roughly five units each week. He explicitly denies pelvic discomfort, hematuria, or unexplained weight reduction."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a firm, discrete nodule approximately 1 cm in size with irregular borders, located at the base of the right peripheral zone. Remaining prostatic tissue feels symmetrically smooth without other focal irregularities. Vital signs remain steady at 108/74 mmHg blood pressure and 82 bpm heart rate. General inspection shows no inguinal or supraclavicular lymphadenopathy."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Widowed",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "5 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

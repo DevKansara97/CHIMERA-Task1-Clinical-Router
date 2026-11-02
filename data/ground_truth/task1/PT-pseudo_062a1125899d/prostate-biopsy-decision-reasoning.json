@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psa": "important",
+    "cspca": "not_used",
+    "dre": "noted",
+    "psad": "noted",
+    "vol": "not_used",
+    "bx": "important",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "age": "important",
+    "pirads": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "PIRADS 4 lesion in 68 year old man with heavy comorbidity. Earlier negative biopsy."
+}

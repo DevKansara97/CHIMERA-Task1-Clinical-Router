@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_2eef4115a253",
+  "pid": "PT-pseudo_2eef4115a253",
+  "task": 1,
+  "psa": 2.11,
+  "age": 59,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.058,
+  "psav": -0.04,
+  "psap": 2.1,
+  "vol": 36.08,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.7737494,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 2.11 ng/mL. PI-RADS 4. PSAD 0.06. Prostate volume 36 mL. csPCa 0.77.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "85 kg",
+    "height": "182 cm",
+    "bmi": "25.7",
+    "bp": "117/84 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Ex-smoker (36 pack-yr, quit 2021)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Feb 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Evaluation requested after imaging revealed a left peripheral zone abnormality alongside a recent PSA elevation."
+    },
+    {
+      "s": "History",
+      "t": "At 59 years of age, the patient works as a retired shopkeeper. He is divorced and currently resides with his partner. A former smoker, he accumulated 36 pack-years before cessation in 2021. Daily activity remains largely sedentary, punctuated by brief walks. Moderate voiding complaints dominate the history, specifically nocturia and a diminished urinary stream, correlating with an IPSS score of 19. He explicitly denies haematuria or pelvic discomfort. No chronic comorbidities exist, and he takes no active medications. Alcohol intake averages two units per week. An Arabic interpreter will be required during the consultation to facilitate precise dialogue."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: symmetrically smooth; consistency: normal; asymmetry: absent; nodules: none. Vital parameters remain stable, recording a blood pressure of 117/84 mmHg alongside a regular heart rate of 73 bpm. Thoracic auscultation reveals clear lung fields, and no peripheral oedema is observed."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Pulmonary function test — known COPD follow-up",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "decisive",
+    "cspca": "noted",
+    "bx": "important",
+    "fh": "not_used",
+    "comorbidity": "noted",
+    "psad": "decisive",
+    "psa": "important",
+    "vol": "important",
+    "age": "noted",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Biopsy-naive PIRADS 5 needs biopsy"
+}

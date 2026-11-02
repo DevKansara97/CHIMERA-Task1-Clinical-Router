@@ -1,0 +1,22 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "fh": "not_used",
+    "bx": "decisive",
+    "cspca": "noted",
+    "psad": "important",
+    "age": "decisive",
+    "psa": "important",
+    "vol": "noted",
+    "pirads": "decisive",
+    "comorbidity": "important",
+    "dre": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Young patient with high risk disease, should be recommended curative treatment. Biopsy report congruent with MRI, probably caught the index cancer at diagnosis. Highrisk flags are Gleason 5 pattern, cribriform pattern. Rather than new biopsy, consider low threshold for reevaluate MRI (T3-disease?, SVI?, nodes?) and possibly PSMA-PET for metastasis evaluation. Assess comorbidity closely."
+}

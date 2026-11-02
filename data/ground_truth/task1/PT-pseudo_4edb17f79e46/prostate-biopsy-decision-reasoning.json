@@ -1,0 +1,20 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "pirads": "important",
+    "psad": "decisive",
+    "cspca": "noted",
+    "comorbidity": "noted",
+    "dre": "noted",
+    "fh": "not_used",
+    "bx": "noted",
+    "psa": "decisive",
+    "age": "important",
+    "vol": "important"
+  },
+  "reveal_sequence": [
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Again earlier MRI report is missing, If new PRADS 4 lesion biopsy is needed as PSA is rising as well"
+}

@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "bx": "important",
+    "comorbidity": "noted",
+    "pirads": "important",
+    "psa": "important",
+    "age": "noted",
+    "fh": "noted",
+    "cspca": "not_used",
+    "dre": "important",
+    "vol": "noted",
+    "psad": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Low risk PC with PSA <10. No red flags on biopsy or MRI, reasonably low PSA density. MRI finding minor and probably penetrated by systematic biopsy core (peripheral zone). Entered active surveillance this year, unclear to me how long time ago biopsy was. Slight recommendation new MRI two years with low threshold for biopsy then."
+}

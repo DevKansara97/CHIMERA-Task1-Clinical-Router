@@ -1,0 +1,19 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "vol": "noted",
+    "cspca": "noted",
+    "psa": "noted",
+    "dre": "noted",
+    "fh": "not_used",
+    "age": "important",
+    "psad": "important",
+    "bx": "decisive",
+    "comorbidity": "noted",
+    "pirads": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes"
+  ],
+  "free_text": "PRADS 4 with low-PSA-density can be followed up, I need results of earlier biopsy to make a definite call"
+}

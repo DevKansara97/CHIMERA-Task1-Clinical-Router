@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psad": "noted",
+    "cspca": "not_used",
+    "comorbidity": "not_used",
+    "vol": "noted",
+    "psa": "noted",
+    "bx": "noted",
+    "fh": "noted",
+    "pirads": "decisive",
+    "age": "important",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "P5 in 63 year old man."
+}

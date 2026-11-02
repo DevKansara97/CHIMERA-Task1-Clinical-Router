@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_259484ae733f",
+  "pid": "PT-pseudo_259484ae733f",
+  "task": 1,
+  "psa": 5.3,
+  "age": 65,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.092,
+  "psav": 1.37,
+  "psap": 4.3,
+  "vol": 57.56,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.79137033,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 5.3 ng/mL. PI-RADS 4. PSAD 0.09. Prostate volume 58 mL. csPCa 0.79.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "115 kg",
+    "height": "190 cm",
+    "bmi": "31.9",
+    "bp": "132/83 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (30 pack-yr, quit 2021)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current visit addresses a PSA escalation to 5.3 ng/mL against the backdrop of a prior biopsy yielding ISUP grade group 2."
+    },
+    {
+      "s": "History",
+      "t": "First assessed for an elevated PSA reading in late 2023, this 65-year-old man has undergone regular serial testing since. A 30 pack-year smoking history is noted, with cessation achieved in 2021. He operates as an independent delivery driver and requested appointment times that accommodate his schedule. Married status applies, yet he resides by himself; his adult daughter acts as the main emergency contact. Lower urinary tract complaints are moderate, quantified at an IPSS of 13, and currently require no pharmacological intervention. Daily walks lasting twenty minutes form part of his routine, alongside a weekly alcohol consumption capped at two units. A 2018 knee arthroscopy stands as his only significant past surgical event, while recent memory and hearing evaluations returned normal results."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; dimensions: symmetrically enlarged; palpation: negative for nodules or asymmetry. Systemic assessment shows stable vitals with no evidence of acute or chronic systemic disease."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Audiology — hearing test",
+    "Pulmonary function test — known COPD follow-up"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

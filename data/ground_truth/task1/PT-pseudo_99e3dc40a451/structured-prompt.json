@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_99e3dc40a451",
+  "pid": "PT-pseudo_99e3dc40a451",
+  "task": 1,
+  "psa": 4.7,
+  "age": 61,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.13,
+  "psav": 0.73,
+  "psap": 3.6,
+  "vol": 37.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8442101,
+  "medhx": "Type 2 diabetes, COPD, Chronic kidney disease, Osteoarthritis",
+  "meds": "metformin, salbutamol PRN, paracetamol PRN",
+  "notes": "PSA 4.7 ng/mL. PI-RADS 5. PSAD 0.13. Prostate volume 37 mL. DRE nodus. csPCa 0.84.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "COPD",
+    "Chronic kidney disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "192 cm",
+    "bmi": "22.8",
+    "bp": "111/90 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Ex-smoker (22 pack-yr, quit 2017)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Escalating PSA levels combined with an irregular digital rectal examination prompted this clinical assessment."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old delivery driver entered the clinical pathway after a late-2022 PSA elevation. Type 2 diabetes is managed via metformin, while COPD remains stable with PRN salbutamol. He cycles to work five days each week and restricts alcohol intake to seven units weekly. Asymptomatic varicose veins were previously evaluated by vascular surgery, and paracetamol PRN is taken for osteoarthritis-related knee discomfort. Chronic kidney disease is also part of his medical background. He resides alone yet shares the residence with an unmarried partner who acts as his main contact. Lower urinary tract symptoms remain minimal, registering a score of 5 on the IPSS questionnaire. His smoking history totals 22 pack-years, having ceased in 2017."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: prostate demonstrates asymmetric enlargement with a firm, discrete Nodus palpable in the right posterior peripheral zone. General assessment shows clear lung fields, absent peripheral oedema, stable vital signs, and regular cardiovascular auscultation."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "7 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "UMCG (Groningen)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

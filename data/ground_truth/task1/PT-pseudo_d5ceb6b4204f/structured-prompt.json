@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_d5ceb6b4204f",
+  "pid": "PT-pseudo_d5ceb6b4204f",
+  "task": 1,
+  "psa": 4.1,
+  "age": 72,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.181,
+  "psav": 0.77,
+  "psap": 3.3,
+  "vol": 22.65,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8003183,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.1 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 23 mL. csPCa 0.80.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "90 kg",
+    "height": "173 cm",
+    "bmi": "30.1",
+    "bp": "130/80 mmHg",
+    "hr": "58 bpm",
+    "smoking": "Ex-smoker (10 pack-yr, quit 2021)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment prompted by a PSA increase to 4.1 ng/mL alongside a previously confirmed positive biopsy result."
+    },
+    {
+      "s": "History",
+      "t": "A 72-year-old retired bus driver, widowed, entered the workup for a PSA elevation in mid-2023, a value that has now climbed to 4.1 ng/mL. He resides in an assisted-living facility situated over 90 minutes from the hospital, prompting a preference for telephone monitoring when clinically suitable. Despite his years, his lifestyle remains vigorous; he jogs 5 km three times each week and experiences only slight urinary bother, scoring a 7 on the IPSS. Tobacco use ceased entirely in 2021 after accumulating 10 pack-years, and he avoids alcohol. No comorbidities are present, and he takes no medications. Unrelated recent medical encounters include a dermatology visit for actinic keratosis monitoring and a completed six-session physiotherapy regimen addressing mechanical lower back pain. He maintains baseline functionality without systemic complaints."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: uniformly smooth; mobility: unrestricted; asymmetry: absent. The prostate appears symmetrically benign with no palpable nodules, confirming a normal digital rectal assessment. General inspection shows a well-nourished gentleman free of acute distress, maintaining stable vital signs and clear breath sounds. Abdominal palpation yields no masses or organomegaly, remaining entirely unremarkable."
+    }
+  ],
+  "occupation": "retired bus driver",
+  "marital": "Widowed",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

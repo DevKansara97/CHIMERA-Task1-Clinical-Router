@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_7dd989c35f87",
+  "pid": "PT-pseudo_7dd989c35f87",
+  "task": 1,
+  "psa": 14.0,
+  "age": 67,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.08,
+  "psav": 3.56,
+  "psap": 10.3,
+  "vol": 168.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8381252,
+  "medhx": "Hypertension, Chronic kidney disease, Osteoarthritis",
+  "meds": "amlodipine, valsartan, paracetamol PRN",
+  "notes": "PSA 14 ng/mL. PI-RADS 5. PSAD 0.08. Prostate volume 168 mL. csPCa 0.84.",
+  "pmhx": [
+    "Hypertension",
+    "Chronic kidney disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "94 kg",
+    "height": "184 cm",
+    "bmi": "27.8",
+    "bp": "128/86 mmHg",
+    "hr": "78 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "16 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent prostate-specific antigen elevation alongside previously documented high-grade histology necessitates clinical re-assessment."
+    },
+    {
+      "s": "History",
+      "t": "First noted for a prostate-specific antigen surge during early 2022, this gentleman has since undergone serial monitoring through repeated blood draws and imaging studies. A retired civil servant who shares his home with his spouse, he maintains a biweekly tennis schedule and abstains from tobacco. Urinary complaints remain negligible, scoring just 2 out of 35 on the IPSS questionnaire, while haematuria and pelvic pain are entirely absent. Management of stage 3 chronic kidney disease and hypertension relies on daily amlodipine and valsartan administration. Osteoarthritis symptoms are occasionally managed with paracetamol taken as needed. Additional healthcare visits included a recent endocrinology thyroid panel yielding stable values and a pain clinic consultation for chronic right shoulder discomfort, both unrelated to his urological status. Systemic complaints, weight fluctuations, or skeletal pain are denied, with overall functional status remaining robust."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Prostate presents as symmetrically enlarged with a smooth, uniform consistency; palpation reveals no focal irregularities or asymmetrical hardening. General assessment shows stable vital parameters, clear abdominal percussion without tenderness or masses, and absent hepatosplenomegaly or peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

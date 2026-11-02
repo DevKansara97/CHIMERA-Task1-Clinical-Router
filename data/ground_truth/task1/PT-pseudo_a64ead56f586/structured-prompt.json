@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_a64ead56f586",
+  "pid": "PT-pseudo_a64ead56f586",
+  "task": 1,
+  "psa": 7.0,
+  "age": 55,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.12,
+  "psav": 1.61,
+  "psap": 4.9,
+  "vol": 59.55,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8517409,
+  "medhx": "Hypertension",
+  "meds": "amlodipine, lisinopril, metoprolol",
+  "notes": "PSA 7 ng/mL. PI-RADS 5. PSAD 0.12. Prostate volume 60 mL. csPCa 0.85.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "88 kg",
+    "height": "171 cm",
+    "bmi": "30.1",
+    "bp": "119/78 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (34 pack-yr, quit 2016)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "31 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current PSA elevation and previous biopsy outcomes warrant clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "A 55-year-old male initially investigated for a late 2022 PSA elevation underwent a diagnostic biopsy that established ISUP Group 3 disease. Hypertension remains managed with amlodipine, lisinopril, and metoprolol, with cardiology tracking showing stable parameters. A retired bank clerk, he resides alone despite being married; his spouse acts as his main contact and attends clinic visits. He keeps a BMI of 30.1, quit smoking in 2016 after a 34 pack-year habit, and jogs 5 km three times weekly. Lower urinary tract symptoms score 8/35 on the IPSS, remaining mild without catheterisation or TURP history. Podiatry visits maintain stable foot care, while six physiotherapy sessions addressed chronic lower back pain. Large-print correspondence is requested to accommodate visual impairment."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Prostate appears symmetrically enlarged, smooth to palpation, lacking nodules or asymmetry. General assessment shows stable vitals (BP 119/78 mmHg, HR 70 bpm) and a soft, non-tender abdomen."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 8/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

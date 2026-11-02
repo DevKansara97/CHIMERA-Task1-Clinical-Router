@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psad": "noted",
+    "psa": "important",
+    "comorbidity": "not_used",
+    "fh": "noted",
+    "vol": "noted",
+    "age": "noted",
+    "dre": "important",
+    "cspca": "not_used",
+    "pirads": "important",
+    "bx": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "radiology_report",
+    "psa_trend"
+  ],
+  "free_text": "Need to know if the P5 lesion has grown in size. If not no biopsy."
+}

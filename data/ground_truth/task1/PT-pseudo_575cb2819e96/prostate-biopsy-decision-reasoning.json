@@ -1,0 +1,22 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "pirads": "decisive",
+    "fh": "not_used",
+    "cspca": "noted",
+    "psa": "noted",
+    "comorbidity": "noted",
+    "bx": "important",
+    "age": "noted",
+    "psad": "important",
+    "vol": "noted",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "radiology_report",
+    "psa_trend",
+    "laboratory_results"
+  ],
+  "free_text": "Biopsy only when PIRADS 5 is new"
+}

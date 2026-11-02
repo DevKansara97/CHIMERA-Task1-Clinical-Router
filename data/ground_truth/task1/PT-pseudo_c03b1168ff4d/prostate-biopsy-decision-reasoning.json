@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "noted",
+    "pirads": "important",
+    "age": "important",
+    "fh": "noted",
+    "comorbidity": "important",
+    "dre": "noted",
+    "vol": "noted",
+    "cspca": "not_used",
+    "bx": "decisive",
+    "psad": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Active surveillance of unfavorable intermediate risk disease, no previous re-biopsy. Likely biopsied index lesion on MRI, but note small tumor extension on biopsy (4mm) as compared with MRI lesion size (16mm). If biopsy with higher risk disease, likely recommendation on curative treatment. Plan talk to address LUTS/IPSS. If not curative treatment, potentially BPH treatment. 74yrs old will affect treatment plan."
+}

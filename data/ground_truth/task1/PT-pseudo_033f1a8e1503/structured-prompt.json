@@ -1,0 +1,69 @@
+{
+  "case_id": "PT-pseudo_033f1a8e1503",
+  "pid": "PT-pseudo_033f1a8e1503",
+  "task": 1,
+  "psa": 5.9,
+  "age": 60,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.199,
+  "psav": 1.83,
+  "psap": 4.1,
+  "vol": 29.71,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.84285355,
+  "medhx": "Hypertension, Coronary artery disease, Benign prostatic hyperplasia",
+  "meds": "amlodipine, aspirin 80 mg, atorvastatin, metoprolol, tamsulosin",
+  "notes": "PSA 5.9 ng/mL. PI-RADS 5. PSAD 0.20. Prostate volume 30 mL. csPCa 0.84.",
+  "pmhx": [
+    "Hypertension",
+    "Coronary artery disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "184 cm",
+    "bmi": "24.2",
+    "bp": "113/77 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Ex-smoker (31 pack-yr, quit 2022)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Routine monitoring after mpMRI completion and detection of an upward PSA trajectory."
+    },
+    {
+      "s": "History",
+      "t": "A 60-year-old retired carpenter who has never married and currently resides with his partner has remained under routine observation since an initial PSA elevation was flagged in April 2022. He walks twenty minutes daily and ceased tobacco use completely in 2022, concluding a thirty-one pack-year smoking history. His pharmacological profile consists of amlodipine, metoprolol, aspirin 80 mg, atorvastatin, and tamsulosin, the latter addressing benign prostatic hyperplasia that yields minor bothersome symptoms (IPSS 7/35). Underlying hypertension and coronary artery disease remain stable. No prior biopsy history has been recorded. Recent outpatient visits covered audiological screening, pulmonary function tests for established COPD, and dermatological evaluation for actinic keratosis. A cholecystectomy performed during his forties represents his only surgical history. He reports no acute complaints or systemic symptoms beyond these managed chronic conditions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a uniformly smooth prostatic contour, free of nodularity or asymmetrical firmness. Systemic assessment shows no acute abnormalities, with cardiovascular and pulmonary signs aligning with his established medical background."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Pulmonary function test — known COPD follow-up",
+    "Audiology — hearing test"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

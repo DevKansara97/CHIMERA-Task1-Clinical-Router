@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_9835e080606c",
+  "pid": "PT-pseudo_9835e080606c",
+  "task": 1,
+  "psa": 15.0,
+  "age": 61,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.25,
+  "psav": 3.87,
+  "psap": 8.6,
+  "vol": 60.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7430781,
+  "medhx": "Hypertension, Hypercholesterolaemia, Coronary artery disease",
+  "meds": "valsartan, lisinopril, atorvastatin, rosuvastatin",
+  "notes": "PSA 15 ng/mL. PI-RADS 5. PSAD 0.25. Prostate volume 60 mL. csPCa 0.74.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "97 kg",
+    "height": "179 cm",
+    "bmi": "30.3",
+    "bp": "132/77 mmHg",
+    "hr": "46 bpm",
+    "smoking": "Ex-smoker (39 pack-yr, quit 2018)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Concerns center on a marked prostate-specific antigen escalation to 15.0 ng/mL necessitating a comprehensive review of previous biopsy outcomes."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old musician (semi-retired) returns for assessment after a pronounced PSA elevation. Severe lower urinary tract symptoms dominate his clinical picture, yielding an IPSS score of 27/35 and substantially disrupting daily activities. Comorbidities include hypertension, hypercholesterolaemia, and coronary artery disease, currently addressed with valsartan, lisinopril, atorvastatin, and rosuvastatin. Smoking history totals 39 pack-years, cessation occurring in 2018. Lifestyle habits involve weekly swimming and roughly three weekly alcohol units. Residential status places him living alone with an unmarried partner, while an adult daughter functions as his designated contact; distance exceeding ninety minutes to the clinic has fostered a preference for telephonic reviews. Routine podiatry visits continue, and a recent orthopaedic check addressed a chronic knee issue, with no novel systemic complaints or skeletal pain documented."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Prostate exhibits normal characteristics, presenting with uniform symmetry, smooth texture, firm consistency, and devoid of nodules or asymmetrical regions. Vital signs demonstrate a resting heart rate of 46 bpm alongside a blood pressure reading of 132/77 mmHg. General survey remains unremarkable; abdominal inspection and palpation uncover no masses or organomegaly, and peripheral lymph nodes are non-palpable."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "Orthopaedic outpatient — knee follow-up"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 27/35 (severe LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

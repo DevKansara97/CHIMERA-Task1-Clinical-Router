@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_b28f2ad6069e",
+  "pid": "PT-pseudo_b28f2ad6069e",
+  "task": 1,
+  "psa": 19.0,
+  "age": 64,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.217,
+  "psav": 5.89,
+  "psap": 25.8,
+  "vol": 87.5,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7858892,
+  "medhx": "Hypertension, Chronic kidney disease, Benign prostatic hyperplasia",
+  "meds": "amlodipine, valsartan, metoprolol",
+  "notes": "PSA 19 ng/mL. PI-RADS 4. PSAD 0.22. Prostate volume 88 mL. csPCa 0.79.",
+  "pmhx": [
+    "Hypertension",
+    "Chronic kidney disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "166 cm",
+    "bmi": "26.1",
+    "bp": "134/72 mmHg",
+    "hr": "87 bpm",
+    "smoking": "Ex-smoker (27 pack-yr, quit 2018)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical assessment requested after earlier biopsy confirmation and latest multiparametric MRI results."
+    },
+    {
+      "s": "History",
+      "t": "At 64 years of age, this retired warehouse worker initially came to medical attention due to an incidental PSA elevation noted in late 2022. He is married and currently resides on his own. His medical background encompasses hypertension and chronic kidney disease, managed through amlodipine, valsartan, and metoprolol. Benign prostatic hyperplasia is also part of his clinical picture. He reports minimal lower urinary tract symptoms, scoring a 1 on the IPSS questionnaire. Alcohol consumption remains steady at roughly nine units weekly. A former smoker, he accumulated 27 pack-years before ceasing in 2018. Physical activity is limited to chair-based exercises, though his adult son provides regular support. Aside from urological concerns, he deals with mild bilateral knee osteoarthritis and recently visited audiology for a standard hearing check. He has expressed significant apprehension about invasive interventions, asking for extended time to review potential directions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and rubbery; mobility: symmetrically enlarged; asymmetry: absent, no palpable nodules detected. General examination remains within normal limits. Blood pressure reads 134/72 mmHg, and heart rate is regular at 87 bpm. Palpation of the abdomen reveals a soft, non-tender surface without evidence of masses or organomegaly."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test"
+  ],
+  "alcohol": "9 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_b6db06db35d7",
+  "pid": "PT-pseudo_b6db06db35d7",
+  "task": 1,
+  "psa": 5.2,
+  "age": 57,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.11,
+  "psav": 1.38,
+  "psap": 3.2,
+  "vol": 47.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8199149,
+  "medhx": "Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "tamsulosin",
+  "notes": "PSA 5.2 ng/mL. PI-RADS 5. PSAD 0.11. Prostate volume 47 mL. csPCa 0.82.",
+  "pmhx": [
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "79 kg",
+    "height": "182 cm",
+    "bmi": "23.8",
+    "bp": "119/89 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment of a recent PSA climb to 5.2 ng/mL alongside a newly identified PI-RADS 5 MRI finding and a previously Positive prior biopsy result."
+    },
+    {
+      "s": "History",
+      "t": "A 57-year-old non-smoker who lives independently, this widowed semi-retired musician carries a background of benign prostatic hyperplasia currently treated with tamsulosin. His initial urological workup began in early 2023 when a PSA reading of 2.3 ng/mL was noted, ultimately yielding a Positive prior biopsy. He experiences moderate lower urinary tract complaints, characterized by nocturia occurring twice each night and a diminished stream, yielding an IPSS of 11. Past medical history includes knee osteoarthritis and stable chronic obstructive pulmonary disease, the latter prompting a pulmonary function assessment earlier this month. He walks 45 minutes daily, limits alcohol to roughly 10 units per week, and enjoyed a stable cardiology check in autumn 2024. He explicitly denies bone discomfort, haematuria, or unaccounted weight reduction, citing only the 60-minute train journey to the clinic as a notable daily logistical hurdle."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum: DRE confirms a normal examination with a symmetrically enlarged prostate, smooth and firm consistency, and absent nodules or asymmetry. General assessment shows stable vitals (BP 119/89 mmHg, HR 73 bpm) with no abdominal masses or lymphadenopathy. Nutritional status appears adequate, and independent ambulation is noted, accompanied by a mild antalgic gait attributable to established osteoarthritis."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 11/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

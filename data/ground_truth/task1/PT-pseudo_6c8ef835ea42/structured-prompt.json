@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_6c8ef835ea42",
+  "pid": "PT-pseudo_6c8ef835ea42",
+  "task": 1,
+  "psa": 3.6,
+  "age": 54,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.119,
+  "psav": 1.22,
+  "psap": 2.0,
+  "vol": 30.24,
+  "dre": "Abnormal",
+  "bx": "None",
+  "cspca": 0.8235317,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 3.6 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 30 mL. DRE abnormal. csPCa 0.82.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "174 cm",
+    "bmi": "25.8",
+    "bp": "138/76 mmHg",
+    "hr": "57 bpm",
+    "smoking": "Current smoker (17 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Elevated prostate-specific antigen levels combined with an irregular digital rectal examination prompted this clinical assessment."
+    },
+    {
+      "s": "History",
+      "t": "A 54-year-old retired butcher entered the urological workup after a late-2023 PSA elevation, following a September 2021 baseline MRI at RUMC that noted a minor left-sided anomaly without pursuing a biopsy. Clinical records note an Abnormal DRE and a prior biopsy bucket of None. He denies lower urinary tract symptoms, recording an IPSS of zero, and reports no pelvic pain or hematuria. Married, he resides independently with an adult son living in close proximity. His emergency contact remains his daughter. He maintains a strict alcohol-free regimen and engages in light home weight-training twice weekly. Current smoker (17 pack-yr). No comorbid conditions or active medications complicate his baseline. Recent healthcare interactions included routine podiatry, a gastroenterology-ordered surveillance colonoscopy, and six physiotherapy sessions targeting chronic lower back stiffness. Commuting over an hour by train to reach this clinic, he values the allotted scheduling window."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm and irregular; mobility: fixed; asymmetry: pronounced in the left mid-gland region where a discrete nodule registers. General examination remains within normal limits, vital signs are stable, and no systemic pathology or lymphadenopathy emerges."
+    }
+  ],
+  "occupation": "retired butcher",
+  "marital": "Married",
+  "living": "Lives alone; adult son nearby",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "Gastroenterology — surveillance colonoscopy",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_4b950525e6a8",
+  "pid": "PT-pseudo_4b950525e6a8",
+  "task": 1,
+  "psa": 19.0,
+  "age": 65,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.37,
+  "psav": 2.0,
+  "psap": 18.4,
+  "vol": 51.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.88825184,
+  "medhx": "Hypertension, Benign prostatic hyperplasia",
+  "meds": "amlodipine, valsartan, tamsulosin",
+  "notes": "PSA 19 ng/mL. PI-RADS 5. PSAD 0.37. Prostate volume 51 mL. csPCa 0.89.",
+  "pmhx": [
+    "Hypertension",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "175 cm",
+    "bmi": "26.1",
+    "bp": "134/81 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Ex-smoker (30 pack-yr, quit 2022)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Mar 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current PSA reading of 19.0 ng/mL alongside a previous prostate cancer diagnosis necessitates clinical review."
+    },
+    {
+      "s": "History",
+      "t": "A 65-year-old retired shopkeeper, widowed, occupies a ground-floor flat shared with his partner, who helps manage daily routines. Alcohol consumption is entirely avoided, and he walks for twenty minutes daily to stay active. Lower urinary tract complaints are moderately bothersome, scoring 22 out of 35 on the IPSS, currently controlled with tamsulosin while amlodipine and valsartan address his hypertension. He carries a benign prostatic hyperplasia diagnosis. Smoking ceased in 2022 after accumulating 30 pack-years. His adult daughter serves as his main contact; she recently visited for a routine dermatology check on stable actinic keratosis. He reports no unexplained weight loss, bone discomfort, or haematuria."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; symmetry: uniform; nodularity: absent. The prostate presents as symmetrically enlarged without palpable irregularities. Systemic review shows normal heart and lung sounds, with no hepatosplenomegaly or peripheral lymphadenopathy. Cardiovascular and respiratory systems remain unremarkable. Blood pressure registers at 134/81 mmHg, heart rate at 80 bpm, and vital parameters are stable."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Widowed",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 22/35 (severe LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

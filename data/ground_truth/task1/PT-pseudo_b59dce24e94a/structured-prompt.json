@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_b59dce24e94a",
+  "pid": "PT-pseudo_b59dce24e94a",
+  "task": 1,
+  "psa": 15.0,
+  "age": 70,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.24,
+  "psav": 3.27,
+  "psap": 10.7,
+  "vol": 63.76,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.87020874,
+  "medhx": "Chronic kidney disease, Benign prostatic hyperplasia",
+  "meds": "tamsulosin",
+  "notes": "PSA 15 ng/mL. PI-RADS 5. PSAD 0.24. Prostate volume 64 mL. csPCa 0.87.",
+  "pmhx": [
+    "Chronic kidney disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "172 cm",
+    "bmi": "25.0",
+    "bp": "120/68 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Mar 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Escalating prostate-specific antigen levels, compounded by a previously positive biopsy, drive the current clinical review."
+    },
+    {
+      "s": "History",
+      "t": "A seventy-year-old freelance translator, initially flagged for an unexpected PSA elevation toward the end of 2022, now presents with a background of benign prostatic hyperplasia (treated with tamsulosin) and chronic kidney disease characterized by a sustained eGFR under 60 mL/min/1.73m². Though widowed, he shares a home with his partner. He abstains from tobacco, engages in biweekly tennis matches, and consumes approximately 17 units of alcohol weekly. Recent healthcare encounters outside urology encompass a vascular consultation for venous insufficiency, a standard dental inspection, and an uneventful cardiology assessment last fall. Residing well over ninety minutes from our facility, he favors remote telephone consultations when feasible."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm and homogeneous; mobility: unrestricted; asymmetry: none noted. The gland appears uniformly enlarged without discrete palpable abnormalities. Vital parameters remain stable (BP 120/68 mmHg, pulse 60 bpm). Systemic inspection yields no abnormal lymph nodes or abdominal irregularities."
+    }
+  ],
+  "occupation": "freelance translator",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "Dental — biannual check-up",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "17 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

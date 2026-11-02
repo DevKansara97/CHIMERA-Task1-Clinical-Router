@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_20ba3f0f6ca0",
+  "pid": "PT-pseudo_20ba3f0f6ca0",
+  "task": 1,
+  "psa": 4.8,
+  "age": 65,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.086,
+  "psav": 0.35,
+  "psap": 3.8,
+  "vol": 56.0,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.7257912,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.8 ng/mL. PI-RADS 4. PSAD 0.09. Prostate volume 56 mL. DRE nodus. csPCa 0.73.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "76 kg",
+    "height": "188 cm",
+    "bmi": "21.5",
+    "bp": "131/58 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Ex-smoker (11 pack-yr, quit 2023)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A recent elevation of prostate-specific antigen to 4.8 ng/mL, coupled with a multiparametric MRI conducted at Jeroen Bosch Ziekenhuis, prompted this consultation."
+    },
+    {
+      "s": "History",
+      "t": "A semi-retired musician with a smoking history of 11 pack-years (cessation in 2023) seeks evaluation for a progressively rising PSA and recent imaging results. He reports zero lower urinary tract symptoms, denies haematuria, bone pain, or unexplained weight loss, and maintains a daily 45-minute walking routine alongside a modest alcohol intake of roughly 2 units weekly. Following a recent move, he now shares a residence with his sister, who acts as his next of kin, while his marital status remains married though he currently lives apart from his spouse. Past medical encounters include a routine audiology assessment for mild hearing loss and a dermatology visit for actinic keratosis surveillance; otherwise, his health history is clear, with no comorbidities and no active medications. His prior biopsy bucket remains None. He relies on written summaries during consultations due to mild hearing impairment."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm, mobility: unrestricted, asymmetry: Nodus palpable in the right mid-gland peripheral zone. Abdominal and cardiovascular assessments show no abnormalities, recording a blood pressure of 131/58 mmHg and a regular heart rate of 71 bpm. Peripheral lymphadenopathy and hepatosplenomegaly are absent."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Married",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

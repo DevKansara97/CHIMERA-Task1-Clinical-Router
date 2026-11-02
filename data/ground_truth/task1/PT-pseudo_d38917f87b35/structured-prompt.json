@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_d38917f87b35",
+  "pid": "PT-pseudo_d38917f87b35",
+  "task": 1,
+  "psa": 28.3,
+  "age": 61,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.4,
+  "psav": -0.78,
+  "psap": 25.3,
+  "vol": 70.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8709831,
+  "medhx": "Type 2 diabetes, Hypercholesterolaemia",
+  "meds": "empagliflozin, simvastatin, rosuvastatin",
+  "notes": "PSA 28.3 ng/mL. PI-RADS 5. PSAD 0.40. Prostate volume 70 mL. DRE nodus. csPCa 0.87.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "99 kg",
+    "height": "177 cm",
+    "bmi": "31.6",
+    "bp": "126/68 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Ex-smoker (23 pack-yr, quit 2015)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Rising prostate-specific antigen levels to 28.3 ng/mL alongside a confirmed prior malignancy prompt this clinical review."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old retired firefighter initiated urological workup in mid-2023 after an elevated screening result, leading to a systematic biopsy that confirmed a Positive finding of ISUP GG5 disease. Currently residing with his partner as a widowed individual, the patient maintains a rigorous exercise regimen of three 5-kilometre runs per week. Lower urinary tract complaints have increased, pushing his IPSS score to 19 out of 35. Past medical records highlight well-managed type 2 diabetes under empagliflozin therapy, alongside hypercholesterolaemia addressed with simvastatin and rosuvastatin. He successfully ceased smoking after accumulating 23 pack-years, having quit in 2015. Additional surgical history includes a meniscectomy on the right knee performed during his firefighting career, and he recently finished a six-session physiotherapy course for mechanical back pain that remains independent of his urological status. An adult son handles his primary medical communications, and morning appointments are preferred to align with his public transit routine."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as asymmetrically enlarged, featuring a distinct, firm nodule within the left peripheral zone. Systemic assessment shows stable hemodynamics and a body mass index of 31.6. Abdominal palpation detects no masses, and cervical or inguinal lymph nodes remain non-palpable."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

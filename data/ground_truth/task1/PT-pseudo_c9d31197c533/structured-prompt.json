@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_c9d31197c533",
+  "pid": "PT-pseudo_c9d31197c533",
+  "task": 1,
+  "psa": 10.92,
+  "age": 61,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.26,
+  "psav": 1.16,
+  "psap": 10.0,
+  "vol": 42.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8727174,
+  "medhx": "Hypertension, Osteoarthritis",
+  "meds": "valsartan, lisinopril, paracetamol PRN",
+  "notes": "PSA 10.92 ng/mL. PI-RADS 5. PSAD 0.26. Prostate volume 42 mL. DRE nodus. csPCa 0.87.",
+  "pmhx": [
+    "Hypertension",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "73 kg",
+    "height": "172 cm",
+    "bmi": "24.7",
+    "bp": "125/92 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation and confirmation of Gleason 4+3 carcinoma on prior biopsy bucket \"Positive\" warrant clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old retired bank clerk entered the diagnostic pathway in late 2023 due to elevated PSA levels. He is a non-smoker with a background of hypertension treated by valsartan and lisinopril, plus osteoarthritis managed with paracetamol PRN. Divorced, he resides in an assisted-living facility and enjoys tennis twice weekly, averaging 22 units of alcohol each week. With his daughter handling correspondence under consent, he recently completed baseline memory screening and a sleep clinic assessment for suspected obstructive sleep apnoea. A prior 12-core biopsy confirmed Gleason 4+3 disease. He experiences chronic lower urinary tract symptoms yielding an IPSS of 20/35, yet denies urinary retention, haematuria, unexplained weight loss, or bone pain. His overall condition remains stable."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: moderately enlarged gland with a firm, discrete nodule palpable in the left peripheral zone; remainder symmetrically smooth without induration. General examination shows stable vital signs, unremarkable systemic findings, and no palpable lymphadenopathy or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Divorced",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "22 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 20/35 (severe LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

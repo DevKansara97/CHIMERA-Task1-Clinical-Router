@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_7bcbfa157137",
+  "pid": "PT-pseudo_7bcbfa157137",
+  "task": 1,
+  "psa": 7.4,
+  "age": 69,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.117,
+  "psav": 1.55,
+  "psap": 5.7,
+  "vol": 63.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.83814454,
+  "medhx": "Hypertension, Type 2 diabetes",
+  "meds": "valsartan, lisinopril, metoprolol, metformin, empagliflozin",
+  "notes": "PSA 7.4 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 63 mL. csPCa 0.84.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "89 kg",
+    "height": "186 cm",
+    "bmi": "25.7",
+    "bp": "124/77 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "31 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment requested due to previous biopsy positivity alongside a continuous upward trend in PSA levels."
+    },
+    {
+      "s": "History",
+      "t": "This 69-year-old gentleman, married and residing with his partner, has recently stepped down from his role as a postal worker. He abstains from tobacco, walks approximately 45 minutes daily, and consumes around 13 units of alcohol weekly. His medical background includes hypertension and type 2 diabetes, currently regulated by valsartan, lisinopril, metoprolol, metformin, and empagliflozin, with recent cardiology parameters remaining stable. Urinary symptoms are negligible, reflected by an IPSS score of 1. Past surgical history encompasses a knee arthroscopy performed half a decade ago, and he occasionally experiences minor lower back stiffness following extended gardening, neither requiring specialist care. He previously opted out of research trials. Adenocarcinoma was confirmed on his earlier biopsy. He maintains full independence in daily activities and remains in good overall health."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Examination is normal; the prostate exhibits a symmetrically enlarged contour with a smooth, firm texture, devoid of palpable asymmetry or discrete nodules. General assessment shows no abnormalities. Blood pressure registers at 124/77 mmHg, accompanied by a regular cardiac rhythm of 69 bpm. Abdominal palpation yields a soft, non-tender abdomen free of palpable masses or organ enlargement."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "13 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_6b6ee002f75d",
+  "pid": "PT-pseudo_6b6ee002f75d",
+  "task": 1,
+  "psa": 6.22,
+  "age": 65,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.17,
+  "psav": 1.14,
+  "psap": 5.6,
+  "vol": 36.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.86727,
+  "medhx": "Hypertension, Chronic kidney disease",
+  "meds": "amlodipine, valsartan",
+  "notes": "PSA 6.22 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 36 mL. DRE nodus. csPCa 0.87.",
+  "pmhx": [
+    "Hypertension",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "75 kg",
+    "height": "177 cm",
+    "bmi": "23.9",
+    "bp": "127/68 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Ex-smoker (17 pack-yr, quit 2001)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review requested after previous biopsy confirmed high-grade malignancy alongside recent PSA escalation."
+    },
+    {
+      "s": "History",
+      "t": "A 65-year-old retired truck driver has been monitored since the initial PSA elevation was detected in 2022. He resides with his unmarried partner and maintains a vigorous routine, including twice-weekly tennis matches and roughly three units of alcohol weekly. Past medical history encompasses hypertension and stage 3 chronic kidney disease, currently controlled with amlodipine and valsartan. Tobacco use ceased in 2001 following a 17 pack-year exposure. He denies any current urinary complaints, registering an IPSS score of zero. Recent primary care visits included a seasonal influenza vaccination alongside a dermatological screening for a routine actinic keratosis. A decades-old right knee meniscus tear occasionally causes mild aching during cold spells but imposes no functional restrictions. Due to mild hearing impairment, he requests written documentation for all clinical updates."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum: A firm, discrete nodule measuring roughly 1 cm in diameter is palpable within the right peripheral zone, while overall gland symmetry remains intact. General inspection reveals no abnormalities; vital parameters record a blood pressure of 127/68 mmHg and a heart rate of 72 bpm. Cognitive status is alert and oriented. Body mass index registers at 23.9 kg/m2. The patient acknowledges mild hearing impairment yet demonstrates clear comprehension of all procedural directives."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

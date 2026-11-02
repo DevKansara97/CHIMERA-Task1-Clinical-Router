@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "age": "important",
+    "cspca": "noted",
+    "pirads": "decisive",
+    "comorbidity": "noted",
+    "dre": "noted",
+    "vol": "noted",
+    "fh": "noted",
+    "psad": "noted",
+    "psa": "important",
+    "bx": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "PIRADS 5 in a young man."
+}

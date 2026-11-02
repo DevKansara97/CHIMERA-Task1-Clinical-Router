@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "age": "important",
+    "fh": "noted",
+    "cspca": "not_used",
+    "pirads": "important",
+    "vol": "noted",
+    "psa": "noted",
+    "comorbidity": "noted",
+    "psad": "not_used",
+    "dre": "noted",
+    "bx": "decisive"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "He has a ISUP3 cancer diagnosis already and he should be recommended treatment"
+}

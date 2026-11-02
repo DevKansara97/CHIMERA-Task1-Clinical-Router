@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_afbc5ebc0d4e",
+  "pid": "PT-pseudo_afbc5ebc0d4e",
+  "task": 1,
+  "psa": 19.0,
+  "age": 73,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.29,
+  "psav": 4.32,
+  "psap": 14.6,
+  "vol": 65.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.7148355,
+  "medhx": "Hypercholesterolaemia, Chronic kidney disease, Osteoarthritis",
+  "meds": "simvastatin, rosuvastatin, paracetamol PRN",
+  "notes": "PSA 19 ng/mL. PI-RADS 4. PSAD 0.29. Prostate volume 65 mL. DRE nodus. csPCa 0.71.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Chronic kidney disease",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "181 cm",
+    "bmi": "25.6",
+    "bp": "122/79 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Current smoker (38 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "27 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment prompted by a prior prostate cancer diagnosis and a recent PSA rise to 19.0 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A 73-year-old active dairy farmer living with his partner (unmarried), this gentleman first entered clinical evaluation in 2022 for an elevated PSA and subsequently received a Gleason 4+3 diagnosis on an earlier biopsy. He endures severe lower urinary tract symptoms, scoring 33 on the IPSS, which heavily disrupts his daily farm duties. His background includes hypercholesterolaemia treated with simvastatin and rosuvastatin, chronic kidney disease with an eGFR currently under 60, and osteoarthritis managed via paracetamol PRN. He stays physically active, cycling roughly 30 kilometres three times weekly, and is a current smoker (38 pack-yr). Outside of urological matters, he maintains routine podiatry visits and completed a stable cardiology check in autumn 2024. The commute to this clinic exceeds one hour by train, and he is escorted by his sister, who holds next-of-kin status."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: A firm, discrete nodule is palpable within the right posterior peripheral zone, while the rest of the gland presents as symmetrically enlarged and smooth. General inspection shows a well-nourished individual in no acute distress. Lung fields are clear, and cardiac rhythm remains regular at 81 beats per minute. Blood pressure registers at 122/79 mmHg, with bilateral peripheral pulses intact."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 33/35 (severe LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

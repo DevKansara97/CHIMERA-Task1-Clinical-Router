@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_e001f4d06517",
+  "pid": "PT-pseudo_e001f4d06517",
+  "task": 1,
+  "psa": 4.5,
+  "age": 73,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.08,
+  "psav": 0.21,
+  "psap": 3.5,
+  "vol": 56.09,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7867544,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.5 ng/mL. PI-RADS 4. PSAD 0.08. Prostate volume 56 mL. csPCa 0.79.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "108 kg",
+    "height": "196 cm",
+    "bmi": "28.1",
+    "bp": "133/70 mmHg",
+    "hr": "65 bpm",
+    "smoking": "Current smoker (23 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment requested for a PSA rise to 4.5 ng/mL alongside a history of a previously positive prostate biopsy."
+    },
+    {
+      "s": "History",
+      "t": "At 73 years of age, this married harbour pilot, currently semi-retired, seeks clinical review due to a PSA elevation to 4.5 ng/mL. He resides independently while maintaining a close bond with his spouse and a long-standing friend who handles administrative tasks. A current smoker with a 23 pack-year history, he denies any unexplained weight loss or altered bowel habits. His daily routine includes light weight-training twice weekly, and he consumes roughly 25 units of alcohol each week. Lower urinary tract symptoms remain minimal, reflected by an IPSS score of 3. No comorbidities exist, and he takes no active medications. An earlier memory clinic screening yielded unremarkable results, and aside from occasional mild knee stiffness managed with over-the-counter analgesics, he reports feeling well. He specifically requested a morning appointment to accommodate public transit."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents symmetrically enlarged, exhibiting a smooth texture and firm consistency without palpable asymmetry or discrete nodules. General inspection shows a well-nourished individual in no acute distress. Lung fields remain clear, and cardiac rhythm is regular at 65 beats per minute. Abdominal palpation yields a soft, non-tender abdomen devoid of masses or organomegaly."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "25 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

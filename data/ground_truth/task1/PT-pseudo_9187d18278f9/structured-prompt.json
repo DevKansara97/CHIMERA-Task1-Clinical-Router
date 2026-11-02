@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_9187d18278f9",
+  "pid": "PT-pseudo_9187d18278f9",
+  "task": 1,
+  "psa": 0.2,
+  "age": 75,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.008,
+  "psav": -0.06,
+  "psap": 0.4,
+  "vol": 25.27,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.64653254,
+  "medhx": "Hypertension, Type 2 diabetes, Osteoarthritis",
+  "meds": "amlodipine, valsartan, metoprolol, metformin, empagliflozin, paracetamol PRN",
+  "notes": "PSA 0.2 ng/mL. PI-RADS 4. PSAD 0.01. Prostate volume 25 mL. csPCa 0.65.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "73 kg",
+    "height": "169 cm",
+    "bmi": "25.6",
+    "bp": "141/76 mmHg",
+    "hr": "85 bpm",
+    "smoking": "Ex-smoker (20 pack-yr, quit 2009)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Post-MRI assessment alongside recent PSA tracking."
+    },
+    {
+      "s": "History",
+      "t": "A 75-year-old gentleman, working as a harbour pilot (semi-retired), entered initial investigation after a PSA of 0.4 ng/mL surfaced during routine screening. Lower urinary tract symptoms register at a moderate IPSS 10/35, characterized mainly by nocturia and diminished stream strength. Conservative management persists alongside his daily cycling commute. Chronic conditions include well-managed hypertension and type 2 diabetes, currently stabilized on amlodipine, valsartan, metoprolol, metformin, and empagliflozin. Osteoarthritis contributes to occasional joint stiffness. Pharmacotherapy now also encompasses paracetamol PRN. Socially, he is Married and Lives in ground-floor apartment with partner, a setup that supports independence despite residing over ninety minutes from this clinic, which favors telephone check-ins when suitable. Smoking history notes Ex-smoker (20 pack-yr, quit 2009). Prior biopsy bucket \"None\". No bone discomfort, haematuria, or unexplained weight loss has been reported."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as symmetrically smooth, lacking any discrete nodules or asymmetrical contour. General assessment remains unremarkable; blood pressure is stable, and peripheral oedema or lymphadenopathy is absent."
+    }
+  ],
+  "occupation": "harbour pilot (semi-retired)",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 10/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_0169468160c6",
+  "pid": "PT-pseudo_0169468160c6",
+  "task": 1,
+  "psa": 187.0,
+  "age": 75,
+  "months": 2,
+  "pirads": "5",
+  "psad": 3.26,
+  "psav": 38.28,
+  "psap": 153.4,
+  "vol": 57.28,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.964853,
+  "medhx": "Hypertension, Hypercholesterolaemia, Obesity (BMI >30)",
+  "meds": "amlodipine, lisinopril, metoprolol, atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 187 ng/mL. PI-RADS 5. PSAD 3.26. Prostate volume 57 mL. DRE nodus. csPCa 0.96.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "83 kg",
+    "height": "158 cm",
+    "bmi": "33.2",
+    "bp": "149/99 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Ex-smoker (10 pack-yr, quit 2011)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "24 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A pronounced upward trajectory in prostate-specific antigen levels, documented after earlier histological confirmation of malignancy."
+    },
+    {
+      "s": "History",
+      "t": "At seventy-five years of age, this married gentleman lives with his partner and works as a self-employed contractor (carpentry). He maintains an active routine, logging five kilometres three times weekly, and consumes roughly eight units of alcohol each week. Smoking history is noted as Ex-smoker (10 pack-yr, quit 2011). Comorbidities include Hypertension, Hypercholesterolaemia, and Obesity (BMI >30), currently managed with Active medication: amlodipine, lisinopril, metoprolol, atorvastatin, simvastatin, rosuvastatin. Lower urinary tract symptoms are negligible, yielding an IPSS score of one. Recent clinical visits include baseline cognitive screening at a memory clinic and six physiotherapy sessions addressing chronic lower back discomfort. Surgical history is limited to a remote appendectomy in his twenties, with stable osteoarthritis of the knees representing his sole orthopaedic concern."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Nodus palpable within the right peripheral zone, consistent with a nodular prostate. General assessment shows a well-nourished individual with a blood pressure reading of 149/99 mmHg and a regular cardiac rate of 75 beats per minute. No palpable lymphadenopathy or abdominal masses detected."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "LUMC (Leiden)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

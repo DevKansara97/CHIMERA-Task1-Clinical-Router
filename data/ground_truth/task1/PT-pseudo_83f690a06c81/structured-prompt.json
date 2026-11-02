@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_83f690a06c81",
+  "pid": "PT-pseudo_83f690a06c81",
+  "task": 1,
+  "psa": 12.0,
+  "age": 66,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.173,
+  "psav": 2.64,
+  "psap": 9.0,
+  "vol": 69.24,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8477834,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 12 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 69 mL. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "172 cm",
+    "bmi": "23.7",
+    "bp": "116/73 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Feb 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Documented PSA escalation alongside a previously positive prostate biopsy warrants clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "A 66-year-old graphic designer first entered diagnostic evaluation in early 2024 due to an elevated PSA, a value that has now advanced to 12.0 ng/mL. Lower urinary tract complaints are moderate, yielding an IPSS score of 16, with nocturia and a diminished stream being the primary concerns; he explicitly denies haematuria or pelvic discomfort. Leisure activities include tennis twice weekly, and his alcohol intake remains at approximately five units of alcohol per week. Systemic health remains stable, corroborated by an autumn 2024 cardiology review showing no significant deviations, routine dental maintenance, and a recent chest X-ray. He shares his home with his wife, while adult children stop by each week. Reaching the clinic requires a train journey lasting over an hour."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum: the gland presents as symmetrically enlarged, exhibiting a smooth, firm consistency without nodularity or asymmetry. Vital parameters remain stable, recording a blood pressure of 116/73 mmHg and a regular heart rate of 69 bpm. Systemic examination reveals no pallor, lymphadenopathy, or abdominal masses."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Dental — biannual check-up",
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "5 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

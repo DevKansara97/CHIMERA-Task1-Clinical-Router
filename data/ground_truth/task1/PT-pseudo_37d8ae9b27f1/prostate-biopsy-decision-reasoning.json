@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psad": "noted",
+    "psa": "noted",
+    "bx": "important",
+    "dre": "noted",
+    "vol": "noted",
+    "comorbidity": "noted",
+    "pirads": "important",
+    "age": "noted",
+    "cspca": "not_used",
+    "fh": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Need to know initial MRI before decision"
+}

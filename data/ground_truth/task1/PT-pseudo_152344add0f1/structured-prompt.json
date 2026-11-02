@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_152344add0f1",
+  "pid": "PT-pseudo_152344add0f1",
+  "task": 1,
+  "psa": 11.4,
+  "age": 70,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.209,
+  "psav": 2.78,
+  "psap": 10.4,
+  "vol": 54.66,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.44734785,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 11.4 ng/mL. PI-RADS 5. PSAD 0.21. Prostate volume 55 mL. csPCa 0.45.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "178 cm",
+    "bmi": "26.5",
+    "bp": "141/79 mmHg",
+    "hr": "65 bpm",
+    "smoking": "Ex-smoker (33 pack-yr, quit 2017)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Evaluation triggered by a PSA increase to 11.4 ng/mL, which prompted multiparametric MRI."
+    },
+    {
+      "s": "History",
+      "t": "At seventy years of age, this married gentleman shares a home with his partner and previously earned his living as a delivery driver. His initial workup for an elevated PSA began around mid-2023, with serial measurements now tracking upward to 11.4 ng/mL. Urinary function remains largely unaffected; he reports an IPSS score of 2, free from nocturia or a diminished stream. Lifestyle habits include weekend hiking excursions and a modest alcohol intake capped at four units each week. A history of smoking totals 33 pack-years, though he successfully quit in 2017. Mechanical lower back pain currently keeps him in physiotherapy, where six sessions have yielded little relief. Gradual hearing loss over the last ten years means he depends on unambiguous verbal explanations and written notes during visits. He firmly denies any unexplained weight reduction, drenching night sweats, or skeletal discomfort."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and symmetrically enlarged; mobility: unrestricted; asymmetry: absent. General survey reveals clear pulmonary fields, a regular cardiac rhythm, and a soft, non-tender abdomen. Cognitive status is fully intact, and functional mobility aligns well with his active weekend hiking schedule."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_fab43a43b7e6",
+  "pid": "PT-pseudo_fab43a43b7e6",
+  "task": 1,
+  "psa": 4.3,
+  "age": 56,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.174,
+  "psav": 0.99,
+  "psap": 3.2,
+  "vol": 24.74,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.6793318,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.3 ng/mL. PI-RADS 4. PSAD 0.17. Prostate volume 25 mL. DRE nodus. csPCa 0.68.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "76 kg",
+    "height": "176 cm",
+    "bmi": "24.5",
+    "bp": "122/72 mmHg",
+    "hr": "63 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current evaluation triggered by a PSA increase to 4.3 ng/mL alongside a newly completed multiparametric MRI."
+    },
+    {
+      "s": "History",
+      "t": "A 56-year-old hospital porter initiated evaluation following a progressive PSA climb documented across a two-year window. Mild lower urinary tract complaints are present, translating to an IPSS score of 6, yet notable nocturia or urgency are absent. A non-smoker, he resides on the ground floor of a shared apartment with his partner after losing his spouse several years prior. Daily habits include regular chair-based physical activity and roughly 17 units of alcohol intake each week. Surgical history remains confined to a distant appendectomy during early adulthood, while a recent orthopedic assessment for persistent but stable knee pain requires no escalation. Distance to the clinic exceeds ninety minutes, prompting a stated preference for remote telephone follow-ups when medically suitable. His broader medical profile and current pharmacological regimen remain clear of notable conditions or prescriptions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal assessment identifies a distinct, firm asymmetrical nodule within the right peripheral zone, spanning roughly 0.8 cm. Remaining prostatic tissue presents uniformly smooth with symmetric enlargement and lacks appreciable tenderness on palpation. Systemic evaluation shows stable hemodynamics, clear organ systems, and an absence of peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "hospital porter",
+  "marital": "Widowed",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Orthopaedic outpatient — knee follow-up"
+  ],
+  "alcohol": "17 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

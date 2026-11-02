@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_f4ea752ca1bb",
+  "pid": "PT-pseudo_f4ea752ca1bb",
+  "task": 1,
+  "psa": 6.9,
+  "age": 79,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.159,
+  "psav": 1.53,
+  "psap": 6.6,
+  "vol": 43.34,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.7682602,
+  "medhx": "COPD",
+  "meds": "tiotropium, salbutamol PRN",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 4. PSAD 0.16. Prostate volume 43 mL. DRE nodus. csPCa 0.77.",
+  "pmhx": [
+    "COPD"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "188 cm",
+    "bmi": "23.8",
+    "bp": "125/84 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Current smoker (15 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "21 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation of the prostate-specific antigen level to 6.9 ng/mL prompted this consultation after recent multiparametric imaging."
+    },
+    {
+      "s": "History",
+      "t": "A 79-year-old retired civil servant entered the system in spring 2023 after an initial prostate-specific antigen reading of 3.7 ng/mL. Surveillance has continued given the steady upward trend. Following the passing of his spouse several years prior, he now resides solo, depending on his daughter for mail handling while maintaining full independence in daily routines. Lower urinary tract complaints remain slight, reflected by an IPSS score of 3. Respiratory management involves tiotropium alongside salbutamol administered as required for his COPD. Beyond urological matters, he recently finished a standard colonoscopy screening and visited vascular surgery regarding asymptomatic varicose veins. Daily gardening sustains his activity level, he completely avoids alcohol, and maintains a current smoking status with a 15 pack-year history. He explicitly denies haematuria, unexplained weight loss, or bone pain."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm, mobility: fixed, asymmetry: prominent. A discrete nodule resides within the right posterior peripheral zone, accompanied by overall gland enlargement. General assessment shows clear lung fields and a regular cardiac rhythm. Blood pressure registers at 125/84 mmHg, with a heart rate of 75 bpm."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Widowed",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

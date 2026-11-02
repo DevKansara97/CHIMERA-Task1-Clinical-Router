@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_a4f6e7273fc3",
+  "pid": "PT-pseudo_a4f6e7273fc3",
+  "task": 1,
+  "psa": 31.0,
+  "age": 77,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.95,
+  "psav": 6.02,
+  "psap": 26.9,
+  "vol": 32.52,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.9289904,
+  "medhx": "Hypertension, Hypercholesterolaemia, Benign prostatic hyperplasia, Atrial fibrillation",
+  "meds": "amlodipine, valsartan, lisinopril, metoprolol, simvastatin, rosuvastatin, tamsulosin",
+  "notes": "PSA 31 ng/mL. PI-RADS 5. PSAD 0.95. Prostate volume 33 mL. DRE nodus. csPCa 0.93.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Benign prostatic hyperplasia",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "174 cm",
+    "bmi": "27.7",
+    "bp": "120/94 mmHg",
+    "hr": "88 bpm",
+    "smoking": "Ex-smoker (12 pack-yr, quit 2004)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "10 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent prostate-specific antigen elevation paired with a previously positive biopsy drives this clinical evaluation."
+    },
+    {
+      "s": "History",
+      "t": "A seventy-seven-year-old retired bus driver presents for oncological assessment, having first undergone investigation in 2022 due to bothersome urinary symptoms that coincided with an initial PSA reading of 20.7 ng/mL and a subsequent positive biopsy. His cardiovascular profile includes hypertension, hypercholesterolaemia, and atrial fibrillation, currently stabilized on amlodipine, valsartan, lisinopril, metoprolol, simvastatin, rosuvastatin, and tamsulosin. He quit smoking in 2004 after accumulating a 12 pack-year exposure. Divorced and recently relocated, he shares a residence with his sister. Lifestyle habits include a daily forty-five-minute walking regimen with complete abstinence from alcohol. Lower urinary tract symptoms remain pronounced, registering an IPSS score of 25 out of 35, yet he denies hematuria or pelvic discomfort. A routine surveillance colonoscopy conducted by gastroenterology returned unremarkable results, and he maintains stable energy levels without meaningful weight fluctuation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — prostate: asymmetrically enlarged with a firm, discrete nodule palpable in the right posterior peripheral zone; mobility: unrestricted. General assessment reveals a blood pressure of 120/94 mmHg and a regular heart rate of 88 bpm, accompanied by clear lung fields and a soft, non-tender abdomen."
+    }
+  ],
+  "occupation": "retired bus driver",
+  "marital": "Divorced",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 25/35 (severe LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_11574b12444b",
+  "pid": "PT-pseudo_11574b12444b",
+  "task": 1,
+  "psa": 8.0,
+  "age": 55,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.13,
+  "psav": 1.48,
+  "psap": 6.7,
+  "vol": 62.3,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.85717165,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 8 ng/mL. PI-RADS 5. PSAD 0.13. Prostate volume 62 mL. csPCa 0.86.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "179 cm",
+    "bmi": "21.8",
+    "bp": "117/76 mmHg",
+    "hr": "87 bpm",
+    "smoking": "Current smoker (22 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical attention centers on a PSA increase to 8.0 ng/mL alongside a history of an earlier negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "Investigation initiated in August 2022 for a PSA elevation involved a 55-year-old retired firefighter. Lower urinary tract complaints are entirely absent, reflected by an IPSS score of 3 out of 35. Daily support comes from an adult daughter who acts as his main contact, as he resides alone after his spouse passed away. Alcohol consumption is completely avoided, while light resistance exercises occur at home two times per week. Chronic right shoulder discomfort prompted a recent pain clinic visit, though that condition remains unchanged. Smoking persists with a total accumulation of 22 pack-years. An Arabic interpreter has been booked for the upcoming session to ensure precise discussion of his findings. Body composition indicates obesity with a BMI exceeding 30."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth, mobility: unrestricted, asymmetry: none; the organ presents as entirely normal. Systemic assessment shows no abnormalities across cardiovascular or respiratory systems, and palpation reveals absent lymphadenopathy plus zero bone tenderness. Hemodynamics remain steady, registering 117/76 mmHg for blood pressure and 87 bpm for heart rate."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Widowed",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 3/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

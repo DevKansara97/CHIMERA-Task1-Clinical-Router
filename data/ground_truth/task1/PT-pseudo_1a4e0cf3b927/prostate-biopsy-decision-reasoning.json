@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "comorbidity": "not_used",
+    "fh": "noted",
+    "psa": "noted",
+    "age": "important",
+    "cspca": "not_used",
+    "vol": "noted",
+    "dre": "important",
+    "bx": "decisive",
+    "pirads": "decisive",
+    "psad": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Most likely no biopsy . But very rapid growth in size might change the decision."
+}

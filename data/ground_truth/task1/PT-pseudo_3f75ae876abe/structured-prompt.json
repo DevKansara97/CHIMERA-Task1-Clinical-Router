@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_3f75ae876abe",
+  "pid": "PT-pseudo_3f75ae876abe",
+  "task": 1,
+  "psa": 16.8,
+  "age": 69,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.846,
+  "psav": 3.33,
+  "psap": 11.0,
+  "vol": 19.86,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.87284654,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 16.8 ng/mL. PI-RADS 5. PSAD 0.85. Prostate volume 20 mL. csPCa 0.87.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "177 cm",
+    "bmi": "29.0",
+    "bp": "111/83 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Current smoker (15 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent prostate-specific antigen elevation alongside recent multiparametric magnetic resonance imaging results prompted this visit."
+    },
+    {
+      "s": "History",
+      "t": "At sixty-nine years of age, he attends this consultation for ongoing evaluation. His prior biopsy bucket \"None\". He is a retired truck driver who lives alone despite being married. Current smoker (15 pack-yr). Lower urinary tract symptoms have persisted for several years, currently registering a sixteen-point score on the International Prostate Symptom Score, with no history of hematuria or acute urinary retention. His daily routine remains largely sedentary, supplemented by chair-based exercises and a modest alcohol intake of approximately six units each week. Past medical encounters include a standard cataract evaluation at ophthalmology and a routine thyroid screen with endocrinology. A minor knee sprain sustained from a slip at home last winter has fully resolved. He regularly travels more than sixty minutes by train to reach the clinic and has requested extended time for this appointment."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and symmetric; mobility: unrestricted; asymmetry: absent. The gentleman appears well-nourished and shows no signs of acute distress. Auscultation confirms clear lung fields and a regular cardiac rhythm. Hemodynamics remain stable, recording a blood pressure of 111/83 mmHg and a heart rate of 66 beats per minute."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "UMCG (Groningen)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

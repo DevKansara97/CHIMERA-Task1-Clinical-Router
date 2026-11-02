@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_fdd4ff09679e",
+  "pid": "PT-pseudo_fdd4ff09679e",
+  "task": 1,
+  "psa": 4.4,
+  "age": 62,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.048,
+  "psav": 0.75,
+  "psap": 4.0,
+  "vol": 91.11,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.78277797,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.4 ng/mL. PI-RADS 5. PSAD 0.05. Prostate volume 91 mL. csPCa 0.78.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "97 kg",
+    "height": "180 cm",
+    "bmi": "29.9",
+    "bp": "133/72 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "12 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment requested after previous prostate sampling and subsequent PSA elevation."
+    },
+    {
+      "s": "History",
+      "t": "At 62 years of age, this widowed gentleman entered evaluation in early 2023 due to an elevated PSA reading. Two subsequent biopsy procedures confirmed the prostate cancer diagnosis. He abstains from tobacco, consumes no alcohol, and manages moderate lower urinary tract symptoms, registering 13 points on the IPSS scale. Nocturia and acute urinary retention remain absent. A retired carpenter, he resides with his partner and dedicates weekends to hiking across nearby countryside. Cardiology evaluation in autumn 2024 indicated stable physiological parameters, while orthopaedic knee assessments reveal no functional restrictions. The patient historically favored adaptable clinic hours, though retirement has shifted that preference."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth; mobility: unremarkable; asymmetry: none. The examination confirms a normal DRE with a symmetrically enlarged prostate and firm capsule, lacking palpable nodules. Systemic assessment shows stable vital parameters. No lymphadenopathy or bone tenderness is evident."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Orthopaedic outpatient — knee follow-up",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

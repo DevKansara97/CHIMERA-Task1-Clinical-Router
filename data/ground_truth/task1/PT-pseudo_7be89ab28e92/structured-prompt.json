@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_7be89ab28e92",
+  "pid": "PT-pseudo_7be89ab28e92",
+  "task": 1,
+  "psa": 8.1,
+  "age": 69,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.206,
+  "psav": 2.65,
+  "psap": 6.8,
+  "vol": 39.35,
+  "dre": "Abnormal",
+  "bx": "Positive",
+  "cspca": 0.81509304,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 8.1 ng/mL. PI-RADS 3. PSAD 0.21. Prostate volume 39 mL. DRE abnormal. csPCa 0.82.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "79 kg",
+    "height": "192 cm",
+    "bmi": "21.4",
+    "bp": "126/56 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (28 pack-yr, quit 2012)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Monitoring appointments continue following an earlier prostate cancer diagnosis alongside escalating PSA readings."
+    },
+    {
+      "s": "History",
+      "t": "At sixty-nine years of age, this retired accountant seeks continued monitoring after definitive therapy for prostate cancer at age sixty-eight. He leads a solitary life yet remains married, with a decades-long friend providing primary support. Daily habits include a forty-five-minute walking routine and low alcohol consumption of two weekly units. His smoking history totals twenty-eight pack-years, though he ceased in 2012. Current health is stable with no active medications or comorbidities. Lower urinary tract symptoms are negligible, reflected by an IPSS score of one. Past surgical interventions are limited to a childhood appendectomy. Recent consultations addressed actinic keratosis and a suspected obstructive sleep apnoea referral. He also reports mild hearing impairment and has explicitly asked for written summaries of all clinical conversations."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: palpation uncovers an asymmetric prostate harboring a firm, irregular nodule within the left peripheral zone. Systemic review shows stable vitals, clear lungs, and no hepatosplenomegaly or palpable lymphadenopathy. Nutritional status appears adequate, and gait remains unassisted."
+    }
+  ],
+  "occupation": "retired accountant",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

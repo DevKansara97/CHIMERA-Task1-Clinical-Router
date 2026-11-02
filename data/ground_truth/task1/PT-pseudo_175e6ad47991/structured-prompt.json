@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_175e6ad47991",
+  "pid": "PT-pseudo_175e6ad47991",
+  "task": 1,
+  "psa": 28.0,
+  "age": 79,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.28,
+  "psav": 2.75,
+  "psap": 16.6,
+  "vol": 100.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.3807473,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 28 ng/mL. PI-RADS 5. PSAD 0.28. Prostate volume 100 mL. csPCa 0.38.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "88 kg",
+    "height": "183 cm",
+    "bmi": "26.3",
+    "bp": "130/64 mmHg",
+    "hr": "84 bpm",
+    "smoking": "Ex-smoker (30 pack-yr, quit 2002)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "03 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Evaluation of a marked serum prostate-specific antigen increase to 28.0 ng/mL alongside reassessment of previously negative biopsy results."
+    },
+    {
+      "s": "History",
+      "t": "Residing in a ground-floor apartment with his wife, the seventy-nine-year-old retired warehouse worker first came to attention regarding a prostate-specific antigen elevation documented in mid-2022. He maintains a steady lifestyle featuring weekly swimming sessions and moderate alcohol intake averaging 20 units weekly. Mild lower urinary tract symptoms are present, corresponding to an IPSS score of 9, though acute urinary retention and haematuria are absent. Past medical history remains clear save for an appendectomy performed in his youth and a recent routine cognitive screening at a memory clinic. Ex-smoker (30 pack-yr, quit 2002). Participation in any prostate cancer research trials was previously declined. Comorbidities are absent, and he takes no active medications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal. Prostate is symmetrically enlarged with smooth, firm consistency and no palpable asymmetry or discrete nodules. General examination remains within normal limits, featuring stable vitals and absent lymphadenopathy or bone tenderness. Abdominal palpation is soft and non-tender, with a palpable bladder correlating with the documented prostate volume."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination",
+    "Audiology — hearing test",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "20 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

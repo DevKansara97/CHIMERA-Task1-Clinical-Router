@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "vol": "noted",
+    "pirads": "important",
+    "psa": "important",
+    "dre": "noted",
+    "age": "important",
+    "comorbidity": "noted",
+    "cspca": "noted",
+    "fh": "noted",
+    "psad": "important",
+    "bx": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Young patient with elevated PSA (>10), elevated PSA density, PIRADS5 and ISUP GG2 disease -> low threshold for recommending curative treatment. IF patient does not want to go to curative treatment, low threshold for biopsy to exclude higher-risk disease."
+}

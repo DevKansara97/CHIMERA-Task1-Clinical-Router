@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_3b6ea1920967",
+  "pid": "PT-pseudo_3b6ea1920967",
+  "task": 1,
+  "psa": 6.5,
+  "age": 64,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 1.22,
+  "psap": 4.5,
+  "vol": 59.14,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7465537,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.5 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 59 mL. csPCa 0.75.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "174 cm",
+    "bmi": "23.1",
+    "bp": "146/61 mmHg",
+    "hr": "63 bpm",
+    "smoking": "Ex-smoker (38 pack-yr, quit 2007)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Jan 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical assessment required due to a prior prostate cancer diagnosis coupled with a recent PSA increase to 6.5 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A 64-year-old retired primary school teacher initially came to medical attention for an incidental PSA rise in early 2023 and has since remained under surveillance after his first positive biopsy. He is widowed and shares his home with a long-term partner, enjoying an active routine that features weekend hiking alongside moderate alcohol intake of roughly four units weekly. He reports moderate lower urinary tract symptoms scoring 13 on the IPSS, while explicitly denying hematuria, bone pain, or unexplained weight loss. His smoking history includes 38 pack-years, having ceased consumption in 2007. He maintains a residence situated over ninety minutes from the clinic and has expressed a preference for telephone follow-ups when clinically suitable, having recently finished a baseline memory clinic screening and a standard audiology assessment."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: unrestricted; asymmetry: absent. The gland presents as symmetrically enlarged without palpable nodules. General examination remains unremarkable, with stable vital signs, clear lung fields, and a regular cardiac rhythm. Peripheral lymphadenopathy and abdominal masses are notably absent."
+    }
+  ],
+  "occupation": "retired primary school teacher",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Erasmus MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

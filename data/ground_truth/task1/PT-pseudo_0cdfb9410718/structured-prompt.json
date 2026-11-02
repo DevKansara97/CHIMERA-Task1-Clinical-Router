@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_0cdfb9410718",
+  "pid": "PT-pseudo_0cdfb9410718",
+  "task": 1,
+  "psa": 5.2,
+  "age": 68,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.151,
+  "psav": 1.62,
+  "psap": 4.2,
+  "vol": 34.49,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.5618297,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 5.2 ng/mL. PI-RADS 4. PSAD 0.15. Prostate volume 34 mL. csPCa 0.56.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "169 cm",
+    "bmi": "25.2",
+    "bp": "143/64 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (35 pack-yr, quit 2002)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation alongside previous prostate biopsy results prompts this clinical review."
+    },
+    {
+      "s": "History",
+      "t": "A 68-year-old graphic designer entered the clinical pathway in late 2022 after a PSA of 2.2 ng/mL was identified. Married and currently residing alone while his spouse works elsewhere, he serves as the primary contact. Complete alcohol abstinence characterizes his habits, alongside a rigorous cycling routine of roughly 20 kilometres twice weekly. He carries a smoking history of 35 pack-years, having quit in 2002. Lower urinary tract symptoms remain negligible, reflected by an IPSS score of 1/35. Morning visitation suits his schedule due to public transit availability. Medical history lacks significant comorbidities or active medications. Recent interventions included physiotherapy for persistent lower back pain and a routine thyroid screening at an endocrine clinic. He explicitly denies unexplained weight loss, bone pain, or haematuria."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a symmetrically smooth prostate with normal dimensions and firmness, lacking any palpable nodules or asymmetry. Vital signs remain stable, and both cardiovascular and respiratory assessments fall within normal limits. General examination shows no peripheral lymphadenopathy or abdominal masses."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

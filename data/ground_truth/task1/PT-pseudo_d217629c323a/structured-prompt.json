@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_d217629c323a",
+  "pid": "PT-pseudo_d217629c323a",
+  "task": 1,
+  "psa": 3.8,
+  "age": 70,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.126,
+  "psav": 1.39,
+  "psap": 2.6,
+  "vol": 30.21,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.79094493,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 3.8 ng/mL. PI-RADS 4. PSAD 0.13. Prostate volume 30 mL. DRE nodus. csPCa 0.79.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "83 kg",
+    "height": "183 cm",
+    "bmi": "24.8",
+    "bp": "102/63 mmHg",
+    "hr": "88 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Routine monitoring for a previously identified Gleason 3+4 lesion alongside a recent PSA increase to 3.8 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A seventy-year-old retired postal worker, married and living with his partner, attends for ongoing surveillance of a previously diagnosed Gleason 3+4 focus. Current laboratory data shows a PSA elevation to 3.8 ng/mL. This gentleman is a non-smoker, maintains a robust routine that includes biweekly tennis matches, and limits alcohol intake to roughly six standard drinks weekly. Lower urinary tract complaints are negligible, reflected by an IPSS score of 2, with explicit denial of haematuria or erectile difficulties. Ophthalmic history includes bilateral cataract removal three years back, necessitating large-print materials for mild visual deficits, alongside a recent dental screening. Systemic review reveals no unexplained weight reduction, skeletal discomfort, or constitutional complaints. Concurrently, no comorbid conditions or active pharmacological agents are recorded."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a gland measuring approximately 30 mL, characterized by a firm, discrete nodule within the right lobe. The remaining prostatic tissue exhibits symmetry without tenderness, and palpation of the inguinal regions detects no lymphadenopathy. Vital parameters remain stable, with general survey showing no evidence of systemic pathology."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

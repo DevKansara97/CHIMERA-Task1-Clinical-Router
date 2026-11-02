@@ -1,0 +1,61 @@
+{
+  "case_id": "PT-pseudo_41ca49bed13d",
+  "pid": "PT-pseudo_41ca49bed13d",
+  "task": 1,
+  "psa": 14.0,
+  "age": 47,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.734,
+  "psav": 2.79,
+  "psap": 12.0,
+  "vol": 19.07,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.8159218,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 14 ng/mL. PI-RADS 4. PSAD 0.73. Prostate volume 19 mL. DRE nodus. csPCa 0.82.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "89 kg",
+    "height": "179 cm",
+    "bmi": "27.8",
+    "bp": "135/77 mmHg",
+    "hr": "82 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "04 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Evaluation is requested after a PSA increase to 14.0 ng/mL coincides with an MRI revealing a highly suspicious lesion."
+    },
+    {
+      "s": "History",
+      "t": "At 47 years of age, this mechanical engineer underwent initial PSA screening in 2022 and has since tracked his biomarkers through routine blood work. He remains a non-smoker with no regular pharmacological interventions or notable comorbid conditions. A biopsy bucket of \"None\" applies to his current diagnostic phase. His lifestyle includes commuter cycling five days weekly and roughly nine alcohol units per week. Although married, he resides alone, relying on his spouse for daily support. Lower urinary tract complaints dominate his current presentation, marked by an IPSS score of 27 stemming from nocturia and a diminished urinary stream that heavily disrupts his routine. He occasionally experiences mild fatigue, which he links to occupational stress and a hearing deficit requiring written consultation summaries. A knee arthroscopy performed during his thirties for athletic trauma remains an isolated past event without recent sequelae."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Digital assessment uncovers an asymmetrically enlarged gland harboring a firm, discrete nodule within the right mid-gland region. Abdominal and cardiovascular surveys show no abnormalities, vital parameters remain stable, and systemic pathology is absent."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "9 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 27/35 (severe LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

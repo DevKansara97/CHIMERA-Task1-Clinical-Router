@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "vol": "noted",
+    "psad": "not_used",
+    "comorbidity": "not_used",
+    "pirads": "decisive",
+    "age": "important",
+    "fh": "not_used",
+    "dre": "noted",
+    "cspca": "not_used",
+    "psa": "decisive",
+    "bx": "decisive"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Start treating the patent. It does not make sense to not treat this man initially."
+}

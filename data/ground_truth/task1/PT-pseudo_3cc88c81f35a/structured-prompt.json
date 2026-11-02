@@ -1,0 +1,61 @@
+{
+  "case_id": "PT-pseudo_3cc88c81f35a",
+  "pid": "PT-pseudo_3cc88c81f35a",
+  "task": 1,
+  "psa": 8.3,
+  "age": 66,
+  "months": 3,
+  "pirads": "2",
+  "psad": 0.206,
+  "psav": 0.78,
+  "psap": 6.7,
+  "vol": 40.2,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.69907415,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 8.3 ng/mL. PI-RADS 2. PSAD 0.21. Prostate volume 40 mL. DRE nodus. csPCa 0.70.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "85 kg",
+    "height": "180 cm",
+    "bmi": "26.2",
+    "bp": "114/76 mmHg",
+    "hr": "88 bpm",
+    "smoking": "Ex-smoker (11 pack-yr, quit 2010)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "27 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review sought after a previous prostate biopsy and a recent PSA increase to 8.3 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "He is a 66-year-old man initially flagged for an elevated PSA during routine primary care screening in 2023. Subsequent monitoring involved serial blood work and a previous biopsy that returned Positive for low-grade disease. He works as a retired warehouse worker, remains married, and shares a multi-generational household with his spouse and an adult child. Daily life revolves around gardening rather than formal exercise. He is an Ex-smoker (11 pack-yr, quit 2010), while alcohol intake remains minimal at roughly one unit weekly. He experiences occasional mild urinary hesitancy and nocturia, corresponding to an IPSS score of 17, yet explicitly denies bone pain, unexplained weight loss, or haematuria. Comorbidities: none. Active medication: None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: firm, asymmetrically enlarged prostate with a discrete Nodus palpable in the left peripheral zone. The rest of the abdominal and cardiovascular evaluation remains unremarkable, documenting a blood pressure of 114/76 mmHg and a steady heart rate of 88 bpm. Overall, he presents as well-appearing without pallor or peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "1 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 17/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

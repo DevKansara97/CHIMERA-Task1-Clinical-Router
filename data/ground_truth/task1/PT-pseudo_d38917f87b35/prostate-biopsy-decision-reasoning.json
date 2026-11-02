@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "important",
+    "age": "important",
+    "bx": "important",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "psa": "important",
+    "dre": "important",
+    "psad": "important",
+    "vol": "noted",
+    "cspca": "not_used"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Highrisk disease in young patient. Should be treated, not get another biopsy."
+}

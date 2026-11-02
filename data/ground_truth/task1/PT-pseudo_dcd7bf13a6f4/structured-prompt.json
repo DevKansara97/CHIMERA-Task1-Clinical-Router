@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_dcd7bf13a6f4",
+  "pid": "PT-pseudo_dcd7bf13a6f4",
+  "task": 1,
+  "psa": 6.77,
+  "age": 74,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.239,
+  "psav": 1.85,
+  "psap": 4.3,
+  "vol": 28.27,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.8536296,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.77 ng/mL. PI-RADS 5. PSAD 0.24. Prostate volume 28 mL. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "171 cm",
+    "bmi": "27.4",
+    "bp": "133/92 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Current smoker (38 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Evaluation is required given the ascending prostate-specific antigen levels and the recently completed multiparametric MRI."
+    },
+    {
+      "s": "History",
+      "t": "Investigation was initiated for a progressively climbing prostate-specific antigen in this 74-year-old graphic designer. The most recent laboratory draw recorded 6.77 ng/mL, an increase from 2.6 ng/mL back in January 2024. He shares his home with his partner, stays active through twice-weekly tennis sessions, and limits alcohol intake to approximately three units per week. Severe lower urinary tract symptoms dominate his clinical picture, yielding an IPSS of 22, yet he explicitly denies hematuria, pelvic discomfort, or systemic complaints. His surgical history includes a right knee arthroscopy performed half a decade ago, while his blood pressure remains controlled without pharmacological intervention. A substantial smoking history of 38 pack-years is noted. Following a recent routine chest X-ray, he requests written documentation due to mild hearing loss that complicates rapid conversation."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a uniformly smooth gland with no focal induration, asymmetry, or palpable nodules. The subject appears well-nourished and shows no signs of acute distress. Vitals register at a blood pressure of 133/92 mmHg and a heart rate of 72 bpm. Otoscopic evaluation confirms mild bilateral hearing deficits, aligning with his stated difficulty tracking fast-paced dialogue. The remainder of the systemic survey yields unremarkable results."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 22/35 (severe LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

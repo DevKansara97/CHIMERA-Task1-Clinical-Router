@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_4edb17f79e46",
+  "pid": "PT-pseudo_4edb17f79e46",
+  "task": 1,
+  "psa": 9.2,
+  "age": 54,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.16,
+  "psav": 1.51,
+  "psap": 7.5,
+  "vol": 57.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.7709042,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 9.2 ng/mL. PI-RADS 4. PSAD 0.16. Prostate volume 57 mL. csPCa 0.77.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "72 kg",
+    "height": "177 cm",
+    "bmi": "23.0",
+    "bp": "161/76 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Feb 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A documented upward trajectory in prostate-specific antigen levels alongside a previously negative biopsy necessitates clinical re-assessment."
+    },
+    {
+      "s": "History",
+      "t": "This 54-year-old gentleman works as a retired farmer residing in a ground-floor apartment shared with his partner. He originally entered the diagnostic pathway in May 2023 due to an elevated PSA. A non-smoker with no comorbidities or active medications, he maintains an active routine that includes running five kilometres three times weekly and consumes approximately thirteen units of alcohol each week. Lower urinary tract symptoms remain minimal, reflected by an IPSS score of five, and he explicitly denies haematuria, unexplained weight loss, or bone pain. His surgical past includes a childhood appendectomy and a right knee arthroscopy for a meniscal tear conducted fifteen years prior. Recent visits to an audiology clinic for standard hearing screening noted occasional mild tinnitus, though he otherwise reports feeling well. He commutes roughly sixty minutes by train to reach this facility. A prior biopsy returned negative, and digital rectal examination is normal."
+    },
+    {
+      "s": "Physical examination",
+      "t": "On examination, digital rectal assessment is normal; the prostate reveals a symmetrically enlarged contour, smooth and firm consistency, with no palpable nodules or asymmetry. General inspection shows a blood pressure of 161/76 mmHg with a regular pulse of 73 beats per minute. Peripheral lymphadenopathy and abdominal masses are notably absent."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test"
+  ],
+  "alcohol": "13 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

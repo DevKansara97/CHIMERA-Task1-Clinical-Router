@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_f87b704d91af",
+  "pid": "PT-pseudo_f87b704d91af",
+  "task": 1,
+  "psa": 7.0,
+  "age": 62,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.17,
+  "psav": 1.43,
+  "psap": 4.8,
+  "vol": 40.49,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7916967,
+  "medhx": "Hypertension",
+  "meds": "valsartan, lisinopril, metoprolol",
+  "notes": "PSA 7 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 40 mL. csPCa 0.79.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "179 cm",
+    "bmi": "26.2",
+    "bp": "146/96 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Current smoker (36 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "11 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Recent PSA elevation alongside a history of low-grade prostate cancer warrants clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "At sixty-two years of age, this retired civil engineer underwent initial workup for a PSA elevation in late 2022, culminating in a biopsy that confirmed ISUP Grade Group 1 disease. He adheres strictly to active surveillance protocols and manages well-controlled hypertension with valsartan, lisinopril, and metoprolol, supported by stable cardiology follow-ups. Married and residing with his partner, he benefits from weekly visits by his adult children. His daily habits include a twenty-minute walking regimen and roughly seventeen units of alcohol weekly. A current smoker with a thirty-six pack-year history, he recently attended physiotherapy for mechanical lower back pain and saw vascular surgery regarding asymptomatic varicose veins. He explicitly denies unexplained weight loss, bone pain, or haematuria, prioritizing independence in his retirement years."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and symmetric; mobility: unremarkable; asymmetry: absent. General inspection shows a well-nourished gentleman in no acute distress. Vital signs record a blood pressure of 146/96 mmHg alongside a regular pulse at 75 bpm. Peripheral lymphadenopathy and abdominal masses are notably absent."
+    }
+  ],
+  "occupation": "retired civil engineer",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "17 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

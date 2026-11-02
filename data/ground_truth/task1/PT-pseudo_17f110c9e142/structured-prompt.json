@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_17f110c9e142",
+  "pid": "PT-pseudo_17f110c9e142",
+  "task": 1,
+  "psa": 6.9,
+  "age": 67,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.171,
+  "psav": 0.72,
+  "psap": 5.3,
+  "vol": 40.33,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8314881,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 5. PSAD 0.17. Prostate volume 40 mL. DRE nodus. csPCa 0.83.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "177 cm",
+    "bmi": "22.3",
+    "bp": "124/70 mmHg",
+    "hr": "82 bpm",
+    "smoking": "Ex-smoker (10 pack-yr, quit 2023)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "24 Feb 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Specialist reassessment is requested due to a previous prostate cancer diagnosis coupled with a recent PSA increase to 6.9 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A 67-year-old retired warehouse worker initiated evaluation for prostate anomalies in 2024 after an initial PSA spike. Currently married yet residing independently, he relies on his adult son for emergency contact and his daughter for managing correspondence. Moderate lower urinary tract symptoms, notably nocturia and a diminished stream, yield an IPSS score of 17. Daily habits encompass a 20-minute walking routine and moderate alcohol intake averaging 16 units weekly. Recent outpatient screenings for hearing and actinic keratosis remain stable. He explicitly denies unexplained weight loss, skeletal pain, or haematuria, maintaining full independence in daily activities. Status: Ex-smoker (10 pack-yr, quit 2023)."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum: Nodus DRE identifies a discrete, firm mass situated in the right peripheral zone, aligning with a cT2 classification. The remainder of the gland demonstrates symmetrical enlargement without additional abnormalities. Systemic assessment shows normal cardiorespiratory parameters. The individual maintains a well-nourished appearance and demonstrates unassisted mobility."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "16 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 17/35 (moderate LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

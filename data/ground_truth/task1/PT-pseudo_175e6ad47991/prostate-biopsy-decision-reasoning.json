@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psa": "important",
+    "age": "decisive",
+    "psad": "noted",
+    "bx": "important",
+    "dre": "important",
+    "comorbidity": "not_used",
+    "pirads": "important",
+    "fh": "not_used",
+    "vol": "important",
+    "cspca": "not_used"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "P5 in 79 years old man with earlier negative biopsy. Need to discuss with patient."
+}

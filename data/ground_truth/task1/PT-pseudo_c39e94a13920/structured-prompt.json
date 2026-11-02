@@ -1,0 +1,69 @@
+{
+  "case_id": "PT-pseudo_c39e94a13920",
+  "pid": "PT-pseudo_c39e94a13920",
+  "task": 1,
+  "psa": 12.4,
+  "age": 67,
+  "months": 3,
+  "pirads": "3",
+  "psad": 0.08,
+  "psav": 1.58,
+  "psap": 11.3,
+  "vol": 149.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.58010316,
+  "medhx": "Hypercholesterolaemia, Chronic kidney disease, Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "atorvastatin, rosuvastatin",
+  "notes": "PSA 12.4 ng/mL. PI-RADS 3. PSAD 0.08. Prostate volume 149 mL. csPCa 0.58.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Chronic kidney disease",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "178 cm",
+    "bmi": "28.7",
+    "bp": "128/89 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (19 pack-yr, quit 2016)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "03 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review sought due to sustained PSA elevation and a previously positive biopsy result."
+    },
+    {
+      "s": "History",
+      "t": "A 67-year-old married graphic designer residing with his partner, who receives weekly visits from his adult children, presents for this assessment. Initial symptoms included mild lower urinary tract complaints (IPSS 7/35), prompting surveillance that began in mid-2023. His medical background encompasses hypercholesterolaemia treated with atorvastatin and rosuvastatin, stage 3 chronic kidney disease (creatinine 166 umol/L, eGFR <60), and knee osteoarthritis. He ceased smoking in 2016 after accumulating 19 pack-years and sustains a fitness regimen of 5 km runs three times weekly, alongside a modest alcohol intake of four units per week. Recent interventions include a six-session physiotherapy course for mechanical lower back pain and routine endocrinology thyroid screening, both remaining clinically stable. While he reports occasional fatigue, he attributes this to visual impairment requiring large-print materials and expresses no particular anxiety regarding his prostate cancer history."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — prostate: symmetrically enlarged, smooth, firm; no palpable nodules or asymmetry detected. General inspection reveals no abnormalities. Cardiovascular and respiratory auscultation are normal. Peripheral oedema and lymphadenopathy are absent."
+    }
+  ],
+  "occupation": "graphic designer",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

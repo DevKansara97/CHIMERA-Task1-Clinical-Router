@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_562159dc2cc6",
+  "pid": "PT-pseudo_562159dc2cc6",
+  "task": 1,
+  "psa": 9.9,
+  "age": 48,
+  "months": 3,
+  "pirads": "2",
+  "psad": 0.19,
+  "psav": 0.31,
+  "psap": 6.7,
+  "vol": 50.0,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.6607788,
+  "medhx": "Hypertension",
+  "meds": "lisinopril, metoprolol",
+  "notes": "PSA 9.9 ng/mL. PI-RADS 2. PSAD 0.19. Prostate volume 50 mL. csPCa 0.66.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "73 kg",
+    "height": "180 cm",
+    "bmi": "22.5",
+    "bp": "137/81 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (35 pack-yr, quit 2016)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation and recent multiparametric MRI prompt this clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "Long-standing clinical tracking continues for fluctuating PSA values, first documented at 9.3 ng/mL during early 2024. A 48-year-old retired postal worker currently navigating a married life while residing independently, with his adult daughter serving as the main point of contact. Moderate lower urinary tract symptoms surface regularly, yielding an IPSS score of 15 out of 35, though he explicitly denies any pelvic discomfort or hematuria. Well-managed hypertension relies on lisinopril and metoprolol, with no recorded drug allergies. His tobacco use spans 35 pack-years, successfully discontinued back in 2016. Outside urological concerns, he attends physiotherapy for chronic lower back strain, visits a pain clinic for lingering shoulder issues, and recently finished a sleep clinic evaluation regarding suspected obstructive sleep apnoea. Alcohol remains completely absent from his routine, which otherwise features weekend hiking trips. Morning scheduling strictly aligns with his public transport availability."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum: the prostate presents symmetrically with a smooth, firm consistency, lacking any palpable nodules or asymmetry, consistent with a normal digital rectal examination. Vital signs remain stable, recording a blood pressure of 137/81 mmHg and a regular heart rate of 81 bpm. General physical assessment proves entirely unremarkable, with no palpable lymphadenopathy or abdominal masses detected."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions",
+    "Sleep clinic — suspected obstructive sleep apnoea",
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 15/35 (moderate LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

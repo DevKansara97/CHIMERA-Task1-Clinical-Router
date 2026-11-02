@@ -1,0 +1,93 @@
+{
+  "radiology_report": "Radiology Division | Antoni van Leeuwenhoek | 02 Jan 2025 | Multiparametric MRI Prostate\n\nClinical Indication: Rising PSA (25.0 ng/mL) paired with an abnormal digital rectal examination; prior biopsy bucket Positive.\n\nFINDINGS:\nProstate volume registers at 31.91 mL. A discrete focus occupies the left peripheral zone spanning the base to mid-gland, spanning roughly 18 mm. T2 sequences show pronounced hypointensity with poorly demarcated borders. Diffusion-weighted imaging highlights restricted movement alongside low ADC mapping, pointing toward high cellular density. Post-contrast dynamics capture early, localized enhancement against the background parenchyma. No extraprostatic spread or seminal vesicle infiltration is seen. Pelvic nodes remain unenlarged. Skeletal survey reveals no suspicious osseous changes.\n\nIMPRESSION:\nPI-RADS 5 lesion in the left peripheral zone (base/mid), measuring approximately 18 mm. Prostate volume 31.91 mL. PSA density 0.783 ng/mL/mL. csPCa predicted probability 0.918368.",
+  "previous_notes": [
+    {
+      "date": "04 Sep 2024",
+      "author": "Dr. R. Visser (GP)",
+      "text": "PSA values have climbed steadily, moving from 9.4 ng/mL in March 2022 up to 13.2 ng/mL by August 2023. Alongside an abnormal digital rectal examination and his continued work as an active dairy farmer, these markers prompted clinical attention. He remains otherwise stable."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Mar 2022",
+      "val": 2.6
+    },
+    {
+      "date": "Aug 2023",
+      "val": 16.3
+    },
+    {
+      "date": "Jan 2025",
+      "val": 25.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "25.0 ng/mL",
+      "date": "30 Nov 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "5.68 ng/mL",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "23%",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.7 g/dL",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "8.0 x10^9/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "215 x10^9/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "80 umol/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.5 nmol/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "58 U/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "179 U/L",
+      "date": "30 Nov 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

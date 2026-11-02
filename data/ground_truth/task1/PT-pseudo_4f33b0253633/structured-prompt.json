@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_4f33b0253633",
+  "pid": "PT-pseudo_4f33b0253633",
+  "task": 1,
+  "psa": 7.4,
+  "age": 61,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.16,
+  "psav": 0.97,
+  "psap": 5.8,
+  "vol": 45.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.61967,
+  "medhx": "Hypertension, Benign prostatic hyperplasia, Atrial fibrillation",
+  "meds": "lisinopril, metoprolol, tamsulosin",
+  "notes": "PSA 7.4 ng/mL. PI-RADS 3. PSAD 0.16. Prostate volume 45 mL. csPCa 0.62.",
+  "pmhx": [
+    "Hypertension",
+    "Benign prostatic hyperplasia",
+    "Atrial fibrillation"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "98 kg",
+    "height": "185 cm",
+    "bmi": "28.6",
+    "bp": "128/80 mmHg",
+    "hr": "57 bpm",
+    "smoking": "Ex-smoker (38 pack-yr, quit 2017)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation warrants reassessment after a previous Negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old retired butcher currently residing alone, with his adult daughter acting as his main contact and support. Marital status is divorced. He takes lisinopril and metoprolol for hypertension and atrial fibrillation, plus tamsulosin for benign prostatic hyperplasia, maintaining a low IPSS score of 2 out of 35. Visual impairment necessitates large-print reading materials. He engages in tennis twice weekly and limits alcohol intake to roughly four units each week. Recent outpatient visits included routine ophthalmologic cataract screening and endocrinology thyroid evaluation. Surgical background encompasses a 2015 laparoscopic cholecystectomy and a right knee arthroscopy performed ten years prior, both resolved without complication. He stopped smoking in 2017 after accumulating 38 pack-years."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination remains normal; the prostate measures symmetrically enlarged with smooth, homogeneous consistency and no palpable nodules or asymmetries. Vital signs remain stable: blood pressure registers at 128/80 mmHg and heart rate holds steady at 57 beats per minute. Abdominal palpation and systemic review uncover no lymphadenopathy or masses."
+    }
+  ],
+  "occupation": "retired butcher",
+  "marital": "Divorced",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Ophthalmology — cataract review",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

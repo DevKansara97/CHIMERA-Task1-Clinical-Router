@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_a37319c14573",
+  "pid": "PT-pseudo_a37319c14573",
+  "task": 1,
+  "psa": 12.87,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.25,
+  "psav": 2.47,
+  "psap": 11.0,
+  "vol": 52.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.85843223,
+  "medhx": "Hypertension",
+  "meds": "valsartan, lisinopril, metoprolol",
+  "notes": "PSA 12.87 ng/mL. PI-RADS 5. PSAD 0.25. Prostate volume 52 mL. csPCa 0.86.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "123 kg",
+    "height": "199 cm",
+    "bmi": "31.1",
+    "bp": "142/86 mmHg",
+    "hr": "69 bpm",
+    "smoking": "Ex-smoker (35 pack-yr, quit 2006)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation of prostate-specific antigen warrants reassessment following a previously positive biopsy."
+    },
+    {
+      "s": "History",
+      "t": "At 67 years of age, this retired postal worker entered the clinical pipeline after an incidental PSA rise surfaced in 2022. Married and cohabiting with his partner, he maintains a rigorous fitness regimen that includes three weekly five-kilometre runs. His lower urinary tract symptoms remain stable, characterized mainly by moderate frequency and nocturia. A 35 pack-year smoking history ended in 2006. Hypertension is currently controlled using valsartan, lisinopril, and metoprolol. A recent endocrinology visit for standard thyroid screening returned normal results. He explicitly denies unexplained weight fluctuations, skeletal discomfort, or blood in the urine."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal examination; symmetrically enlarged gland with uniform smoothness, lacking palpable asymmetry or discrete nodules. Vital signs show stable hemodynamics at 142/86 mmHg and a regular pulse of 69 bpm. Systemic review reveals no lymphadenopathy or abdominal masses."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "16 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 17/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

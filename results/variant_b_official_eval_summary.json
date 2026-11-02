@@ -1,0 +1,106 @@
+{
+  "cohort_size": 91,
+  "architecture": "Variant B Clinical-Context Router",
+  "cv_strategy": "5-fold Stratified CV, 5 repeats",
+  "scorecard": {
+    "V0 Ensemble (t=0.48)": {
+      "Ranking Score": 0.6007,
+      "Mean Case Score": 0.4513,
+      "Biopsy F1": 0.75,
+      "Accuracy": 0.6484,
+      "Confidence Score": 0.7968,
+      "Variable Weight": 0.8642,
+      "Factor F1": 0.7385,
+      "Tool Score": 1.0,
+      "Grounding Score": 0.0
+    },
+    "V1 Rule PI>=4": {
+      "Ranking Score": 0.6476,
+      "Mean Case Score": 0.4892,
+      "Biopsy F1": 0.806,
+      "Accuracy": 0.7143,
+      "Confidence Score": 0.7615,
+      "Variable Weight": 0.8636,
+      "Factor F1": 0.7336,
+      "Tool Score": 0.9846,
+      "Grounding Score": 0.0
+    },
+    "V2 Rule + Ensemble": {
+      "Ranking Score": 0.6171,
+      "Mean Case Score": 0.4548,
+      "Biopsy F1": 0.7793,
+      "Accuracy": 0.6637,
+      "Confidence Score": 0.7632,
+      "Variable Weight": 0.8647,
+      "Factor F1": 0.7328,
+      "Tool Score": 0.9834,
+      "Grounding Score": 0.0
+    },
+    "V3 Variant B (route_honest)": {
+      "Ranking Score": 0.6626,
+      "Mean Case Score": 0.5098,
+      "Biopsy F1": 0.8154,
+      "Accuracy": 0.7363,
+      "Confidence Score": 0.7688,
+      "Variable Weight": 0.8768,
+      "Factor F1": 0.7418,
+      "Tool Score": 0.99,
+      "Grounding Score": 0.0
+    },
+    "V3 Variant B (route_data)": {
+      "Ranking Score": 0.6622,
+      "Mean Case Score": 0.509,
+      "Biopsy F1": 0.8154,
+      "Accuracy": 0.7363,
+      "Confidence Score": 0.7644,
+      "Variable Weight": 0.8768,
+      "Factor F1": 0.7418,
+      "Tool Score": 0.99,
+      "Grounding Score": 0.0
+    },
+    "V3 Variant B (global reasoning)": {
+      "Ranking Score": 0.6631,
+      "Mean Case Score": 0.5109,
+      "Biopsy F1": 0.8154,
+      "Accuracy": 0.7363,
+      "Confidence Score": 0.7926,
+      "Variable Weight": 0.8624,
+      "Factor F1": 0.7388,
+      "Tool Score": 0.994,
+      "Grounding Score": 0.0
+    },
+    "V3c Variant B (no specialist)": {
+      "Ranking Score": 0.6387,
+      "Mean Case Score": 0.4762,
+      "Biopsy F1": 0.8012,
+      "Accuracy": 0.6945,
+      "Confidence Score": 0.7453,
+      "Variable Weight": 0.8772,
+      "Factor F1": 0.7376,
+      "Tool Score": 0.9842,
+      "Grounding Score": 0.0
+    }
+  },
+  "primary_oof_aggregate": {
+    "n_cases": 91,
+    "n_evaluated": 91,
+    "n_decision_correct": 66,
+    "n_decision_incorrect": 25,
+    "mean_case_score": 0.5005859418359419,
+    "ranking_score": 0.6533937461117694,
+    "decision_accuracy": 0.7252747252747253,
+    "decision_f1_yes": 0.8062015503875969,
+    "decision_weighted_f1": null,
+    "confidence_weighted_kappa": 0.28241822429906527,
+    "variable_weight_weighted_kappa": 0.6290726817042607,
+    "mean_tool_score": 0.9797979797979799,
+    "mean_section_grounding_score": 0.0,
+    "mean_rationale_score": null,
+    "decision_gate_pass_rate": 0.7252747252747253,
+    "mean_case_score_among_gate_passed": 0.6902018288950107,
+    "decision_classification_report": "              precision    recall  f1-score   support\n\n          no       0.78      0.40      0.53        35\n         yes       0.71      0.93      0.81        56\n\n    accuracy                           0.73        91\n   macro avg       0.75      0.66      0.67        91\nweighted avg       0.74      0.73      0.70        91\n",
+    "mean_confidence_score": 0.7727272727272727,
+    "mean_variable_weight_score": 0.8747474747474748,
+    "mean_important_decisive_factor_score": 0.7360739428921247
+  }
+}

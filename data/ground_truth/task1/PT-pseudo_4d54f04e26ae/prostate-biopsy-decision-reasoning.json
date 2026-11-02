@@ -1,0 +1,20 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "dre": "important",
+    "cspca": "important",
+    "age": "noted",
+    "bx": "noted",
+    "psad": "decisive",
+    "comorbidity": "noted",
+    "vol": "important",
+    "psa": "important",
+    "pirads": "important",
+    "fh": "not_used"
+  },
+  "reveal_sequence": [
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "New (? -> no earlier MRI report available) PIRADS 4 with high PSA-density needs biopsy"
+}

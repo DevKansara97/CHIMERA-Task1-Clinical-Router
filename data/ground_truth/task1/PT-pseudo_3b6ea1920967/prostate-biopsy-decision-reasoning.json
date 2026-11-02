@@ -1,0 +1,21 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "comorbidity": "noted",
+    "pirads": "important",
+    "bx": "important",
+    "age": "important",
+    "cspca": "not_used",
+    "psad": "noted",
+    "fh": "noted",
+    "vol": "noted",
+    "psa": "noted",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Need initial ISUP grade and MRI in men on active surveillance."
+}

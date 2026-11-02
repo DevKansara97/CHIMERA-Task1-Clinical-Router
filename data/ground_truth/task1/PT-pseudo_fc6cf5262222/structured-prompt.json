@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_fc6cf5262222",
+  "pid": "PT-pseudo_fc6cf5262222",
+  "task": 1,
+  "psa": 7.5,
+  "age": 61,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.179,
+  "psav": 1.49,
+  "psap": 4.6,
+  "vol": 42.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.0,
+  "medhx": "Hypertension",
+  "meds": "valsartan, metoprolol",
+  "notes": "PSA 7.5 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 42 mL. csPCa 0.00.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "79 kg",
+    "height": "177 cm",
+    "bmi": "25.2",
+    "bp": "124/76 mmHg",
+    "hr": "83 bpm",
+    "smoking": "Ex-smoker (34 pack-yr, quit 2006)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment triggered by a recent PSA rise to 7.5 ng/mL and a previous biopsy bucket marked positive."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old self-employed contractor specializing in carpentry has remained under urological observation since his initial screening in 2022. He reports an IPSS score of 2 out of 35, indicating minimal lower urinary tract symptoms, and maintains a daily 45-minute walking regimen. Alcohol consumption averages six units weekly. An ex-smoker with a 34 pack-year history who ceased tobacco use in 2006, he currently lives independently while his wife resides elsewhere and their adult son checks in regularly. Hypertension is managed with valsartan and metoprolol. A recent vascular surgery consultation addressed asymptomatic varicose veins. He denies bone pain, haematuria, or unexplained weight loss, and his surgical background includes only a minor arthroscopic knee procedure performed more than ten years ago."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and symmetric; mobility: unremarkable; asymmetry: absent.\nGeneral assessment shows stable vital signs, including a blood pressure of 124/76 mmHg and a regular pulse at 83 beats per minute. Abdominal palpation yields no detectable masses or organ enlargement."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives alone; adult son nearby",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Erasmus MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

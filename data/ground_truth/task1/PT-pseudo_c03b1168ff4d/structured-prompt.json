@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_c03b1168ff4d",
+  "pid": "PT-pseudo_c03b1168ff4d",
+  "task": 1,
+  "psa": 7.8,
+  "age": 74,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.165,
+  "psav": 1.2,
+  "psap": 6.3,
+  "vol": 47.17,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.75055045,
+  "medhx": "Hypertension, Hypercholesterolaemia, Chronic kidney disease",
+  "meds": "valsartan, lisinopril, atorvastatin, simvastatin, rosuvastatin",
+  "notes": "PSA 7.8 ng/mL. PI-RADS 4. PSAD 0.17. Prostate volume 47 mL. csPCa 0.75.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "87 kg",
+    "height": "184 cm",
+    "bmi": "25.7",
+    "bp": "143/82 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (34 pack-yr, quit 2006)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Rising PSA levels combined with a previous positive biopsy mandate a current clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "A confirmed prostate malignancy now requires surveillance, following initial PSA investigation in mid-2022. The subject is a 74-year-old ICT consultant who remains married and resides alone, though his adult son lives in close proximity. Tobacco use ceased in 2006, following a 34 pack-year accumulation. Physical activity remains high, comprising three weekly five-kilometre runs, with no alcohol consumption. Distance to the clinic exceeds 90 minutes, and telephone consultations are preferred. Lower urinary tract symptoms are pronounced, yielding an IPSS score of 26. Hypertension, hypercholesterolaemia, and chronic kidney disease form the background of his medical history. Current pharmacotherapy consists of valsartan, lisinopril, atorvastatin, simvastatin, and rosuvastatin. Recent preventive care included a routine colonoscopy and audiology evaluation, while his latest cardiology review returned unremarkable."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination yields normal findings: a symmetrically enlarged gland with a smooth, firm consistency and no palpable nodules or asymmetry. Vital sign measurements record 143/82 mmHg for blood pressure and 81 bpm for heart rate. A general physical assessment notes a BMI of 25.7, alongside clear pulmonary fields, a regular cardiac rhythm, and an absence of peripheral oedema."
+    }
+  ],
+  "occupation": "ICT consultant",
+  "marital": "Married",
+  "living": "Lives alone; adult son nearby",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Audiology — hearing test"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 26/35 (severe LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

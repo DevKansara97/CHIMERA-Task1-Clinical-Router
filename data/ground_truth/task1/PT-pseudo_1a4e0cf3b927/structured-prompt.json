@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_1a4e0cf3b927",
+  "pid": "PT-pseudo_1a4e0cf3b927",
+  "task": 1,
+  "psa": 7.0,
+  "age": 74,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.427,
+  "psav": 1.15,
+  "psap": 6.3,
+  "vol": 16.4,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8631027,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 7 ng/mL. PI-RADS 5. PSAD 0.43. Prostate volume 16 mL. DRE nodus. csPCa 0.86.",
+  "pmhx": [],
+  "allergies": [
+    "Iodinated contrast (mild)"
+  ],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "175 cm",
+    "bmi": "27.4",
+    "bp": "116/70 mmHg",
+    "hr": "56 bpm",
+    "smoking": "Current smoker (37 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "24 Feb 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation of prostate-specific antigen alongside a history of biopsy-confirmed malignancy prompted this clinical review."
+    },
+    {
+      "s": "History",
+      "t": "A 74-year-old married tram driver who shares a home with his partner came to attention after routine primary care screening flagged a rising prostate-specific antigen level. He endorses mild lower urinary tract symptoms, tallying an IPSS of 6, characterized by slight nocturia and a weak stream, while explicitly denying pelvic pain or hematuria. Daily walks lasting 45 minutes sustain his activity level, and he abstains from alcohol entirely. A 37 pack-yr smoking history remains on record. Aside from a 2011 laparoscopic cholecystectomy, his medical background is clear. He notes occasional knee stiffness from prolonged standing on the tram platform, though swelling or inflammatory signs are absent. An Arabic interpreter will be present at our upcoming consultation to guarantee precise communication."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm, irregular Nodus (~1.5 cm) in the right lateral lobe; mobility: fixed; asymmetry: localized to the right, with the remainder of the gland maintaining symmetric architecture. General inspection reveals no abnormalities. Cardiovascular and respiratory auscultation are clear. Peripheral lymph nodes are non-palpable, and hepatosplenomegaly is absent. Vital signs register at 116/70 mmHg blood pressure and 56 beats per minute heart rate. Body mass index stands at 27.4 kg/m²."
+    }
+  ],
+  "occupation": "tram driver",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Bravis Ziekenhuis",
+  "ct": null,
+  "active_treatment_flag": 0
+}

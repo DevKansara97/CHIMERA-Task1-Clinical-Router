@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_958f2377f288",
+  "pid": "PT-pseudo_958f2377f288",
+  "task": 1,
+  "psa": 5.8,
+  "age": 55,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 1.73,
+  "psap": 4.1,
+  "vol": 54.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.48268548,
+  "medhx": "Hypertension, Type 2 diabetes",
+  "meds": "valsartan, empagliflozin",
+  "notes": "PSA 5.8 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 54 mL. csPCa 0.48.",
+  "pmhx": [
+    "Hypertension",
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "100 kg",
+    "height": "184 cm",
+    "bmi": "29.5",
+    "bp": "146/84 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Ex-smoker (16 pack-yr, quit 2011)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment of a previously established prostate malignancy alongside a continuous upward trajectory in prostate-specific antigen levels."
+    },
+    {
+      "s": "History",
+      "t": "Diagnostic workup commenced in late 2022 following an initial PSA measurement of 2.3 ng/mL, with subsequent tissue sampling establishing ISUP Grade Group 2 adenocarcinoma. Therapeutic management includes valsartan and empagliflozin, effectively controlling his hypertension and type 2 diabetes, with glycemic metrics currently stable at an HbA1c of 5.6%. Employment history lists him as a retired farmer who sustains daily physical activity through 45-minute walks and limits alcohol intake to approximately two units weekly. Marital status is married, though he resides independently, relying on proximity from his adult son for support. A tobacco background exists, quantified at 16 pack-years, with cessation achieved in 2011. Unrelated healthcare encounters recently covered podiatry maintenance and a pain clinic visit for persistent shoulder aches. He denies novel symptomatic developments and attends this consultation to discuss updated diagnostic data."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal. Prostatic assessment demonstrates uniform enlargement, firm consistency, and a smooth surface contour, lacking any discrete nodularity or lateral asymmetry. Systemic evaluation shows no acute abnormalities. Vital signs record a blood pressure of 146/84 mmHg alongside a steady pulse of 66 beats per minute. Nutritional status appears adequate, and the subject maintains independent mobility."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Married",
+  "living": "Lives alone; adult son nearby",
+  "next_of_kin": "None recorded — patient declines to nominate",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "UMCG (Groningen)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

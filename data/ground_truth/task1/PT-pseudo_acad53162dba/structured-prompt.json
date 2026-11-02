@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_acad53162dba",
+  "pid": "PT-pseudo_acad53162dba",
+  "task": 1,
+  "psa": 4.0,
+  "age": 65,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.07,
+  "psav": 0.78,
+  "psap": 3.5,
+  "vol": 56.95,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.6783018,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4 ng/mL. PI-RADS 4. PSAD 0.07. Prostate volume 57 mL. csPCa 0.68.",
+  "pmhx": [],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "88 kg",
+    "height": "185 cm",
+    "bmi": "25.7",
+    "bp": "121/78 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Ex-smoker (40 pack-yr, quit 2013)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Mar 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment is underway after a recent LUMC prostate MRI and a steady increase in prostate-specific antigen levels."
+    },
+    {
+      "s": "History",
+      "t": "Aged 65, the individual works as a retired accountant with no documented comorbidities, active prescriptions, or prior biopsy history (bucket None). Tobacco use ceased in 2013 after accumulating 40 pack-years. Marital status is married, though he currently maintains a solo household where his adult daughter acts as the main point of contact. Lower urinary tract symptoms remain negligible, scoring a 7 on the 35-point IPSS scale. Physical activity includes biweekly light resistance training, while alcohol consumption stays near one unit weekly. Past medical events are limited to a routine cataract procedure three years prior and a recent hearing evaluation for mild age-related changes. He has consistently opted out of clinical trials and reports no additional systemic issues."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The exam confirms a normal prostate, symmetrically enlarged yet smooth, lacking any focal nodules, asymmetry, or tenderness. General assessment shows stable vital signs and a body mass index of 25.7. Auscultation of the heart and lungs yields clear tones, with absent peripheral swelling or palpable lymph nodes."
+    }
+  ],
+  "occupation": "retired accountant",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Audiology — hearing test"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "LUMC (Leiden)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

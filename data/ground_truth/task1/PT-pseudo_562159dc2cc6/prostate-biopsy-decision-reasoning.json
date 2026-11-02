@@ -1,0 +1,19 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "bx": "noted",
+    "dre": "noted",
+    "psad": "important",
+    "psa": "noted",
+    "age": "important",
+    "fh": "not_used",
+    "pirads": "decisive",
+    "cspca": "noted",
+    "comorbidity": "noted",
+    "vol": "noted"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "No biopsy for PIRADS 2 unless PSA keeps rising"
+}

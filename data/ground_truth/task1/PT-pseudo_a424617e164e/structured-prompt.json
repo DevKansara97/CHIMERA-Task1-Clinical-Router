@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_a424617e164e",
+  "pid": "PT-pseudo_a424617e164e",
+  "task": 1,
+  "psa": 9.6,
+  "age": 66,
+  "months": 3,
+  "pirads": "3",
+  "psad": 0.32,
+  "psav": 2.11,
+  "psap": 7.2,
+  "vol": 30.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.6599411,
+  "medhx": "Hypercholesterolaemia",
+  "meds": "simvastatin, rosuvastatin",
+  "notes": "PSA 9.6 ng/mL. PI-RADS 3. PSAD 0.32. Prostate volume 30 mL. csPCa 0.66.",
+  "pmhx": [
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "77 kg",
+    "height": "169 cm",
+    "bmi": "27.0",
+    "bp": "134/71 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Ex-smoker (22 pack-yr, quit 2009)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Jan 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Escalating PSA values observed subsequent to a prior biopsy bucket marked Negative."
+    },
+    {
+      "s": "History",
+      "t": "A 66-year-old ICT consultant, married but currently lives alone while his spouse works overseas, he maintains a daily twenty-minute walking routine and consumes approximately twelve units of alcohol weekly. His medical background includes hypercholesterolaemia, treated with both simvastatin and rosuvastatin, alongside a smoking history of 22 pack-yr, quit in 2009. Moderate lower urinary tract symptoms yield an IPSS score of twelve, yet he denies haematuria, bone pain, or unintentional weight loss. Cardiology review during autumn 2024 and endocrine thyroid screening both returned stable results, complemented by routine dental visits. He reports mild visual impairment and has specifically requested large-print formatting for all clinic correspondence."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal DRE reveals a symmetrically smooth gland with typical consistency and no palpable nodules. General inspection shows stable vital signs and no peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "ICT consultant",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)",
+    "Dental — biannual check-up",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,21 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "fh": "noted",
+    "cspca": "not_used",
+    "comorbidity": "noted",
+    "pirads": "important",
+    "vol": "noted",
+    "dre": "noted",
+    "age": "noted",
+    "psad": "noted",
+    "psa": "important",
+    "bx": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Need to know if the lesion has grown or if it is stabile."
+}

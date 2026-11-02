@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_d3e975d025e6",
+  "pid": "PT-pseudo_d3e975d025e6",
+  "task": 1,
+  "psa": 15.8,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.318,
+  "psav": 0.96,
+  "psap": 15.4,
+  "vol": 49.63,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.84823215,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 15.8 ng/mL. PI-RADS 5. PSAD 0.32. Prostate volume 50 mL. DRE nodus. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "69 kg",
+    "height": "179 cm",
+    "bmi": "21.5",
+    "bp": "127/86 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Ex-smoker (19 pack-yr, quit 2016)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Ongoing assessment is required for sustained PSA elevation and newly acquired multiparametric MRI results."
+    },
+    {
+      "s": "History",
+      "t": "First evaluated for a January 2023 PSA elevation, this 67-year-old tram driver resides with his married partner and reports zero lower urinary tract symptoms (IPSS score of zero). He maintains an active routine, logging roughly 30 kilometres of cycling three times weekly, alongside a modest alcohol intake of six units per week. Tobacco use ceased in 2016 after a cumulative 19 pack-year exposure. His medical background remains clear, with no comorbidities or active medications documented. Morning scheduling aligns with his public transport needs. He denies bone pain, haematuria, or unexplained weight loss."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Per rectum: palpation reveals a discrete Nodus within the left peripheral zone, spanning roughly 1.5 cm, while right-sided symmetry remains intact. General inspection shows stable vital parameters, absence of palpable lymphadenopathy, and no hepatosplenomegaly."
+    }
+  ],
+  "occupation": "tram driver",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

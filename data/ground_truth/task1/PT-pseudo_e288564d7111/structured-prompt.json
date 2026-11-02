@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_e288564d7111",
+  "pid": "PT-pseudo_e288564d7111",
+  "task": 1,
+  "psa": 8.4,
+  "age": 53,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.187,
+  "psav": 1.6,
+  "psap": 3.6,
+  "vol": 45.02,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7531718,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 8.4 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 45 mL. csPCa 0.75.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "108 kg",
+    "height": "186 cm",
+    "bmi": "31.2",
+    "bp": "130/67 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Current smoker (15 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review requested after a PSA rise to 8.4 ng/mL alongside a history of biopsy-verified prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "A 53-year-old primary school teacher returns for ongoing prostate surveillance. He is widowed and resides with his partner, maintaining a regular cycling routine five days each week while averaging roughly 14 units of alcohol weekly. A current smoking history of 15 pack-years is noted. Prior biopsy bucket status is Positive. Comorbidities are absent, and active medication is None. He experiences severe lower urinary tract symptoms, scoring 25 on the IPSS questionnaire, which substantially disrupts his everyday activities, yet he explicitly denies hematuria or pelvic discomfort. Past medical records remain clear aside from a recent pain clinic visit for chronic shoulder pain that has plateaued over the last twelve months. There is no unexplained weight reduction, bone tenderness, or systemic illness, and his general stamina is excellent with an ECOG performance status of 0."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: prostate symmetrically enlarged, smooth and firm, devoid of palpable nodules or asymmetry. General assessment shows stable vital parameters, adequate nutritional status, and a regular gait. No abdominal masses or peripheral lymphadenopathy are detected."
+    }
+  ],
+  "occupation": "primary school teacher",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain"
+  ],
+  "alcohol": "14 units / week",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 25/35 (severe LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

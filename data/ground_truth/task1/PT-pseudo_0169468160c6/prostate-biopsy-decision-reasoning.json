@@ -1,0 +1,17 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "bx": "not_used",
+    "dre": "noted",
+    "cspca": "noted",
+    "vol": "noted",
+    "comorbidity": "noted",
+    "pirads": "decisive",
+    "fh": "not_used",
+    "age": "noted",
+    "psad": "noted",
+    "psa": "decisive"
+  },
+  "reveal_sequence": [],
+  "free_text": "Very High PSA.\nMost likely metastatic"
+}

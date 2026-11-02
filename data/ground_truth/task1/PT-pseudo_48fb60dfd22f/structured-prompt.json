@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_48fb60dfd22f",
+  "pid": "PT-pseudo_48fb60dfd22f",
+  "task": 1,
+  "psa": 24.0,
+  "age": 68,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.986,
+  "psav": 3.9,
+  "psap": 16.9,
+  "vol": 24.35,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.8596296,
+  "medhx": "Hypertension, Osteoarthritis",
+  "meds": "metoprolol, paracetamol PRN",
+  "notes": "PSA 24 ng/mL. PI-RADS 5. PSAD 0.99. Prostate volume 24 mL. csPCa 0.86.",
+  "pmhx": [
+    "Hypertension",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "93 kg",
+    "height": "189 cm",
+    "bmi": "26.0",
+    "bp": "130/73 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Feb 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment sought after mpMRI acquisition and a PSA increase reaching 24.0 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A 68-year-old mechanical engineer initiated evaluation in September 2022 due to an elevated PSA reading. He is a non-smoker, and his prior biopsy bucket remains None. Long-standing hypertension is managed with metoprolol, while osteoarthritis discomfort is addressed with paracetamol taken only when necessary. He shares a home with his wife, and adult offspring stop by every week, with their son handling administrative correspondence. Moderate lower urinary tract symptoms produce an IPSS total of 12. A stable cardiology assessment occurred during autumn 2024, accompanied by routine thyroid and vascular checks. Joint stiffness limits his mobility, necessitating a walking frame for extended distances and a ground-floor consultation room. He explicitly denies unexplained weight loss, osseous pain, or nocturnal diaphoresis."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: symmetrically smooth; mobility: unrestricted; asymmetry: absent. The glandular surface presents without palpable nodules, aligning with a normal digital examination. General inspection notes a well-nourished individual in no acute distress, registering a BMI of 26.0. Hemodynamic parameters remain stable at 130/73 mmHg with a regular pulse of 68 bpm. Cardiovascular and respiratory auscultation yield unremarkable results."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Vascular surgery — varicose veins consult",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "18 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

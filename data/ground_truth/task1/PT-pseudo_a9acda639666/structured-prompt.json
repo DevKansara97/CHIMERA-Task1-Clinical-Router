@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_a9acda639666",
+  "pid": "PT-pseudo_a9acda639666",
+  "task": 1,
+  "psa": 6.5,
+  "age": 63,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.15,
+  "psav": 1.56,
+  "psap": 4.2,
+  "vol": 42.0,
+  "dre": "Nodus",
+  "bx": "Negative",
+  "cspca": 0.59320194,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 6.5 ng/mL. PI-RADS 4. PSAD 0.15. Prostate volume 42 mL. DRE nodus. csPCa 0.59.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "94 kg",
+    "height": "186 cm",
+    "bmi": "27.2",
+    "bp": "118/62 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (35 pack-yr, quit 2015)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "07 Jan 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Continual PSA elevation alongside a previous negative biopsy demands immediate clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "Now 63 years of age, he entered the clinical pathway after a PSA spike in 2023 and has remained under close observation. Currently residing solo despite being married, he works as a retired civil servant. A history of tobacco use stands at 35 pack-years, successfully ceased in 2015, alongside a regular schedule of twice-weekly resistance training. Body mass index registers above 30, confirming obesity, while his current medication list remains empty. He experiences zero lower urinary tract symptoms, scoring 0/35 on the IPSS. For extended ambulation, he relies on a mobility frame and specifically requests a ground-floor consultation room to simplify access. His surgical background features a 2018 right knee arthroscopy, supplemented by regular podiatry appointments. He has explicitly declined to designate a next of kin and reports no bone discomfort, blood in the urine, or spontaneous weight reduction."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE identifies a distinct, firm nodule within the right peripheral zone, characterized by marked asymmetry against the surrounding smooth prostatic tissue. Systemic review shows normal vital parameters, with no evidence of lymph node enlargement or organomegaly. While he requires a walking frame for mobility, his coordination remains intact throughout the clinical assessment."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "None recorded — patient declines to nominate",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

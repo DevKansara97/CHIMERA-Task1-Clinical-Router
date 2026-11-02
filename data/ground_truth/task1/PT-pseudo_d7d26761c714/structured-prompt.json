@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_d7d26761c714",
+  "pid": "PT-pseudo_d7d26761c714",
+  "task": 1,
+  "psa": 7.7,
+  "age": 64,
+  "months": 1,
+  "pirads": "3",
+  "psad": 0.11,
+  "psav": 1.03,
+  "psap": 4.6,
+  "vol": 73.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.6079056,
+  "medhx": "Hypertension",
+  "meds": "valsartan, metoprolol",
+  "notes": "PSA 7.7 ng/mL. PI-RADS 3. PSAD 0.11. Prostate volume 73 mL. csPCa 0.61.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "86 kg",
+    "height": "177 cm",
+    "bmi": "27.5",
+    "bp": "120/82 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "03 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment requested due to prior histological confirmation of malignancy and a recent PSA rise to 7.7 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "At 64 years of age, this mechanical engineer entered surveillance protocols after a positive biopsy established ISUP Grade Group 1 carcinoma. Residing on an operational agricultural property alongside his spouse, his daily routine entails early hours and intermittent manual tasks, yet he characterizes his general mobility as largely sedentary with sporadic strolls. Lower urinary tract complaints are entirely absent, reflected by an IPSS score of 1. He explicitly denies haematuria, pelvic discomfort, or osseous pain. Cardiovascular parameters remain stable under valsartan and metoprolol therapy, a combination maintained for years. A minor knee arthroscopy performed in his late forties constitutes his sole surgical history, alongside a mild visual deficit necessitating large-print reading materials. Alcohol intake averages four units per week, and documented allergies remain absent. His long-standing companion acts as his designated next of kin. He abstains from tobacco entirely."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — glandular assessment: symmetrically enlarged, uniformly smooth with firm consistency, devoid of discrete nodules or contour irregularities. General inspection: well-nourished adult, appearing comfortable without acute distress. Auscultation confirms clear pulmonary fields and a regular cardiac rhythm measuring 80 beats per minute. Vascular pressure registers 120/82 mmHg. Lower extremities show no pitting oedema, and lymphatic chains remain non-palpable."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Married",
+  "living": "Lives on a working farm with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [],
+  "alcohol": "4 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

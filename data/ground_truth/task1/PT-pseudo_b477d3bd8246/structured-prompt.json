@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_b477d3bd8246",
+  "pid": "PT-pseudo_b477d3bd8246",
+  "task": 1,
+  "psa": 7.3,
+  "age": 65,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.11,
+  "psav": 2.42,
+  "psap": 4.9,
+  "vol": 64.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.854789,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 7.3 ng/mL. PI-RADS 5. PSAD 0.11. Prostate volume 64 mL. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "93 kg",
+    "height": "183 cm",
+    "bmi": "27.8",
+    "bp": "116/89 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Ex-smoker (31 pack-yr, quit 2003)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Review requested after an earlier positive prostate biopsy and a recent PSA increase to 7.3 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "Mr X, a 65-year-old retired postal worker, initially entered the diagnostic pathway in May 2022 after a PSA rise triggered a positive biopsy revealing ISUP group 2 disease. Subsequent readings climbed from 4.3 ng/mL to 4.9 ng/mL by September 2023, peaking at 7.3 ng/mL in January 2025. He is married and shares a home with his partner. Lower urinary tract symptoms are moderate, scoring 13 on the IPSS questionnaire, mainly due to nocturia and a diminished urinary stream, yet he denies pelvic discomfort or visible blood in the urine. Ex-smoker (31 pack-yr, quit 2003), he maintains a daily 45-minute walking habit, consumes roughly two alcoholic drinks weekly, and recently received his annual influenza shot. He remains engaged with a local gardening club and handles his own financial matters without assistance. Comorbidities: none. Active medication: None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The digital rectal examination is clinically normal. The prostate feels symmetrically enlarged at roughly 64 mL, presenting a smooth capsule without discrete nodules or focal asymmetry. Systemic assessment shows stable vital signs, including a blood pressure reading of 116/89 mmHg and a regular pulse at 66 beats per minute. The general physical survey reveals no abdominal masses or peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "retired postal worker",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (brother)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 13/35 (moderate LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

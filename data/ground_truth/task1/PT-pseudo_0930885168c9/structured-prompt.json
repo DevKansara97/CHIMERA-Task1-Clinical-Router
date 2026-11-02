@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_0930885168c9",
+  "pid": "PT-pseudo_0930885168c9",
+  "task": 1,
+  "psa": 8.7,
+  "age": 62,
+  "months": 1,
+  "pirads": "3",
+  "psad": 0.25,
+  "psav": 2.93,
+  "psap": 5.7,
+  "vol": 36.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8735656,
+  "medhx": "Hypertension, COPD",
+  "meds": "valsartan, lisinopril, tiotropium, salbutamol PRN",
+  "notes": "PSA 8.7 ng/mL. PI-RADS 3. PSAD 0.25. Prostate volume 36 mL. csPCa 0.87.",
+  "pmhx": [
+    "Hypertension",
+    "COPD"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "171 cm",
+    "bmi": "28.7",
+    "bp": "133/86 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "15 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment driven by recent PSA escalation to 8.7 ng/mL in the context of previously biopsy-proven low-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "A 62-year-old non-smoker who operates a local cafe as a small business owner initially entered investigation last year after a routine screening returned 3.2 ng/mL, following a previously positive biopsy bucket. His medical background includes well-managed hypertension treated with valsartan and lisinopril, as well as mild COPD requiring tiotropium alongside salbutamol PRN. Though he resides alone, his married status provides consistent domestic support. He adheres to a twice-weekly home weight-training regimen and restricts alcohol consumption to approximately one unit weekly. Lower urinary tract symptoms remain negligible, scoring a mere 1 on the IPSS, with absolutely no reports of haematuria or obstructive issues. Aside from a recent vascular surgery consultation for asymptomatic varicose veins and a cholecystectomy performed during his forties, his clinical history stands clear. Energy levels have remained steady, and he denies any unexplained weight reduction or skeletal discomfort."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and symmetric; mobility: unrestricted; asymmetry: absent, confirming a Normal DRE. General observation shows a well-nourished gentleman in no acute distress, exhibiting clear lung fields and a regular cardiac rhythm measuring 72 beats per minute. Palpation of the abdomen yields a soft, non-tender contour devoid of masses or organomegaly."
+    }
+  ],
+  "occupation": "small business owner (cafe)",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Erasmus MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

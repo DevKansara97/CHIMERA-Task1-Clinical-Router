@@ -1,0 +1,16 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "fh": "not_used",
+    "vol": "not_used",
+    "comorbidity": "not_used",
+    "psa": "important",
+    "psad": "important",
+    "age": "decisive",
+    "dre": "noted",
+    "bx": "important",
+    "pirads": "decisive"
+  },
+  "reveal_sequence": [],
+  "free_text": "Stop checking PSA, no need for diagnostics"
+}

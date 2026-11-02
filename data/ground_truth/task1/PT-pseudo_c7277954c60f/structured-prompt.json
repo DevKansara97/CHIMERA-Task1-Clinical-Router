@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_c7277954c60f",
+  "pid": "PT-pseudo_c7277954c60f",
+  "task": 1,
+  "psa": 9.8,
+  "age": 54,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.073,
+  "psav": 1.0,
+  "psap": 8.6,
+  "vol": 134.0,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.5260261,
+  "medhx": "Obesity (BMI >30)",
+  "meds": "None",
+  "notes": "PSA 9.8 ng/mL. PI-RADS 2. PSAD 0.07. Prostate volume 134 mL. csPCa 0.53.",
+  "pmhx": [
+    "Obesity (BMI >30)"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "74 kg",
+    "height": "176 cm",
+    "bmi": "23.9",
+    "bp": "125/82 mmHg",
+    "hr": "86 bpm",
+    "smoking": "Ex-smoker (12 pack-yr, quit 2017)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Feb 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Specialist evaluation requested to interpret recent multiparametric imaging results and address a steadily ascending PSA trajectory."
+    },
+    {
+      "s": "History",
+      "t": "At 54 years of age, this retired shopkeeper shares a household with his unmarried partner and seeks re-evaluation for a persistently rising PSA curve. Lower urinary tract complaints are minimal, requiring no drug therapy. Physical activity includes biweekly home weight training, while alcohol consumption remains limited to one unit weekly. Tobacco cessation occurred in 2017 after a 12 pack-year exposure. Vision has progressively worsened over recent years, mandating large-print formats for all clinical documentation. Medical history includes obesity (BMI >30), stable COPD requiring periodic pulmonary function testing, and a recently completed endocrine assessment for thyroid screening. He explicitly denies bone discomfort, haematuria, or unexplained weight loss, maintaining overall stability throughout the diagnostic phase."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Genital assessment unremarkable; per rectum, digital rectal examination confirms a normal DRE. The gland appears symmetrically enlarged with a smooth, rubbery texture, devoid of palpable nodules or asymmetry. Systemic evaluation shows stable vital signs, absent lymphadenopathy, and no indicators of broader illness."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "1 units / week",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

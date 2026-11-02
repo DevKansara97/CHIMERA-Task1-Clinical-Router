@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_376de00c8131",
+  "pid": "PT-pseudo_376de00c8131",
+  "task": 1,
+  "psa": 8.8,
+  "age": 52,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.09,
+  "psav": 0.65,
+  "psap": 7.0,
+  "vol": 98.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.61692226,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 8.8 ng/mL. PI-RADS 4. PSAD 0.09. Prostate volume 98 mL. csPCa 0.62.",
+  "pmhx": [],
+  "allergies": [
+    "Latex"
+  ],
+  "vitals": {
+    "weight": "109 kg",
+    "height": "192 cm",
+    "bmi": "29.6",
+    "bp": "122/78 mmHg",
+    "hr": "68 bpm",
+    "smoking": "Ex-smoker (13 pack-yr, quit 2013)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Feb 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation in prostate-specific antigen accompanied by a newly identified PI-RADS 4 lesion on magnetic resonance imaging, documented after a prior negative biopsy."
+    },
+    {
+      "s": "History",
+      "t": "At 52 years of age, he works as a retired secondary school teacher. Initial evaluation in late 2022 focused on a prostate-specific antigen level of 7.1 ng/mL, which led to a systematic biopsy yielding entirely benign results. He is married and maintains an independent household, with his adult son living close by. Physical activity includes cycling roughly 20 kilometres two times each week, while alcohol intake averages 10 units weekly. Lower urinary tract symptoms remain negligible, reflected by an International Prostate Symptom Score of 2 out of 35. He reports no haematuria, pelvic discomfort, or systemic complaints. A 13 pack-year smoking history was concluded in 2013, and he has no known drug allergies beyond latex. Recent routine dental visits continue, and he relies on large-print materials for correspondence due to mild visual impairment. No other significant surgical history or comorbidities are noted, and he takes no active medications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: normal; asymmetry: absent. The prostate presents as symmetrically enlarged without palpable nodules. General inspection reveals a well-nourished individual ambulating independently. Vital signs remain stable, and there is no evidence of abdominal masses or peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "retired secondary school teacher",
+  "marital": "Married",
+  "living": "Lives alone; adult son nearby",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "10 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

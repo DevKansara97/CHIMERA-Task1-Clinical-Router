@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_2b3ef1d3a505",
+  "pid": "PT-pseudo_2b3ef1d3a505",
+  "task": 1,
+  "psa": 4.2,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.06,
+  "psav": 0.66,
+  "psap": 3.7,
+  "vol": 69.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.81166416,
+  "medhx": "COPD",
+  "meds": "tiotropium, salbutamol PRN",
+  "notes": "PSA 4.2 ng/mL. PI-RADS 5. PSAD 0.06. Prostate volume 69 mL. DRE nodus. csPCa 0.81.",
+  "pmhx": [
+    "COPD"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "66 kg",
+    "height": "185 cm",
+    "bmi": "19.3",
+    "bp": "113/72 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (30 pack-yr, quit 2015)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Jan 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Ascending prostate-specific antigen levels and a previous positive biopsy necessitate this clinical review."
+    },
+    {
+      "s": "History",
+      "t": "A 67-year-old mechanical engineer, the patient first registered a prostate-specific antigen level of 2.5 ng/mL during mid-2023. Ongoing surveillance tracked a consistent climb to 4.2 ng/mL, leading to this assessment after an earlier biopsy yielded ISUP Grade Group 1 results. Current complaints include moderate lower urinary tract symptoms, quantified at an IPSS score of 9 out of 35, which remain under conservative management. He resides independently despite being married. A former smoker, he accumulated 30 pack-years before ceasing tobacco use in 2015. His weekly alcohol consumption reaches 31 units, balanced by light weight-training sessions twice each week. Chronic obstructive pulmonary disease requires tiotropium alongside PRN salbutamol. Recent visits covered gastroenterology for a surveillance colonoscopy, pulmonary function testing, and endocrine screening for thyroid status. He reports mild bilateral hearing loss and requests written consultation summaries. Stable right knee osteoarthritis, stemming from a workplace injury decades ago, also requires management."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm and irregular; mobility: fixed; asymmetry: pronounced in the right mid-gland region, consistent with a distinct Nodus. General assessment shows stable vital parameters (blood pressure 113/72 mmHg, heart rate 74 bpm) and clear bilateral lung fields. Peripheral lymphadenopathy and hepatosplenomegaly are absent."
+    }
+  ],
+  "occupation": "mechanical engineer",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy",
+    "Pulmonary function test — known COPD follow-up",
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "31 units / week (heavy)",
+  "exercise": "Light weight-training at home, 2x/week",
+  "ipss": "IPSS score: 9/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

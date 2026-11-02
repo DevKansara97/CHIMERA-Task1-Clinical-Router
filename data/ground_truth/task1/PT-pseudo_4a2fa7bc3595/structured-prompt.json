@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_4a2fa7bc3595",
+  "pid": "PT-pseudo_4a2fa7bc3595",
+  "task": 1,
+  "psa": 6.9,
+  "age": 67,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.257,
+  "psav": -0.62,
+  "psap": 5.6,
+  "vol": 26.9,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.84531116,
+  "medhx": "Type 2 diabetes, Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "metformin, empagliflozin, paracetamol PRN",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 5. PSAD 0.26. Prostate volume 27 mL. DRE nodus. csPCa 0.85.",
+  "pmhx": [
+    "Type 2 diabetes",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "70 kg",
+    "height": "172 cm",
+    "bmi": "23.7",
+    "bp": "106/78 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Ex-smoker (16 pack-yr, quit 2006)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment requested to review previous biopsy results alongside recent changes in prostate-specific antigen levels."
+    },
+    {
+      "s": "History",
+      "t": "At 67 years of age, this retired electrical engineer initially entered diagnostic evaluation in early 2023 due to elevated prostate-specific antigen levels. Chronic conditions include type 2 diabetes, controlled through metformin and empagliflozin, as well as osteoarthritis managed with paracetamol taken only when necessary. He shares his home with his married partner and sustains a daily 45-minute walking habit, limiting alcohol intake to approximately three weekly units. A substantial smoking history of 16 pack-years existed until cessation in 2006. Urological interventions remain limited to the initial systematic biopsy that confirmed malignancy. Lower urinary tract symptoms manifest only as occasional mild frequency, aligning with established benign prostatic hyperplasia. He denies urinary retention or hematuria. Recent primary care activities included routine thyroid screening, while suspected obstructive sleep apnoea is currently addressed via positional therapy and pending specialist review. Functional independence remains fully preserved across all daily activities."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm, asymmetry: present. A discrete 1.5 cm mass is palpable within the right peripheral zone, consistent with a localized Nodus. The remaining prostatic tissue feels smooth and elicits no tenderness upon palpation. Systemic examination shows stable hemodynamics, clear lung fields, and an absence of peripheral lymph node enlargement."
+    }
+  ],
+  "occupation": "retired electrical engineer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

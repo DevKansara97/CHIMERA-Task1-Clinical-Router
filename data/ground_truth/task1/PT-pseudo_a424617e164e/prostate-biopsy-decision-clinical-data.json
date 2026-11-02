@@ -1,0 +1,97 @@
+{
+  "radiology_report": "Amsterdam UMC, Campus AMC — Prostate mpMRI | 02 January 2025\nClinical context: Elevated PSA 9.6 ng/mL, prior biopsy bucket \"Negative\".\n\nFINDINGS:\nProstate volume measures 30.0 mL. T2-weighted sequences disclose a 12×10 mm focus in the right mid-gland peripheral zone. Diffusion-weighted imaging demonstrates restricted diffusion with correspondingly low apparent diffusion coefficient values. Dynamic contrast-enhanced phases reveal early focal enhancement. No extraprostatic extension, seminal vesicle invasion, or suspicious pelvic lymphadenopathy is observed.\n\nIMPRESSION:\nPI-RADS 3 lesion in the right mid-gland peripheral zone. Prostate volume 30.0 mL yielding a PSA density of 0.32 ng/mL/mL. csPCa predicted probability 0.6599411.",
+  "previous_notes": [
+    {
+      "date": "15 Jul 2023",
+      "author": "Dr. M. Jansen (GP)",
+      "text": "Routine screening initially recorded a PSA of 4.2 ng/mL, which prompted a repeat assessment in August returning 5.5 ng/mL. Given the upward trajectory and the patient’s age, a urology referral was arranged for further evaluation. At that consultation, no acute urinary complaints were noted."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Aug 2023",
+      "val": 3.4
+    },
+    {
+      "date": "Jan 2024",
+      "val": 4.8
+    },
+    {
+      "date": "Jul 2024",
+      "val": 6.8
+    },
+    {
+      "date": "Jan 2025",
+      "val": 9.6
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "9.6 ng/mL",
+      "date": "03 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.04 ng/mL",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.4 g/dL",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.4 x10^9/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "250 x10^9/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "86 umol/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "12.7 nmol/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "73 U/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "136 U/L",
+      "date": "03 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

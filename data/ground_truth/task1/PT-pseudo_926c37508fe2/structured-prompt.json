@@ -1,0 +1,72 @@
+{
+  "case_id": "PT-pseudo_926c37508fe2",
+  "pid": "PT-pseudo_926c37508fe2",
+  "task": 1,
+  "psa": 5.4,
+  "age": 67,
+  "months": 2,
+  "pirads": "2",
+  "psad": 0.143,
+  "psav": 0.96,
+  "psap": 4.2,
+  "vol": 37.82,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7259888,
+  "medhx": "Hypercholesterolaemia, Chronic kidney disease, Osteoarthritis, Benign prostatic hyperplasia",
+  "meds": "simvastatin, rosuvastatin, paracetamol PRN, tamsulosin",
+  "notes": "PSA 5.4 ng/mL. PI-RADS 2. PSAD 0.14. Prostate volume 38 mL. csPCa 0.73.",
+  "pmhx": [
+    "Hypercholesterolaemia",
+    "Chronic kidney disease",
+    "Osteoarthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [
+    "Iodinated contrast (mild)"
+  ],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "175 cm",
+    "bmi": "25.5",
+    "bp": "115/59 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Current smoker (39 pack-yr)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "27 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Seeking specialist reassessment due to escalating PSA levels and a prior biopsy bucket Positive."
+    },
+    {
+      "s": "History",
+      "t": "A 67-year-old retired civil servant with a established urological background, first brought to clinical attention by an incidental PSA rise in 2023. He currently smokes and carries a 39 pack-year history. Moderate lower urinary tract symptoms are present, currently controlled with tamsulosin and paracetamol PRN, yielding an IPSS score of 12. His urological record documents a prior biopsy in 2023 that confirmed ISUP GG 2 adenocarcinoma. Systemic health includes hypercholesterolaemia, chronic kidney disease, and osteoarthritis, managed with simvastatin and rosuvastatin. He maintains an alcohol-free lifestyle, dedicates his time to gardening, and lives alone despite being married. Recent clinical engagements feature endocrinology-led thyroid screening, six physiotherapy sessions addressing stable lower back discomfort, and an orthopaedic review for knee osteoarthritis. He voices considerable apprehension about invasive procedures and has asked for detailed explanations regarding any potential interventions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as symmetrically enlarged with a smooth, homogeneous consistency, lacking palpable nodules or asymmetry. Vital signs remain stable, recording a blood pressure of 115/59 mmHg and a regular heart rate of 60 bpm. General examination is unremarkable, with clear lung fields and a soft, non-tender abdomen."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Physiotherapy — lower back, six sessions",
+    "Orthopaedic outpatient — knee follow-up"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "pirads": "important",
+    "psad": "noted",
+    "psa": "noted",
+    "cspca": "not_used",
+    "dre": "noted",
+    "bx": "important",
+    "fh": "noted",
+    "age": "important",
+    "vol": "noted",
+    "comorbidity": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Need to know earlier MRI results. If stabile P3 lesion, no biopsy."
+}

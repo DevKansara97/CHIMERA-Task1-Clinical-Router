@@ -1,0 +1,61 @@
+{
+  "case_id": "PT-pseudo_7f85fe245d6c",
+  "pid": "PT-pseudo_7f85fe245d6c",
+  "task": 1,
+  "psa": 11.0,
+  "age": 65,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.187,
+  "psav": 1.87,
+  "psap": 13.5,
+  "vol": 58.95,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8033811,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 11 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 59 mL. csPCa 0.80.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "179 cm",
+    "bmi": "26.2",
+    "bp": "141/72 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Ex-smoker (27 pack-yr, quit 2014)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "30 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment requested due to a persistent upward PSA trend alongside a previous diagnosis of low-grade disease."
+    },
+    {
+      "s": "History",
+      "t": "Investigation commenced in late 2022 when routine screening uncovered an asymptomatic PSA elevation. At sixty-five years of age, this retired firefighter currently navigates moderate lower urinary tract complaints, notably nocturia and reduced stream force, which he handles without medication and quantifies via an IPSS score of 16. Social history places him in a multi-generational home sharing space with his wife and grown son. He cultivates a garden and avoids alcoholic beverages entirely. Past surgical records note a straightforward knee arthroscopy in 2018. Tobacco use spans a 27 pack-year period, terminated in 2014. Daily logistics involve a train commute exceeding sixty minutes to the clinic. Sleep patterns and body weight remain stable, with psychological stress reserved strictly for his recent laboratory figures."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal assessment indicates a symmetrically enlarged gland exhibiting a firm, pliant texture without discrete masses or lobar discrepancies. Systemic review shows a well-built individual appearing comfortable, maintaining a resting pulse of 81 beats per minute and a systolic/diastolic reading of 141/72 mmHg. Trunk auscultation and abdominal palpation yield normal findings."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

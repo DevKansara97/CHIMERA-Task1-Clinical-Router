@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_138092c2a6be",
+  "pid": "PT-pseudo_138092c2a6be",
+  "task": 1,
+  "psa": 9.0,
+  "age": 52,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.16,
+  "psav": 1.13,
+  "psap": 7.9,
+  "vol": 58.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.86231947,
+  "medhx": "Hypertension, Obesity (BMI >30), Osteoarthritis",
+  "meds": "amlodipine, lisinopril, paracetamol PRN",
+  "notes": "PSA 9 ng/mL. PI-RADS 4. PSAD 0.16. Prostate volume 58 mL. csPCa 0.86.",
+  "pmhx": [
+    "Hypertension",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "92 kg",
+    "height": "191 cm",
+    "bmi": "25.2",
+    "bp": "134/69 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Current smoker (45 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment is required due to a confirmed prior biopsy and a continuing upward PSA trend."
+    },
+    {
+      "s": "History",
+      "t": "First noted for an elevated PSA reading in 2022, this patient has since been managed within the outpatient setting. At fifty-two years of age, he works as a retired shopkeeper, lives with his wife in an assisted-living residence, and navigates daily life using a mobility frame. Moderate lower urinary tract symptoms yield an IPSS score of 16, yet he sustains a rigorous cycling regimen of roughly 30 kilometres three times weekly and restricts alcohol intake to five units per week. His medical background includes hypertension, Obesity (BMI >30), and osteoarthritis, managed with amlodipine, lisinopril, and paracetamol taken as needed. He remains a Current smoker (45 pack-yr). A recent routine surveillance colonoscopy returned normal results, and he reports no fresh pelvic pain or haematuria. A prior systematic biopsy identified low-volume disease, and his PSA continues to climb."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as symmetrically enlarged with a smooth, firm texture, lacking any palpable nodules or asymmetry. Vital signs remain stable, recording a blood pressure of 134/69 mmHg and a heart rate of 75 bpm. General observation shows a well-nourished individual walking with a standard mobility frame, exhibiting no acute distress or peripheral swelling."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Married",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Long-time friend (no close family)",
+  "recent_other": [
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "5 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

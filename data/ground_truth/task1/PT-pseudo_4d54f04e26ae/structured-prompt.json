@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_4d54f04e26ae",
+  "pid": "PT-pseudo_4d54f04e26ae",
+  "task": 1,
+  "psa": 34.7,
+  "age": 66,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.352,
+  "psav": 0.68,
+  "psap": 29.7,
+  "vol": 99.5,
+  "dre": "Nodus",
+  "bx": "Negative",
+  "cspca": 0.739,
+  "medhx": "Osteoarthritis",
+  "meds": "paracetamol PRN",
+  "notes": "PSA 34.7 ng/mL. PI-RADS 4. PSAD 0.35. Prostate volume 100 mL. DRE nodus. csPCa 0.74.",
+  "pmhx": [
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "69 kg",
+    "height": "174 cm",
+    "bmi": "22.8",
+    "bp": "108/83 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Ex-smoker (13 pack-yr, quit 2007)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "17 Feb 2025",
+  "enc_ref": "Dr. R. Visser (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Sustained PSA elevation alongside a Negative prior biopsy defines the current clinical presentation."
+    },
+    {
+      "s": "History",
+      "t": "A sixty-six-year-old ICT consultant, never married but residing with his partner, first entered clinical evaluation in early 2023 due to an incidental PSA spike. Chronic mild lower urinary tract complaints persist, currently registering a 4 on the IPSS scale, while osteoarthritis is managed solely with paracetamol on an as-needed basis. Tobacco use ceased in 2007 following a cumulative 13 pack-year exposure; leisure activities now feature weekend hiking alongside his partner, accompanied by moderate alcohol intake averaging three units per week. Recent outpatient assessments covered routine thyroid function screening and an ophthalmology consultation for early cataract development, both demonstrating stability. Geographic distance places his residence over ninety minutes from the medical center, prompting a specific preference for remote telephone consultations during subsequent care phases."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — prostate texture: asymmetrically hypertrophied with a distinct, firm nodule localized to the right mid-gland. General assessment remains within normal limits, displaying unremarkable cardiopulmonary findings and stable resting vital parameters."
+    }
+  ],
+  "occupation": "ICT consultant",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "UMCG (Groningen)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

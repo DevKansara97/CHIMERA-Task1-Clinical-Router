@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_3477ea7065bd",
+  "pid": "PT-pseudo_3477ea7065bd",
+  "task": 1,
+  "psa": 13.9,
+  "age": 65,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.177,
+  "psav": 1.41,
+  "psap": 11.7,
+  "vol": 78.69,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.5224143,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 13.9 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 79 mL. csPCa 0.52.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "77 kg",
+    "height": "186 cm",
+    "bmi": "22.3",
+    "bp": "119/82 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (33 pack-yr, quit 2019)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent elevation in prostate-specific antigen values alongside newly acquired multiparametric magnetic resonance imaging results warrant clinical assessment."
+    },
+    {
+      "s": "History",
+      "t": "At age 65, this retired butcher recently moved into his sister’s residence half a year ago. Initial investigation into an early 2023 prostate-specific antigen elevation revealed a continuous two-year ascent, culminating in a current value of 13.9 ng/mL. Voiding difficulties remain bothersome, registering an IPSS score of 22. Tobacco use ceased in 2019 after a cumulative exposure of 33 pack-years. Physical activity includes cycling roughly 20 kilometres twice weekly, with alcohol intake limited to four units per week. Medical background remains clear of comorbidities: none. Active medication: None. Past surgical history includes a radical prostatectomy completed six years prior and a routine knee arthroscopy five years back, alongside uncomplicated biannual dental visits. Mild vision loss is managed through large-print correspondence requests. Sleep patterns and weight remain stable. Following a divorce and his recent relocation, practical assistance is provided by his sister. Prior biopsy bucket: None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — consistency: smooth and firm; symmetry: balanced enlargement without discrete nodules or focal irregularities. Vital parameters remain stable at 119/82 mmHg with a regular cardiac rhythm of 70 beats per minute. Systemic survey reveals no abdominal masses or peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "retired butcher",
+  "marital": "Divorced",
+  "living": "Recently relocated; lives with sister",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 22/35 (severe LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_a9a20522674d",
+  "pid": "PT-pseudo_a9a20522674d",
+  "task": 1,
+  "psa": 9.0,
+  "age": 57,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.18,
+  "psav": 1.1,
+  "psap": 5.4,
+  "vol": 49.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.79713064,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 9 ng/mL. PI-RADS 4. PSAD 0.18. Prostate volume 49 mL. csPCa 0.80.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "79 kg",
+    "height": "170 cm",
+    "bmi": "27.3",
+    "bp": "115/79 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Ex-smoker (17 pack-yr, quit 2021)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "An upward PSA trajectory combined with a previously positive biopsy necessitates specialist re-evaluation."
+    },
+    {
+      "s": "History",
+      "t": "A 57-year-old retired carpenter initially came under investigation three years ago due to elevated PSA levels. He is married and occupies an independent unit within a neighborhood retirement community, with his adult son designated as the primary contact. Tobacco use consists of a 17 pack-year history, discontinued in 2021. Lower urinary tract symptoms remain minimal, reflected by an IPSS score of 1 out of 35. Physical activity includes tennis twice weekly, while alcohol intake stays around two units per week. Past surgical history includes a laparoscopic cholecystectomy in 2018 and bilateral cataract extraction in 2022. Routine dermatological surveillance for actinic keratosis and a planned gastroenterology colonoscopy both returned unremarkable results. An Arabic interpreter has been secured for this consultation. He currently takes no regular medications and has no other comorbidities."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as symmetrically enlarged with smooth, firm parenchyma and absolutely no discrete nodules or asymmetry. General inspection shows a well-nourished individual in no acute distress; cardiovascular and respiratory examinations yield normal results. Vital parameters remain stable, recording a blood pressure of 115/79 mmHg and a regular heart rate of 80 bpm."
+    }
+  ],
+  "occupation": "retired carpenter",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check",
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Tennis 2x/week",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Maastricht UMC+",
+  "ct": null,
+  "active_treatment_flag": 0
+}

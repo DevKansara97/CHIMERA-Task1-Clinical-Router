@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_9ff22a71b795",
+  "pid": "PT-pseudo_9ff22a71b795",
+  "task": 1,
+  "psa": 18.0,
+  "age": 64,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.19,
+  "psav": 1.2,
+  "psap": 14.8,
+  "vol": 94.6,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.51321477,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 18 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 95 mL. csPCa 0.51.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "176 cm",
+    "bmi": "26.5",
+    "bp": "129/81 mmHg",
+    "hr": "65 bpm",
+    "smoking": "Ex-smoker (39 pack-yr, quit 2002)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent prostate-specific antigen elevation identified on recent multiparametric magnetic resonance imaging."
+    },
+    {
+      "s": "History",
+      "t": "This 64-year-old gentleman, a retired greenhouse horticulturalist, was initially investigated for rising PSA values starting in mid-2023. His prior biopsy bucket remains \"None\". He is an ex-smoker (39 pack-yr, quit 2002). Comorbidities are none, and active medication is None. He resides with his partner (unmarried). Lower urinary tract symptoms manifest primarily as nocturia and a diminished stream, yielding an International Prostate Symptom Score of 17 out of 35, which he manages conservatively. Weekly swimming routines and roughly three alcoholic units per week characterize his lifestyle. Routine screenings, including hearing and cataract assessments, remain stable. He explicitly denies unexplained weight loss, osseous discomfort, or haematuria, with general health otherwise unremarkable aside from his urinary complaints."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: unrestricted; asymmetry: absent. The gland presents a symmetrically enlarged contour without palpable irregularities, consistent with a Normal DRE assessment. Vital signs remain stable, and systemic examination reveals no lymphadenopathy or abdominal masses. Palpation of the abdomen demonstrates a non-tender, non-distended cavity, with a palpable bladder base correlating to his documented urinary symptoms."
+    }
+  ],
+  "occupation": "retired greenhouse horticulturalist",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 17/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "vol": "noted",
+    "dre": "noted",
+    "cspca": "noted",
+    "psad": "noted",
+    "comorbidity": "noted",
+    "bx": "important",
+    "pirads": "important",
+    "fh": "noted",
+    "psa": "important",
+    "age": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "stable MRi findings in 70yr with reasonably low PSA. prev biopsy finding without obvious indication for treatment. IF patient want to be very active in treatment, consider biopsy and treat if higher-risk biopsy findings."
+}

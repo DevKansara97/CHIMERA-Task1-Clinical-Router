@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_8192345b35fa",
+  "pid": "PT-pseudo_8192345b35fa",
+  "task": 1,
+  "psa": 27.0,
+  "age": 69,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.459,
+  "psav": 3.33,
+  "psap": 22.3,
+  "vol": 58.78,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.8667895,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 27 ng/mL. PI-RADS 5. PSAD 0.46. Prostate volume 59 mL. DRE nodus. csPCa 0.87.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "90 kg",
+    "height": "175 cm",
+    "bmi": "29.4",
+    "bp": "136/64 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Ex-smoker (13 pack-yr, quit 2001)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "14 Jan 2025",
+  "enc_ref": "Dr. S. de Vries (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation alongside newly identified multiparametric MRI abnormalities warrant clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "Aged 69, this delivery driver underwent initial investigation in late 2022 due to a PSA reading of 19.9 ng/mL, which subsequently prompted a biopsy confirming ISUP GG 2 disease. Lower urinary tract symptoms remain mild, quantified by an IPSS score of 7, and he maintains a daily walking regimen lasting 45 minutes. Although married, he resides independently, relying on his spouse for primary contact and support. Non-urological healthcare encounters recently included gastroenterology for a surveillance colonoscopy, audiology for a hearing evaluation, and a pain clinic for persistent shoulder discomfort. He abstains from smoking, having quit 2001 after a 13 pack-year history, and consumes roughly 13 units of alcohol weekly. No bone pain, haematuria, or unexplained weight loss is reported. An Arabic interpreter has been requested to assist with communication during upcoming visits."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a firm, asymmetric nodule localized to the left prostatic lobe. General assessment shows stable vital parameters, a BMI of 29.4, and an absence of palpable inguinal or supraclavicular lymphadenopathy."
+    }
+  ],
+  "occupation": "delivery driver",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pain clinic — chronic shoulder pain",
+    "Gastroenterology — surveillance colonoscopy",
+    "Audiology — hearing test"
+  ],
+  "alcohol": "13 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

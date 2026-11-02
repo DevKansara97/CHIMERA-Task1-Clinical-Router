@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_b414d3d849a7",
+  "pid": "PT-pseudo_b414d3d849a7",
+  "task": 1,
+  "psa": 5.0,
+  "age": 68,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.141,
+  "psav": 0.67,
+  "psap": 4.8,
+  "vol": 35.45,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.7376658,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 5 ng/mL. PI-RADS 4. PSAD 0.14. Prostate volume 35 mL. DRE nodus. csPCa 0.74.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "80 kg",
+    "height": "182 cm",
+    "bmi": "24.2",
+    "bp": "143/79 mmHg",
+    "hr": "71 bpm",
+    "smoking": "Current smoker (25 pack-yr)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Feb 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment prompted by previously established prostate carcinoma and a steady rise in serum antigen levels."
+    },
+    {
+      "s": "History",
+      "t": "Initial workup began in mid-2022 for an incidental antigen spike. This 68-year-old continues under urologic care following a prior biopsy bucket \"Positive\" result, which carried ISUP GG 4 histology. Nodus DRE was documented during clinical evaluation. Occupation: retired secondary school teacher. Marital: Widowed. Living: Lives with partner. A daily 45-minute walking regimen forms part of his routine. Alcohol consumption measures approximately 19 units weekly. Smoking: Current smoker (25 pack-yr). He attends physiotherapy for lower back discomfort and completed a pain clinic course for chronic shoulder pain, both remaining stable. Cataract progression was managed during a recent ophthalmology visit. He has consistently declined participation in research trials and prefers to focus on routine clinical management. Unexplained weight loss, bone pain, and urinary obstruction symptoms are denied, though moderate lower urinary tract symptoms yield an IPSS score of 14. Comorbidities: none. Active medication: None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: firm; mobility: fixed; asymmetry: discrete nodule measuring 0.8 cm located in the right posterior peripheral zone, confirming a Nodus DRE finding with overall gland symmetry preserved. General inspection shows a well-appearing gentleman without signs of acute distress. Vitals record a blood pressure of 143/79 mmHg and a heart rate of 71 bpm. Abdominal palpation remains soft and non-tender, revealing no palpable masses or organomegaly."
+    }
+  ],
+  "occupation": "retired secondary school teacher",
+  "marital": "Widowed",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions",
+    "Pain clinic — chronic shoulder pain",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "19 units / week",
+  "exercise": "Walking 45 min/day",
+  "ipss": "IPSS score: 14/35 (moderate LUTS)",
+  "admin": "Patient declined research participation previously; respect for AS-related trials.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

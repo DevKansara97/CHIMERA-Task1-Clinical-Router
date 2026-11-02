@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "age": "important",
+    "psad": "noted",
+    "bx": "important",
+    "cspca": "not_used",
+    "vol": "noted",
+    "psa": "important",
+    "pirads": "important",
+    "comorbidity": "noted",
+    "fh": "not_used",
+    "dre": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Intermediate risk disease in 75yr with some comorbidity. No targeted biopsy and unclear timing (when was diagnosis and prev biopsy). Unclear if PIRADS5 was biopsied (limited size lesion, unclear if new lesion while lack of previous MRI). Biopsy to exclude higher-risk disease, should include targeted cores."
+}

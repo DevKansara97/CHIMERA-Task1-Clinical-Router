@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psad": "important",
+    "psa": "important",
+    "pirads": "important",
+    "fh": "not_used",
+    "vol": "not_used",
+    "age": "important",
+    "dre": "noted",
+    "cspca": "not_used",
+    "comorbidity": "noted",
+    "bx": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "older patient with non-elevated, stable PSA. some comorbidity limits expected survival. MRI without significant lesions. Low risk of higher risk prostate cancer -> no biopsy. High risk of over diagnosis if biopsied."
+}

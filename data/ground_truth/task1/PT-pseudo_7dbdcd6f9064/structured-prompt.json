@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_7dbdcd6f9064",
+  "pid": "PT-pseudo_7dbdcd6f9064",
+  "task": 1,
+  "psa": 12.0,
+  "age": 63,
+  "months": 2,
+  "pirads": "3",
+  "psad": 0.12,
+  "psav": 6.15,
+  "psap": 5.9,
+  "vol": 103.0,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.503,
+  "medhx": "Coronary artery disease",
+  "meds": "aspirin 80 mg, atorvastatin, metoprolol",
+  "notes": "PSA 12 ng/mL. PI-RADS 3. PSAD 0.12. Prostate volume 103 mL. csPCa 0.50.",
+  "pmhx": [
+    "Coronary artery disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "108 kg",
+    "height": "182 cm",
+    "bmi": "32.6",
+    "bp": "140/78 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Ex-smoker (22 pack-yr, quit 2016)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment of a progressively increasing PSA curve alongside recent interval multiparametric MRI results."
+    },
+    {
+      "s": "History",
+      "t": "First evaluated in early 2023 for a PSA level of 3.5 ng/mL, this 63-year-old gentleman now returns for ongoing structured surveillance. A semi-retired musician who is married, he lives with his partner and consumes roughly twelve alcoholic units weekly while limiting physical activity to seated exercises owing to decreased mobility. Tobacco use ceased in 2016 after a cumulative exposure of 22 pack-years. Lower urinary tract symptoms are moderate in severity (IPSS 12), occurring without haematuria or acute retention. Coronary artery disease forms part of his cardiovascular background, managed with aspirin 80 mg, atorvastatin, and metoprolol. A recent sleep clinic assessment targeted suspected obstructive sleep apnoea. The patient harbours significant apprehension toward invasive interventions and reports a completely stable remote laparoscopic cholecystectomy performed during his 40s."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal assessment reveals a uniformly enlarged gland exhibiting smooth, rubbery tissue without discrete nodules or asymmetrical contours. Systemic evaluation shows a comfortable individual in no acute distress, measuring 182 cm in height and 108 kg in weight (BMI 32.6). Pulmonary fields are clear, and the cardiac rhythm remains regular at 64 beats per minute. A blood pressure reading of 140/78 mmHg is noted, with absent peripheral oedema and no palpable lymphadenopathy."
+    }
+  ],
+  "occupation": "musician (semi-retired)",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Nephew",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Patient anxious about procedures — allocate extra consult time.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

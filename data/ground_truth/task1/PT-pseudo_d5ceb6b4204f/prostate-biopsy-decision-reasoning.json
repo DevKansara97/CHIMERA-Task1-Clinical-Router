@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "age": "important",
+    "fh": "noted",
+    "psad": "important",
+    "vol": "noted",
+    "cspca": "not_used",
+    "bx": "important",
+    "comorbidity": "important",
+    "psa": "important",
+    "pirads": "important",
+    "dre": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Borderline older patient, favorable intermediate risk disease with perineurial features. Low PSA (why was he biopsied in 2023 under non-elevated PSA?). While only one previous biopsy and intermediate risk disease, confirmatory biopsy after 2yrs recommended. Could potentially be postponed 1 yr."
+}

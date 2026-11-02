@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_f2ec9a9b4d4a",
+  "pid": "PT-pseudo_f2ec9a9b4d4a",
+  "task": 1,
+  "psa": 7.2,
+  "age": 73,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.21,
+  "psav": 2.05,
+  "psap": 4.9,
+  "vol": 33.96,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8104203,
+  "medhx": "Chronic kidney disease",
+  "meds": "None",
+  "notes": "PSA 7.2 ng/mL. PI-RADS 4. PSAD 0.21. Prostate volume 34 mL. csPCa 0.81.",
+  "pmhx": [
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "78 kg",
+    "height": "176 cm",
+    "bmi": "25.2",
+    "bp": "130/66 mmHg",
+    "hr": "77 bpm",
+    "smoking": "Current smoker (26 pack-yr)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "18 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Ongoing assessment driven by sustained PSA increases and a previous biopsy that identified low-grade malignancy."
+    },
+    {
+      "s": "History",
+      "t": "Surveillance began after an initial PSA rise in late 2023, and this 73-year-old man now returns for a structured reassessment following a prior biopsy bucket \"Positive\" and a current PSA of 7.2 ng/mL. He describes moderate lower urinary tract complaints aligning with an IPSS score of 20/35, dominated by nocturia and a diminished stream, though he explicitly denies hematuria or acute retention. He is a 73-year-old, Married man who Lives in assisted-living facility. By occupation, he is a retired truck driver. Active medication: None. Comorbidities: Chronic kidney disease. Current smoker (26 pack-yr). During downtime, he tends to a garden and drinks roughly four units of alcohol weekly. His eGFR has consistently remained under 60 mL/min/1.73m2. A recent dermatology visit addressed routine actinic keratosis screening. A sports-related knee arthroscopy occurred more than ten years ago, leaving him without current mobility restrictions. Former self-employment previously led him to request flexible scheduling."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal examination is normal; the prostate exhibits a smooth, firm consistency, symmetric dimensions, and no palpable nodules or asymmetry. Vital signs remain stable, and systemic review shows no abnormalities. Despite residing in an assisted-living setting, he maintains independent ambulation and appears well-nourished."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Married",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 20/35 (severe LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "LUMC (Leiden)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_fa31cd663f5a",
+  "pid": "PT-pseudo_fa31cd663f5a",
+  "task": 1,
+  "psa": 4.1,
+  "age": 66,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.13,
+  "psav": 0.74,
+  "psap": 3.5,
+  "vol": 31.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8615541,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 4.1 ng/mL. PI-RADS 4. PSAD 0.13. Prostate volume 31 mL. csPCa 0.86.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "186 cm",
+    "bmi": "26.3",
+    "bp": "142/82 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Ex-smoker (37 pack-yr, quit 2023)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "08 Jan 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review requested after prior biopsy bucket \"Positive\" and ascending PSA trajectory."
+    },
+    {
+      "s": "History",
+      "t": "A 66-year-old retired truck driver seeks structured assessment after an initial PSA elevation earlier in 2023. Lives alone, though shares a household with an unmarried partner. Urinary complaints are negligible, yielding an IPSS of 1/35, and he sustains a weekly swimming habit. Alcohol consumption is nonexistent, and tobacco use ceased in 2023 following a 37 pack-year accumulation. The two-year PSA velocity calculates to 0.74 ng/mL/yr. Comorbidities are none. Medical background remains clear aside from a routine dental visit and ongoing orthopedic management for a chronic knee issue. Public transit schedules dictate a preference for morning visits. Active medication is None, and known allergies are absent."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and symmetric; mobility: unrestricted; asymmetry: none. Vital parameters remain within normal limits, recording a blood pressure of 142/82 mmHg and a regular pulse at 61 bpm. Systemic inspection shows no palpable lymph nodes or abdominal abnormalities."
+    }
+  ],
+  "occupation": "retired truck driver",
+  "marital": "Living with partner (unmarried)",
+  "living": "Lives alone",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Orthopaedic outpatient — knee follow-up",
+    "Dental — biannual check-up"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Swimming 1x/week",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,21 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "cspca": "not_used",
+    "comorbidity": "important",
+    "age": "noted",
+    "bx": "important",
+    "psa": "noted",
+    "dre": "noted",
+    "pirads": "decisive",
+    "vol": "noted",
+    "fh": "noted",
+    "psad": "not_used"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "P4 lesion in 67 year old patient."
+}

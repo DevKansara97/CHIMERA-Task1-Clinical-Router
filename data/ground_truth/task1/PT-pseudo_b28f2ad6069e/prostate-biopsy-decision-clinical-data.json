@@ -1,0 +1,104 @@
+{
+  "radiology_report": "Subject: Prostate Multiparametric MRI | Facility: OLVG, Amsterdam | Date: 02 Feb 2025\nClinical Indication:\nRe-assessment after a previously positive biopsy. Current PSA stands at 19.0 ng/mL. A PI-RADS 4 abnormality was noted on earlier screening.\n\nFINDINGS:\nThe gland measures 87.5 mL. Benign prostatic hyperplasia is diffuse throughout, accompanied by a prominent median lobe. Within the right mid-gland peripheral zone, a discrete lesion is visualized, spanning roughly 12 mm at its widest point. T2-weighted sequences show a hypointense area with poorly defined borders. Diffusion-weighted imaging exhibits pronounced signal restriction, mirrored by low ADC values. Dynamic contrast enhancement demonstrates early, focal uptake compared to adjacent tissue. There is no evidence of extracapsular extension or seminal vesicle involvement. Pelvic lymph nodes appear normal. No suspicious bone lesions are detected.\n\nIMPRESSION:\nPI-RADS 4 lesion in the right mid-gland peripheral zone.\nProstate volume 87.5 mL; PSA density 0.217 ng/mL/mL.\ncsPCa predicted probability 0.7858892.",
+  "previous_notes": [
+    {
+      "date": "26 Feb 2023",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Initial screening in October 2022 recorded a PSA reading of 10.0 ng/mL. Digital rectal examination yielded normal results. The individual was directed toward urological consultation and prostate imaging. A subsequent PSA measurement was arranged for the final months of 2023."
+    },
+    {
+      "date": "18 Oct 2024",
+      "author": "Dr. C. Peters (GP)",
+      "text": "Subsequent laboratory testing in December 2023 revealed an increase in PSA levels to 25.8 ng/mL. An mpMRI conducted at OLVG verified the presence of a PI-RADS 4 abnormality. Review of earlier biopsy material confirmed ISUP group 2 malignancy. Urology outpatient services were engaged for further clinical evaluation."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2022",
+      "val": 7.6
+    },
+    {
+      "date": "Dec 2023",
+      "val": 7.3
+    },
+    {
+      "date": "Feb 2025",
+      "val": 19.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "19.0 ng/mL",
+      "date": "16 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "3.10 ng/mL",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "16%",
+      "date": "16 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "15.5 g/dL",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.6 x10^9/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "255 x10^9/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "138 umol/L",
+      "date": "16 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "eGFR",
+      "val": "<60 mL/min/1.73m2",
+      "date": "16 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Testosterone",
+      "val": "15.7 nmol/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "90 U/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "200 U/L",
+      "date": "16 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.7 %",
+      "date": "16 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

@@ -1,0 +1,22 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "age": "noted",
+    "dre": "noted",
+    "psad": "noted",
+    "cspca": "not_used",
+    "comorbidity": "noted",
+    "pirads": "important",
+    "psa": "important",
+    "bx": "important",
+    "fh": "noted",
+    "vol": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "There is no information on ISUP in the earlier cancer diagnosis and missing also size of earlier PIRADS 4 lesion"
+}

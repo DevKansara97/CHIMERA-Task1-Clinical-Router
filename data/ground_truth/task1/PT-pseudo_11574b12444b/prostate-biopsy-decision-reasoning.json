@@ -1,0 +1,21 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psad": "noted",
+    "vol": "noted",
+    "fh": "noted",
+    "pirads": "decisive",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "dre": "noted",
+    "age": "important",
+    "psa": "decisive",
+    "bx": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "P5 in a young man with rapid increase in PSA"
+}

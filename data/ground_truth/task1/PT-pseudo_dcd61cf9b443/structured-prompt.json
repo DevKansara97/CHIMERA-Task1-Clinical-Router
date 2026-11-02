@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_dcd61cf9b443",
+  "pid": "PT-pseudo_dcd61cf9b443",
+  "task": 1,
+  "psa": 8.3,
+  "age": 66,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.215,
+  "psav": 1.64,
+  "psap": 7.9,
+  "vol": 38.54,
+  "dre": "Suspicious",
+  "bx": "Positive",
+  "cspca": 0.86351734,
+  "medhx": "COPD, Chronic kidney disease",
+  "meds": "ciprofloxacine",
+  "notes": "PSA 8.3 ng/mL. PI-RADS 5. PSAD 0.21. Prostate volume 39 mL. DRE suspicious. csPCa 0.86.",
+  "pmhx": [
+    "COPD",
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "63 kg",
+    "height": "170 cm",
+    "bmi": "21.8",
+    "bp": "111/75 mmHg",
+    "hr": "73 bpm",
+    "smoking": "Ex-smoker (37 pack-yr, quit 2012)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "16 Jan 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment of a previously confirmed prostate malignancy alongside a continuously increasing PSA profile."
+    },
+    {
+      "s": "History",
+      "t": "Initial evaluation for an elevated PSA occurred in early 2023, leading to active surveillance for a confirmed prostate malignancy. The individual is a 66-year-old retired primary school teacher, currently married but residing independently, with his wife acting as his main appointment liaison. Urinary complaints remain negligible, reflected by an IPSS score of 6, and he sustains a cycling habit of roughly 20 kilometres on two occasions each week. His medical background includes stable COPD and chronic kidney disease with a diminished eGFR, currently addressed via ciprofloxacin therapy. Recent encounters involved vascular surgery for varicose veins alongside a standard gastroenterology surveillance colonoscopy. Outside of urological matters, he experiences occasional mild insomnia but explicitly denies unexplained weight loss, skeletal discomfort, or haematuria. Morning appointments are preferred to align with public transit timetables. He maintains an ex-smoker status, having accumulated 37 pack-years before cessation in 2012."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The gland exhibits asymmetric enlargement, presenting a firm, irregular nodule within the left peripheral zone that aligns with a suspicious clinical impression. General inspection notes a well-nourished male with stable vital signs, absent palpable lymphadenopathy, and no hepatosplenomegaly. Abdominal palpation remains unremarkable, characterized by a soft, non-tender cavity without bladder distension."
+    }
+  ],
+  "occupation": "retired primary school teacher",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Vascular surgery — varicose veins consult",
+    "Gastroenterology — surveillance colonoscopy"
+  ],
+  "alcohol": "33 units / week (heavy)",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Erasmus MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

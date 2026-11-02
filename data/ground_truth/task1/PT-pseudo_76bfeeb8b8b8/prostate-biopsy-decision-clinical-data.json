@@ -1,0 +1,98 @@
+{
+  "radiology_report": "Subject: Prostate Multiparametric MRI | Facility: Amsterdam UMC, VUmc campus | Scan Date: 28 January 2025\n\nClinical Indication: A 63-year-old gentleman presents for lesion characterization and PI-RADS scoring, driven by a PSA value of 6.4 ng/mL alongside a previously positive biopsy bucket.\n\nFINDINGS:\nThe gland occupies 41.62 mL. T2-weighted sequences show a largely intact peripheral zone, interrupted only by a discrete hypointense focus within the left mid-gland sector, spanning approximately 11 x 9 x 10 mm. Diffusion-weighted imaging highlights pronounced restriction here, mirrored by corresponding ADC hypointensity. Post-contrast phases capture early, focal enhancement against the background parenchyma. The transition zone exhibits mild nodular hyperplasia devoid of suspicious architecture. Seminal vesicles remain clear. No extraprostatic extension or suspicious lymphadenopathy is detected.\n\nIMPRESSION:\nFocal lesion in the left mid-gland peripheral zone consistent with PI-RADS 4.\nProstate volume 41.62 mL; PSA density 0.154 ng/mL/mL.\ncsPCa predicted probability 0.80504376.",
+  "previous_notes": [
+    {
+      "date": "11 Aug 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "11 Aug 2023 - Dr. T. Hendriks (GP): The gentleman attended for routine monitoring of his gradually ascending PSA trajectory. Recent laboratory results indicate a value of 2.6 ng/mL, representing an upward shift from his established baseline. Given his age and the consistent rise, a urology referral has been arranged for a thorough workup, including potential imaging and tissue sampling. Lower urinary tract symptoms have remained unchanged, and his daily walking routine continues uneventfully."
+    },
+    {
+      "date": "12 Feb 2023",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "12 Feb 2023 - Dr. T. Hendriks (GP): A standard wellness visit uncovered a PSA reading of 2.1 ng/mL, marginally higher than the preceding annual measurement. He describes mild urinary frequency without notable obstructive symptoms. Follow-up blood work will be scheduled for six months hence to track trends. He remains otherwise free of symptoms and continues to favor morning scheduling due to transit arrangements."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2023",
+      "val": 1.1
+    },
+    {
+      "date": "Jul 2024",
+      "val": 2.7
+    },
+    {
+      "date": "Feb 2025",
+      "val": 6.4
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.4 ng/mL",
+      "date": "05 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.40 ng/mL",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "22%",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.3 g/dL",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "4.3 x10^9/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "193 x10^9/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "85 umol/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.1 nmol/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "56 U/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "193 U/L",
+      "date": "05 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

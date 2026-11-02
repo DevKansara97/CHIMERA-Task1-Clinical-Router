@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "vol": "noted",
+    "comorbidity": "noted",
+    "psad": "noted",
+    "fh": "noted",
+    "dre": "noted",
+    "age": "important",
+    "pirads": "decisive",
+    "bx": "noted",
+    "cspca": "not_used",
+    "psa": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "P5 in 71 years old patient with no major comorbidities"
+}

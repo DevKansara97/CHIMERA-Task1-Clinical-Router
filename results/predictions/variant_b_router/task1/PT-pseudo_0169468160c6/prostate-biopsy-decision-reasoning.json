@@ -1,0 +1,19 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "psa": "important",
+    "psad": "noted",
+    "vol": "noted",
+    "pirads": "important",
+    "dre": "noted",
+    "fh": "noted",
+    "comorbidity": "noted",
+    "cspca": "not_used",
+    "age": "important",
+    "bx": "important"
+  },
+  "reveal_sequence": [
+    "radiology_report"
+  ],
+  "free_text": "Known prostate cancer (prior positive biopsy) with PI-RADS 5 (24 mm lesion). The available data do not discriminate reliably between re-biopsy and continued surveillance, so the default is to recommend biopsy; clinical review is advised."
+}

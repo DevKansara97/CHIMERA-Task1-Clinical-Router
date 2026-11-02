@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_a5292377e539",
+  "pid": "PT-pseudo_a5292377e539",
+  "task": 1,
+  "psa": 11.0,
+  "age": 60,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.235,
+  "psav": 2.58,
+  "psap": 8.7,
+  "vol": 46.84,
+  "dre": "Nodus",
+  "bx": "None",
+  "cspca": 0.4587434,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 11 ng/mL. PI-RADS 5. PSAD 0.23. Prostate volume 47 mL. DRE nodus. csPCa 0.46.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "75 kg",
+    "height": "178 cm",
+    "bmi": "23.7",
+    "bp": "136/80 mmHg",
+    "hr": "75 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "25 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A multiparametric MRI revealed PI-RADS 5 characteristics alongside a PSA elevation to 11.0 ng/mL, prompting this clinical consultation."
+    },
+    {
+      "s": "History",
+      "t": "Urinary frequency and nocturia prompted medical attention over the previous twelve months for this sixty-year-old gentleman. Residing in an independent unit within a retirement community alongside his spouse, he maintains a vigorous lifestyle that includes weekend hiking and a weekly alcohol intake of three units. Lower urinary tract symptoms are currently classified as moderate per his IPSS score. He denies any episodes of hematuria, dysuria, or unexplained weight loss. His medical background remains clear, aside from a 2015 laparoscopic cholecystectomy and standard dental procedures. He does not take any daily prescriptions, has no known drug sensitivities, and recently obtained his seasonal influenza immunization. An adult daughter acts as his main point of contact, specifically requesting an Arabic translator for future clinical visits. He does not consume tobacco products, and prior biopsy records indicate a \"None\" bucket status."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: A firm, discrete Nodus is easily palpated within the right peripheral zone, accompanied by an asymmetrically enlarged gland. The remaining prostatic tissue maintains a homogeneous consistency without notable induration, while anal sphincter tone remains intact. General physical assessment shows stable vital parameters, absent lymphadenopathy, and no hepatosplenomegaly."
+    }
+  ],
+  "occupation": "retired shopkeeper",
+  "marital": "Married",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination"
+  ],
+  "alcohol": "3 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Tergooi MC",
+  "ct": null,
+  "active_treatment_flag": 0
+}

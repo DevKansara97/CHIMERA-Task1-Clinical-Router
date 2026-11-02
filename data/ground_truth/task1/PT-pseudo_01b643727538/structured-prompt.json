@@ -1,0 +1,61 @@
+{
+  "case_id": "PT-pseudo_01b643727538",
+  "pid": "PT-pseudo_01b643727538",
+  "task": 1,
+  "psa": 9.3,
+  "age": 71,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.516,
+  "psav": -0.41,
+  "psap": 8.6,
+  "vol": 18.03,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.85247576,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 9.3 ng/mL. PI-RADS 5. PSAD 0.52. Prostate volume 18 mL. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "86 kg",
+    "height": "181 cm",
+    "bmi": "26.3",
+    "bp": "147/91 mmHg",
+    "hr": "81 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "23 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Assessment needed due to previous biopsy findings and recent PSA variability."
+    },
+    {
+      "s": "History",
+      "t": "At 71 years of age, the individual works as a retired primary school educator. Initial presentation stemmed from an elevated PSA marker, necessitating a full urological evaluation. Lower urinary tract complaints remain minimal, scoring an IPSS of 6, mainly driven by sporadic nighttime voiding; he experiences no notable hesitancy or diminished flow. A non-smoker, he cycles to his destination five days weekly and abstains from alcohol entirely. He is married and shares a home with his spouse. Medical background includes a prior biopsy bucket \"Positive\" confirming ISUP grade group 3 malignancy. He denies catheter use or prior transurethral procedures. Cataract removal proceeded without complication half a year ago. Comorbidities: none. Active medication: None. Administrative tasks and medical correspondence are handled by his daughter, a setup he fully approves. Unexplained weight reduction, skeletal discomfort, and hematuria are absent, with overall health remaining steady."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Normal DRE: prostate feels symmetrically smooth without palpable nodules or asymmetry. Vital parameters record a blood pressure of 147/91 mmHg and a pulse rate of 81 bpm. Abdominal and musculoskeletal surveys fall within normal ranges. Peripheral lymph nodes are non-palpable, and skeletal palpation elicits no tenderness. General physical assessment remains unremarkable."
+    }
+  ],
+  "occupation": "retired primary school teacher",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 5x/week (commuter)",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_9988c23725e6",
+  "pid": "PT-pseudo_9988c23725e6",
+  "task": 1,
+  "psa": 6.2,
+  "age": 59,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.259,
+  "psav": 1.49,
+  "psap": 6.2,
+  "vol": 23.94,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.81087697,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.2 ng/mL. PI-RADS 4. PSAD 0.26. Prostate volume 24 mL. csPCa 0.81.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "95 kg",
+    "height": "188 cm",
+    "bmi": "26.9",
+    "bp": "123/78 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "13 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent biochemical elevation paired with pronounced lower urinary tract symptoms necessitates specialist evaluation."
+    },
+    {
+      "s": "History",
+      "t": "Occupation as a factory supervisor characterizes his employment background. At fifty-nine years of age, he entered investigation after a mid-2023 PSA reading of 3.9 ng/mL, which subsequently stabilized at 6.2 ng/mL. He experiences marked distress from urinary frequency, urgency, and nocturia, yielding an IPSS score of 28, while explicitly denying hematuria or pelvic discomfort. Residing independently, he receives daily support from his wife, who oversees pharmacotherapy and attends clinical visits. Daily routines encompass cycling roughly twenty kilometres on two occasions weekly, alongside moderate alcohol intake totaling eight units per week. He abstains from tobacco entirely. Past medical encounters include routine podiatry for minor callus removal and a completed six-session physical therapy regimen addressing chronic lower back stiffness. He explicitly denies previous catheterizations, urological interventions, or prostate sampling procedures."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: symmetrically smooth; mobility: unrestricted; asymmetry: absent. General inspection shows stable vital parameters with no clinical indicators of anemia or peripheral lymphadenopathy. Abdominal palpation elicits no tenderness, revealing a soft contour without palpable bladder distension or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "factory supervisor",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "8 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 28/35 (severe LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

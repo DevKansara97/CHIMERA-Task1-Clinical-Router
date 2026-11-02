@@ -1,0 +1,104 @@
+{
+  "radiology_report": "Tergooi MC Radiology | 10 February 2025 | mpMRI Prostate\n\nClinical indication: Evaluation of a 68-year-old gentleman with a progressive PSA trajectory (17.8 to 24.0 ng/mL) alongside moderate lower urinary tract symptoms. Study requested for anatomical localisation and staging.\n\nFINDINGS:\nGlandular volume measures 24.35 mL. Architectural symmetry is disrupted. A discrete focus occupies the right peripheral zone at the mid-gland posterior aspect, spanning 14 × 11 × 10 mm. T2-weighted sequences display profound hypointensity with obliteration of typical zonal boundaries. Diffusion mapping reveals severe signal restriction (b-value 1400) paired with depressed ADC values. Post-contrast dynamics demonstrate rapid, robust, and sustained uptake compared to surrounding tissue. Extracapsular spread and seminal vesicle involvement are absent. The prostatic capsule maintains continuity. Pelvic lymph nodes show no suspicious characteristics. Bladder and rectal mucosa appear normal.\n\nIMPRESSION:\nPI-RADS 5 lesion located in the right mid-peripheral zone.\nProstate volume 24.35 mL.\nPSAD 0.986 ng/mL/mL.\ncsPCa predicted probability 0.8596296.",
+  "previous_notes": [
+    {
+      "date": "20 Feb 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Clinical review conducted during the annual health assessment. December 2023 testing recorded a PSA level of 16.9 ng/mL, reflecting a minor decline from the 17.8 ng/mL documented in September 2022. Persistent elevation alongside advanced age coincided with a multiparametric scan order and a specialist referral. Current regimen includes metoprolol for adequately controlled hypertension."
+    },
+    {
+      "date": "19 Jun 2024",
+      "author": "Dr. T. Hendriks (GP)",
+      "text": "Subsequent discussion addressed the pending specialist consultation. Imaging data returned indicating a highly suspicious focus. Referral documentation was advanced to the urology department. Lower urinary tract symptoms remain steady, yielding an IPSS score of 12. Autumn 2024 cardiology evaluation proved unremarkable."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Sep 2022",
+      "val": 11.8
+    },
+    {
+      "date": "Dec 2023",
+      "val": 9.8
+    },
+    {
+      "date": "Feb 2025",
+      "val": 24.0
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "24.0 ng/mL",
+      "date": "12 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.48 ng/mL",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "10%",
+      "date": "12 Jan 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.5 g/dL",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "7.6 x10^9/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "232 x10^9/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "97 umol/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "14.2 nmol/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "87 U/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "145 U/L",
+      "date": "12 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "6.3 %",
+      "date": "12 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

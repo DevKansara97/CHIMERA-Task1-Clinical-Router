@@ -1,0 +1,61 @@
+{
+  "case_id": "PT-pseudo_2e4988b84112",
+  "pid": "PT-pseudo_2e4988b84112",
+  "task": 1,
+  "psa": 70.0,
+  "age": 68,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.67,
+  "psav": 14.63,
+  "psap": 55.6,
+  "vol": 105.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8852009,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 70 ng/mL. PI-RADS 5. PSAD 0.67. Prostate volume 105 mL. csPCa 0.89.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "89 kg",
+    "height": "184 cm",
+    "bmi": "26.3",
+    "bp": "122/66 mmHg",
+    "hr": "61 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Feb 2025",
+  "enc_ref": "Dr. C. Peters (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review sought due to steadily rising PSA levels and a previous prostate biopsy that established malignancy."
+    },
+    {
+      "s": "History",
+      "t": "Aged 68, this retired warehouse worker arrived for workup of escalating PSA figures. He experiences moderate lower urinary tract symptoms, registering 12 points on the IPSS scale out of 35, though routine functions remain largely unaffected. Currently married yet residing solo, he relies on his wife as his main emergency contact. He neither smokes nor consumes alcohol, preferring a vigorous routine that includes weekend trail hikes. Past medical events are limited to an appendectomy performed during his twenties, alongside mildly arthritic knees that have remained stable under conservative management. No other comorbidities or daily medications are recorded. He explicitly denies unexplained weight reduction, skeletal discomfort, or blood in the urine."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate is symmetrically enlarged, possessing a firm yet smooth texture, with zero palpable irregularities or lateral asymmetry. Systemic assessment remains entirely normal, featuring consistent hemodynamics and an absence of overt infectious markers or peripheral lymph node enlargement."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives alone",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

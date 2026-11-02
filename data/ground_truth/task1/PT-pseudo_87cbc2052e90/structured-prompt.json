@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_87cbc2052e90",
+  "pid": "PT-pseudo_87cbc2052e90",
+  "task": 1,
+  "psa": 8.8,
+  "age": 70,
+  "months": 1,
+  "pirads": "3",
+  "psad": 0.267,
+  "psav": 0.96,
+  "psap": 8.5,
+  "vol": 33.02,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.7255827,
+  "medhx": "Hypertension, Chronic kidney disease, Benign prostatic hyperplasia",
+  "meds": "amlodipine, valsartan, lisinopril, metoprolol, tamsulosin",
+  "notes": "PSA 8.8 ng/mL. PI-RADS 3. PSAD 0.27. Prostate volume 33 mL. csPCa 0.73.",
+  "pmhx": [
+    "Hypertension",
+    "Chronic kidney disease",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "69 kg",
+    "height": "166 cm",
+    "bmi": "25.0",
+    "bp": "141/71 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Ex-smoker (36 pack-yr, quit 2020)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "22 Jan 2025",
+  "enc_ref": "Dr. K. Bakker (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Urgent evaluation sought after a marked elevation in prostate-specific antigen to 8.8 ng/mL accompanied by recent multiparametric MRI results."
+    },
+    {
+      "s": "History",
+      "t": "At seventy years of age, this retired warehouse worker originally sought urological care three years ago for urinary complaints, though current attendance focuses entirely on monitoring a rising prostate-specific antigen trajectory. His medical background encompasses hypertension, chronic kidney disease, and benign prostatic hyperplasia, currently addressed with amlodipine, valsartan, lisinopril, metoprolol, and tamsulosin. Lower urinary tract distress remains minimal, yielding an International Prostate Symptom Score of 2 out of 35, while he explicitly denies hematuria or erectile dysfunction. He shares a ground-floor apartment with his wife, navigates daily tasks using seated exercise programs due to restricted mobility, and ingests roughly five alcoholic beverages each week. A former smoker with a 36 pack-year accumulation, he ceased tobacco use in 2020. Preventive health maintenance includes routine dental visits and recent ophthalmologic evaluation for cataract tracking. Surgical history features a laparoscopic cholecystectomy completed twenty years ago and a minor arthroscopic knee procedure in 2018, both healed without complications. He reports zero instances of bone pain, unexplained weight reduction, or systemic illness, maintaining steady general health."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: uniformly smooth; size and consistency: within normal limits; asymmetry or nodularity: absent. General assessment shows no abnormalities, recording a blood pressure of 141/71 mmHg and a steady cardiac rhythm at 64 beats per minute. Peripheral tissues lack edema, and no lymph node enlargement is detected. Abdominal palpation identifies a relaxed, non-tender cavity without distension."
+    }
+  ],
+  "occupation": "retired warehouse worker",
+  "marital": "Married",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "Dental — biannual check-up",
+    "Ophthalmology — cataract review"
+  ],
+  "alcohol": "5 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

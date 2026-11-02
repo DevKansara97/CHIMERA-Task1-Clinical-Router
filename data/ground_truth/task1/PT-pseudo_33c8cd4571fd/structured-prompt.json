@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_33c8cd4571fd",
+  "pid": "PT-pseudo_33c8cd4571fd",
+  "task": 1,
+  "psa": 12.0,
+  "age": 71,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.411,
+  "psav": 0.96,
+  "psap": 11.0,
+  "vol": 29.2,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.884623,
+  "medhx": "Hypertension",
+  "meds": "valsartan, lisinopril, metoprolol",
+  "notes": "PSA 12 ng/mL. PI-RADS 5. PSAD 0.41. Prostate volume 29 mL. csPCa 0.88.",
+  "pmhx": [
+    "Hypertension"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "64 kg",
+    "height": "177 cm",
+    "bmi": "20.4",
+    "bp": "140/87 mmHg",
+    "hr": "59 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Mar 2025",
+  "enc_ref": "Dr. M. Jansen (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation necessitated a scheduled MRI review."
+    },
+    {
+      "s": "History",
+      "t": "At 71 years old, the retired primary school teacher has tracked a gradual PSA rise since late 2022, calculating a velocity of 0.96 ng/mL annually. Residing with his wife, he stays active through daily twenty-minute walks and light gardening. Lower urinary complaints sit at a moderate 12 on the IPSS, dominated by nocturia and a diminished stream, handled without intervention. Fifteen alcohol units are consumed each week. Haematuria, pelvic discomfort, and unexplained weight loss are denied. Well-controlled hypertension relies on valsartan, lisinopril, and metoprolol, with cardiology parameters remaining stable. Recent podiatry for nail care and a standard hearing assessment both returned unremarkable. He does not smoke, reports steady energy, and experiences no sleep disturbances. Clinical records note a prior biopsy bucket of None."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The prostate presents as symmetrically smooth, lacking palpable nodules or asymmetry, aligning with a normal assessment. General inspection shows a well-nourished individual (BMI 20.4), blood pressure reading 140/87 mmHg, and a regular pulse of 59 bpm. Peripheral oedema and lymphadenopathy are absent."
+    }
+  ],
+  "occupation": "retired primary school teacher",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care",
+    "Audiology — hearing test"
+  ],
+  "alcohol": "15 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Catharina Ziekenhuis (Eindhoven)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

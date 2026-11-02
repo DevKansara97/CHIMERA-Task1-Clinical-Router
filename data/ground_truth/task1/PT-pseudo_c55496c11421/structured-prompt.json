@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_c55496c11421",
+  "pid": "PT-pseudo_c55496c11421",
+  "task": 1,
+  "psa": 7.5,
+  "age": 82,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.11,
+  "psav": 2.31,
+  "psap": 4.2,
+  "vol": 68.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.71243304,
+  "medhx": "Hypertension, Benign prostatic hyperplasia",
+  "meds": "amlodipine, valsartan, lisinopril, metoprolol",
+  "notes": "PSA 7.5 ng/mL. PI-RADS 4. PSAD 0.11. Prostate volume 68 mL. csPCa 0.71.",
+  "pmhx": [
+    "Hypertension",
+    "Benign prostatic hyperplasia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "61 kg",
+    "height": "179 cm",
+    "bmi": "19.0",
+    "bp": "118/91 mmHg",
+    "hr": "70 bpm",
+    "smoking": "Ex-smoker (23 pack-yr, quit 2011)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Jan 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical review prompted by a previous positive prostate biopsy alongside a recent PSA increase to 7.5 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "Ongoing surveillance for a previously confirmed low-grade prostatic lesion guides current management. A freelance translator by profession, he has attended urology clinics regularly since an initial biopsy demonstrated ISUP Grade Group 1 pathology. Family life includes a multi-generational residence shared with his spouse and an adult daughter who handles administrative tasks. Lower urinary tract complaints stay mild, registering an IPSS score of 7, while his fitness routine incorporates cycling twenty kilometres on two occasions each week. Hypertension remains well managed through a combined regimen of amlodipine, valsartan, lisinopril, and metoprolol. A standard podiatry visit occurred last week for routine foot maintenance, with no fresh musculoskeletal issues reported. He explicitly denies haematuria, unexplained weight reduction, or bone discomfort, noting that both sleep quality and appetite have remained consistent. Tobacco use ceased in 2011, following a 23 pack-year exposure, and weekly alcohol intake averages approximately six units."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Prostate appears symmetrically enlarged, presenting a smooth, firm texture without detectable nodules or asymmetry. General inspection shows a well-nourished individual displaying no signs of acute distress. Lung fields are clear, and cardiac auscultation indicates a regular rhythm. Abdominal palpation yields unremarkable results, with absent suprapubic tenderness or organomegaly."
+    }
+  ],
+  "occupation": "freelance translator",
+  "marital": "Married",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Niece",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "6 units / week",
+  "exercise": "Cycling 2x/week, ~20 km",
+  "ipss": "IPSS score: 7/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

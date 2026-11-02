@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "decisive",
+    "fh": "noted",
+    "psad": "important",
+    "psa": "decisive",
+    "age": "noted",
+    "dre": "noted",
+    "cspca": "important",
+    "vol": "noted",
+    "comorbidity": "noted",
+    "bx": "decisive"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Younger patient, no reported comorbidity, high elevated PSA, high PSAdensity, PIRADS5, positive DRE. Clear indication biopsy."
+}

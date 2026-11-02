@@ -1,0 +1,22 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "vol": "noted",
+    "dre": "noted",
+    "comorbidity": "not_used",
+    "psa": "important",
+    "pirads": "important",
+    "cspca": "not_used",
+    "bx": "important",
+    "fh": "noted",
+    "age": "noted",
+    "psad": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "laboratory_results",
+    "radiology_report"
+  ],
+  "free_text": "Again missing earlier ISUP grading and if the PIRADS 4 lesion is stabile or growing"
+}

@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_62c93b0c3dba",
+  "pid": "PT-pseudo_62c93b0c3dba",
+  "task": 1,
+  "psa": 7.9,
+  "age": 67,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.181,
+  "psav": 1.38,
+  "psap": 10.0,
+  "vol": 43.67,
+  "dre": "Not done",
+  "bx": "None",
+  "cspca": 0.86869615,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 7.9 ng/mL. PI-RADS 5. PSAD 0.18. Prostate volume 44 mL. csPCa 0.87.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "87 kg",
+    "height": "182 cm",
+    "bmi": "26.3",
+    "bp": "100/76 mmHg",
+    "hr": "79 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Jan 2025",
+  "enc_ref": "Dr. N. Kuiper (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "The patient seeks evaluation due to ascending PSA readings and newly acquired multiparametric MRI results."
+    },
+    {
+      "s": "History",
+      "t": "Mr X, a 67-year-old retired firefighter, arrived for dedicated urology review after his PSA climbed steadily over the last three years. He describes moderate lower urinary tract symptoms aligning with an IPSS score of 16, characterized mainly by frequent nighttime urination and a diminished flow, yet he denies pelvic discomfort or blood in the urine. Socially, he remains married but occupies a residence by himself; his adult daughter serves as his main point of contact, while his wife holds next-of-kin status. He logs roughly 14 units of alcohol each week and keeps a mostly inactive lifestyle, broken only by sporadic strolls. Beyond his urological issues, a recent audiology check uncovered mild hearing loss in both ears, and he manages longstanding, stable osteoarthritis in his right knee using paracetamol. He has zero known drug allergies, consumes no daily prescriptions, and avoids tobacco entirely. An Arabic interpreter has been secured for his next appointment to guarantee accurate dialogue."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Omitted entirely due to scheduling limitations and the patient’s stated preference. Overall inspection shows a well-built individual in stable condition. Lung fields are clear, heart rhythm regular, and vitals remain steady (blood pressure 100/76 mmHg, heart rate 79 bpm). The abdomen yields to gentle palpation without tenderness, masses, or organ enlargement."
+    }
+  ],
+  "occupation": "retired firefighter",
+  "marital": "Married",
+  "living": "Lives alone; adult daughter is primary contact",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Audiology — hearing test"
+  ],
+  "alcohol": "14 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 16/35 (moderate LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

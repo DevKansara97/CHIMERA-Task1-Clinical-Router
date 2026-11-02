@@ -1,0 +1,61 @@
+{
+  "case_id": "PT-pseudo_6a100adb6ac3",
+  "pid": "PT-pseudo_6a100adb6ac3",
+  "task": 1,
+  "psa": 5.8,
+  "age": 66,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.192,
+  "psav": 0.23,
+  "psap": 5.1,
+  "vol": 30.22,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.81118125,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 5.8 ng/mL. PI-RADS 4. PSAD 0.19. Prostate volume 30 mL. csPCa 0.81.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "85 kg",
+    "height": "178 cm",
+    "bmi": "26.8",
+    "bp": "141/89 mmHg",
+    "hr": "58 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "10 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current visit addresses reassessment of previously confirmed malignancy alongside a documented upward trajectory in serum markers."
+    },
+    {
+      "s": "History",
+      "t": "An initial incidental elevation in serum markers in early 2023 prompted diagnostic workup for this 66-year-old gentleman, building upon a prior biopsy bucket 'Positive' for malignancy. He remains a non-smoker and maintains a routine of gardening, supplemented by roughly 13 units of alcohol weekly, though he lacks a formal exercise program. A retired civil servant who is Married, he resides in an assisted-living facility supported daily by his wife. Symptom burden aligns with an IPSS score of 15, indicating moderate urinary complaints dominated by nighttime voiding and reduced flow strength; he explicitly rules out visible blood or sudden inability to void. Hearing loss necessitates written consultation summaries. Surgical history encompasses a distant appendectomy and 2021 lens replacement surgery, neither producing present-day sequelae. No active pharmacological interventions or additional medical conditions are recorded."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — findings: Normal DRE. Texture uniformly smooth; mobility: unrestricted; asymmetry: absent. The gland measures within normal limits and feels consistent throughout. Systemic review shows stable hemodynamics and zero peripheral node enlargement. Cognitive status remains sharp with clear dialogue, even accounting for his mild bilateral hearing deficit."
+    }
+  ],
+  "occupation": "retired civil servant",
+  "marital": "Married",
+  "living": "Lives in assisted-living facility",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [],
+  "alcohol": "13 units / week",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 15/35 (moderate LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Antoni van Leeuwenhoek",
+  "ct": null,
+  "active_treatment_flag": 0
+}

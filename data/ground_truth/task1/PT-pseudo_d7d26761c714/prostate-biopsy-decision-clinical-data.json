@@ -1,0 +1,104 @@
+{
+  "radiology_report": "Subject: Prostate Multiparametric MRI | Facility: Antoni van Leeuwenhoek Hospital | Date: 29 December 2024\nClinical Indication:\nFollow-up assessment for established malignancy. Current serum PSA measures 7.7 ng/mL. Previous histopathology confirmed ISUP Grade Group 1 disease.\nFINDINGS:\nThe gland exhibits a total volume of 73.0 mL, displaying symmetrical enlargement alongside uniform T2 weighting throughout the peripheral compartments. A discrete region of intermediate signal intensity occupies the left mid-gland peripheral zone, spanning roughly 12 × 10 mm. Diffusion-weighted imaging and ADC mapping reveal mild restriction within this focus, devoid of associated T2 signal loss. Dynamic contrast sequences demonstrate an absence of definitive early or sustained enhancement. Extracapsular dissemination and seminal vesicle infiltration remain unobserved. Pelvic lymph nodes appear normal, and skeletal structures show no metastatic foci.\nIMPRESSION:\nDiscrete abnormality localized to the left mid-gland peripheral compartment, assigned PI-RADS 3.\nCalculated PSA density: 0.11 ng/mL/mL.\nEstimated csPCa probability: 0.6079056",
+  "previous_notes": [
+    {
+      "date": "09 Jan 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Initial consultation occurred after an elevated PSA reading of 6.0 ng/mL was recorded in late 2022. A repeat measurement in December 2023 indicated a decline to 4.6 ng/mL. Given the patient’s age alongside the previously confirmed histological diagnosis, an mpMRI was scheduled and a referral to the urology outpatient department was submitted. Hypertension remains adequately managed with valsartan and metoprolol."
+    },
+    {
+      "date": "08 May 2024",
+      "author": "Dr. F. de Boer (GP)",
+      "text": "Subsequent visit addressed the urology referral pathway. The individual has completed imaging and pathological evaluation, with all documentation filed accordingly. Systemic health status remains stable, and the prescribed pharmacological regimen continues unchanged."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Dec 2022",
+      "val": 5.3
+    },
+    {
+      "date": "Dec 2023",
+      "val": 5.1
+    },
+    {
+      "date": "Jan 2025",
+      "val": 7.7
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "7.7 ng/mL",
+      "date": "07 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "0.93 ng/mL",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "12%",
+      "date": "07 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.2 g/dL",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "8.4 x10^9/L",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "236 x10^9/L",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "99 umol/L",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "10.4 nmol/L",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "89 U/L",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "193 U/L",
+      "date": "07 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "HbA1c",
+      "val": "5.5 %",
+      "date": "07 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

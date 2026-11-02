@@ -1,0 +1,67 @@
+{
+  "case_id": "PT-pseudo_132e0000c0e0",
+  "pid": "PT-pseudo_132e0000c0e0",
+  "task": 1,
+  "psa": 13.6,
+  "age": 57,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.2,
+  "psav": 0.52,
+  "psap": 13.3,
+  "vol": 68.0,
+  "dre": "Normal",
+  "bx": "Negative",
+  "cspca": 0.83881855,
+  "medhx": "Chronic kidney disease",
+  "meds": "None",
+  "notes": "PSA 13.6 ng/mL. PI-RADS 5. PSAD 0.20. Prostate volume 68 mL. csPCa 0.84.",
+  "pmhx": [
+    "Chronic kidney disease"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "91 kg",
+    "height": "179 cm",
+    "bmi": "28.4",
+    "bp": "107/77 mmHg",
+    "hr": "64 bpm",
+    "smoking": "Ex-smoker (35 pack-yr, quit 2010)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "01 Feb 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A clinical review was requested after a previous negative biopsy and a subsequent rise in PSA levels to 13.6 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "At 57 years of age, this retired greenhouse horticulturalist is married and living with his partner. Adult children visit weekly. Clinical investigation began in late 2023 due to an upward PSA trajectory. Current symptom burden includes moderate lower urinary tract complaints, registering an IPSS score of 12. Nocturia occurs twice per night, accompanied by a somewhat diminished stream, yet hematuria and pelvic discomfort are absent. Chronic kidney disease defines his medical background, currently showing an eGFR below 60 mL/min/1.73m². He maintains a daily twenty-minute walking regimen and abstains from alcohol entirely. Smoking cessation occurred in 2010, concluding a thirty-five pack-year habit. Outside urological concerns, vascular surgery addressed symptomatic varicose veins recently, while dermatology treated actinic keratoses the previous month. His residence sits more than ninety minutes from the hospital, leading him to favor telephone updates when feasible, with his sister listed as next of kin."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal examination. The prostate presents as symmetrically enlarged yet benign, characterized by a smooth, firm consistency without palpable nodules or asymmetry. Vital parameters remain stable, recording a blood pressure of 107/77 mmHg and a heart rate of 64 bpm. General inspection reveals no pallor, jaundice, or peripheral lymphadenopathy."
+    }
+  ],
+  "occupation": "retired greenhouse horticulturalist",
+  "marital": "Married",
+  "living": "Lives with partner; adult children visit weekly",
+  "next_of_kin": "Sibling (sister)",
+  "recent_other": [
+    "GP practice nurse — flu vaccination",
+    "Vascular surgery — varicose veins consult",
+    "Dermatology — actinic keratosis check"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 12/35 (moderate LUTS)",
+  "admin": "Lives >90 min from clinic; phone follow-up preferred where clinically safe.",
+  "mri_hospital": "Spaarne Gasthuis (Haarlem)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

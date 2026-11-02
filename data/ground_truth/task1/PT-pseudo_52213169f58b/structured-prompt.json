@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_52213169f58b",
+  "pid": "PT-pseudo_52213169f58b",
+  "task": 1,
+  "psa": 5.5,
+  "age": 61,
+  "months": 2,
+  "pirads": "5",
+  "psad": 0.136,
+  "psav": 1.69,
+  "psap": 3.3,
+  "vol": 40.54,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.84802127,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 5.5 ng/mL. PI-RADS 5. PSAD 0.14. Prostate volume 41 mL. csPCa 0.85.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "97 kg",
+    "height": "185 cm",
+    "bmi": "28.3",
+    "bp": "137/72 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "21 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "A recent elevation in prostate-specific antigen to 5.5 ng/mL combined with a PI-RADS 5 magnetic resonance imaging classification triggered this clinical reassessment."
+    },
+    {
+      "s": "History",
+      "t": "The 61-year-old individual practices as an active dairy farmer and resides in an independent unit within a retirement community following a divorce. He reports zero lower urinary tract symptoms, recording an IPSS score of 0/35, and denies pelvic pain or blood in the urine. While he maintains a strong bond with his adult son who lives alone, his mobility requires a walking frame for extended distances, prompting a ground-floor consultation request. Leisure activities center around garden maintenance, and he abstains from alcohol entirely. A standard podiatry visit recently took place for routine foot care. Medical history is clear of chronic illnesses, prior major surgeries, and ongoing pharmacotherapy. He does not smoke."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a uniformly smooth glandular surface with no focal asymmetry or palpable irregularities. General inspection shows stable vital parameters, adequate nutritional status, and no systemic markers of disease or lymph node enlargement. He navigates longer distances using a mobility frame, yet otherwise exhibits no signs of acute physiological compromise."
+    }
+  ],
+  "occupation": "active dairy farmer",
+  "marital": "Divorced",
+  "living": "Lives in retirement community (independent unit)",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Mobility limitation (frame); ground-floor consult room preferred.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

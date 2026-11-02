@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_8654c4ff4d10",
+  "pid": "PT-pseudo_8654c4ff4d10",
+  "task": 1,
+  "psa": 6.9,
+  "age": 72,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.121,
+  "psav": 1.76,
+  "psap": 7.9,
+  "vol": 57.11,
+  "dre": "Not done",
+  "bx": "Positive",
+  "cspca": 0.8325768,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.9 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 57 mL. csPCa 0.83.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "84 kg",
+    "height": "178 cm",
+    "bmi": "26.5",
+    "bp": "131/70 mmHg",
+    "hr": "62 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "05 Jan 2025",
+  "enc_ref": "Dr. L. Smits (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Return visit requested following a recent PSA spike and a previously positive biopsy result."
+    },
+    {
+      "s": "History",
+      "t": "Mr X, a 72-year-old widower working as a retired bus driver, resides in a multi-generational household with his adult child. His daily routine leans sedentary, punctuated by occasional neighbourhood walks. Lower urinary tract symptoms sit at a moderate level, registering an IPSS score of 19 out of 35, impacting both nocturia and daytime frequency; he denies haematuria or pelvic discomfort. He is a non-smoker and averages two units of alcohol per week. Despite advancing years, he maintains full physical independence. Unrelated to his urological assessment, a recent endocrine visit for standard thyroid screening confirmed stable hormone levels. He reports no comorbidities and takes no active medications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "Digital rectal assessment: Not performed. The gentleman appears well-nourished and free of acute distress upon general inspection. Auscultation of the chest reveals clear lung fields and a regular cardiac rhythm. Abdominal palpation yields a soft, non-tender contour with no detectable masses or organomegaly."
+    }
+  ],
+  "occupation": "retired bus driver",
+  "marital": "Widowed",
+  "living": "Lives with adult child (multi-generational household)",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Endocrine — thyroid screening"
+  ],
+  "alcohol": "2 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 19/35 (moderate LUTS)",
+  "admin": "Interpreter: not required. Consent for data use: signed.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

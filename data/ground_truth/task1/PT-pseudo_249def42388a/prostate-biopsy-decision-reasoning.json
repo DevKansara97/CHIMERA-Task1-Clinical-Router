@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "dre": "noted",
+    "comorbidity": "noted",
+    "fh": "noted",
+    "bx": "noted",
+    "psa": "important",
+    "age": "important",
+    "pirads": "decisive",
+    "cspca": "not_used",
+    "psad": "noted",
+    "vol": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "This is borderline. A P5 but old man and moderately PSA with no symptoms."
+}

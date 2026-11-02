@@ -1,0 +1,21 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "pirads": "important",
+    "bx": "decisive",
+    "vol": "important",
+    "psad": "important",
+    "comorbidity": "noted",
+    "dre": "noted",
+    "age": "important",
+    "fh": "noted",
+    "cspca": "not_used",
+    "psa": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "radiology_report",
+    "psa_trend"
+  ],
+  "free_text": "Man on active surveillance. MRI stabile and PSA moderately high."
+}

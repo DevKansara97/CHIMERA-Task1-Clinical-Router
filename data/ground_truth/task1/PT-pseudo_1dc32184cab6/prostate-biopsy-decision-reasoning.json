@@ -1,0 +1,20 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "decisive",
+    "psad": "noted",
+    "pirads": "important",
+    "comorbidity": "not_used",
+    "bx": "important",
+    "fh": "noted",
+    "vol": "noted",
+    "cspca": "not_used",
+    "dre": "noted",
+    "age": "noted"
+  },
+  "reveal_sequence": [
+    "radiology_report",
+    "psa_trend"
+  ],
+  "free_text": "Low PSA with earlier negative biopsy. A change in P4 lesion size might trigger a biopsy."
+}

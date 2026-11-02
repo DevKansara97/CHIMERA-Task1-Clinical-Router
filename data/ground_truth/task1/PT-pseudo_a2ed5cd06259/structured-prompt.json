@@ -1,0 +1,66 @@
+{
+  "case_id": "PT-pseudo_a2ed5cd06259",
+  "pid": "PT-pseudo_a2ed5cd06259",
+  "task": 1,
+  "psa": 4.6,
+  "age": 76,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.153,
+  "psav": 0.81,
+  "psap": 3.4,
+  "vol": 30.02,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.8208632,
+  "medhx": "Type 2 diabetes",
+  "meds": "empagliflozin",
+  "notes": "PSA 4.6 ng/mL. PI-RADS 5. PSAD 0.15. Prostate volume 30 mL. csPCa 0.82.",
+  "pmhx": [
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "103 kg",
+    "height": "193 cm",
+    "bmi": "27.7",
+    "bp": "137/83 mmHg",
+    "hr": "65 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "10 Jan 2025",
+  "enc_ref": "Dr. T. Hendriks (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Ascending PSA values combined with a previously positive biopsy require specialist re-evaluation."
+    },
+    {
+      "s": "History",
+      "t": "A 76-year-old non-smoker initially entered evaluation due to a late-2023 PSA elevation. Later, a systematic biopsy confirmed low-grade disease. Type 2 diabetes is managed using empagliflozin. An IPSS score of 2 points to negligible urinary symptom bother. Formerly a police officer, he is divorced and resides with his partner. Weekends feature hiking trips. Alcohol remains capped at 13 units weekly. Orthopaedic follow-ups address a chronic knee issue. Podiatry visits handle foot maintenance. An Arabic interpreter has been requested. Bone pain, haematuria, and unexplained weight loss are denied. Overall wellness stays steady."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Texture is uniformly smooth. Dimensions are symmetric. No nodularity. No asymmetry. General inspection shows a well-nourished individual appearing comfortable. Vital signs remain stable. Cardiopulmonary assessment is normal."
+    }
+  ],
+  "occupation": "retired police officer",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Orthopaedic outpatient — knee follow-up",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "13 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 2/35 (mild LUTS)",
+  "admin": "Interpreter (Arabic) requested for next visit.",
+  "mri_hospital": "Amsterdam UMC (location AMC)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

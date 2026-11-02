@@ -1,0 +1,21 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "bx": "decisive",
+    "comorbidity": "noted",
+    "vol": "noted",
+    "psa": "noted",
+    "psad": "noted",
+    "dre": "noted",
+    "fh": "noted",
+    "age": "important",
+    "pirads": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Again, man on Active Surveillance. Need initial ISUP and MRI."
+}

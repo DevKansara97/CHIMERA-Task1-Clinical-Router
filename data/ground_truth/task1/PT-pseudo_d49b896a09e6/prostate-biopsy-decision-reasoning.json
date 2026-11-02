@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "vol": "important",
+    "fh": "noted",
+    "bx": "important",
+    "dre": "important",
+    "age": "important",
+    "pirads": "important",
+    "comorbidity": "noted",
+    "psa": "noted",
+    "psad": "important",
+    "cspca": "not_used"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Active surveillance, only one previous biopsy 2 yrs ago. Stable findings (stable PIRADS4, slightly increasing PSA) -> borderline indication for biopsy. As only one previous biopsy, would lean toward one confirmatory biopsy this time and potentially increase interval until next time. Alternative is to delay biopsy one year and do it then."
+}

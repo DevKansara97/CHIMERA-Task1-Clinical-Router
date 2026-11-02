@@ -1,0 +1,21 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "vol": "noted",
+    "dre": "noted",
+    "psad": "noted",
+    "fh": "noted",
+    "cspca": "not_used",
+    "psa": "important",
+    "comorbidity": "noted",
+    "bx": "important",
+    "pirads": "important",
+    "age": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "I need information on initial ISUP and size of P4 lesion in initial scan."
+}

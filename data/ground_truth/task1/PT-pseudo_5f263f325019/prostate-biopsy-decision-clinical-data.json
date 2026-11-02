@@ -1,0 +1,97 @@
+{
+  "radiology_report": "Subject: Prostate Multiparametric MRI\nInstitution: Leiden University Medical Center\nDate: 18 December 2024\n\nClinical Indication:\nReassessment prompted by a PSA reading of 12.3 ng/mL alongside a previously positive biopsy outcome.\n\nFINDINGS:\nThe gland occupies a volume of 62.18 mL. T2-weighted sequences highlight a sharply demarcated, markedly hypointense focus measuring roughly 18 mm within the right peripheral zone, with extension toward the mid-gland region. Diffusion-weighted imaging shows corresponding marked restriction, evidenced by low signal on ADC maps. Dynamic contrast-enhanced sequences demonstrate early, focal arterial enhancement confined to the lesion. There is no definitive evidence of extraprostatic extension or seminal vesicle invasion. The neurovascular bundles remain intact. Pelvic imaging reveals no suspicious lymphadenopathy.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone.\nProstate volume 62.18 mL; PSA density 0.198 ng/mL/mL.\ncsPCa predicted probability 0.8065341.",
+  "previous_notes": [
+    {
+      "date": "03 Sep 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Patient attended for continued monitoring after earlier prostate biopsies. Laboratory results indicate a PSA increase from 8.0 ng/mL during February 2024 to 12.3 ng/mL on the most recent draw. He describes mild lower urinary tract symptoms, explicitly denying haematuria or bone discomfort. Owing to the accelerated PSA velocity and established histological background, a referral to the urology outpatient department was initiated."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Apr 2022",
+      "val": 7.4
+    },
+    {
+      "date": "Mar 2023",
+      "val": 10.9
+    },
+    {
+      "date": "Feb 2024",
+      "val": 11.9
+    },
+    {
+      "date": "Jan 2025",
+      "val": 12.3
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "12.3 ng/mL",
+      "date": "13 Dec 2024",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "2.18 ng/mL",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "18%",
+      "date": "13 Dec 2024",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "13.6 g/dL",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.2 x10^9/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "247 x10^9/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "85 umol/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "18.0 nmol/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "75 U/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "169 U/L",
+      "date": "13 Dec 2024",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

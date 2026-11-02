@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_ac05cda1a88a",
+  "pid": "PT-pseudo_ac05cda1a88a",
+  "task": 1,
+  "psa": 14.5,
+  "age": 44,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.29,
+  "psav": 6.16,
+  "psap": 11.4,
+  "vol": 51.0,
+  "dre": "Nodus",
+  "bx": "Positive",
+  "cspca": 0.89338696,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 14.5 ng/mL. PI-RADS 5. PSAD 0.29. Prostate volume 51 mL. DRE nodus. csPCa 0.89.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "67 kg",
+    "height": "172 cm",
+    "bmi": "22.6",
+    "bp": "125/69 mmHg",
+    "hr": "67 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "17 Jan 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation combined with a previously confirmed low-grade prostate malignancy prompted this clinical evaluation."
+    },
+    {
+      "s": "History",
+      "t": "A 44-year-old retired farmer seeks re-evaluation for a previously confirmed prostate malignancy and subsequent PSA increase. Marital status is divorced, though he currently resides with his partner, and his adult daughter acts as his main contact. Lower urinary tract symptoms reach an IPSS score of 15, chiefly due to nocturia and a diminished stream, while haematuria and pelvic discomfort are absent. Physical activity remains limited to occasional walking within a largely sedentary routine, alongside a weekly alcohol intake of roughly 15 units. Surgical history is minimal, featuring only a minor arthroscopic knee intervention during his thirties. He maintains a non-smoking status and carries a BMI of 22.6. Each clinic attendance demands a train journey exceeding one hour, necessitating extended consultation time."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a firm, discrete nodule situated in the right mid-gland peripheral zone, while the remaining prostatic tissue feels symmetric and smooth. Vital parameters remain within normal limits, recording a blood pressure of 125/69 mmHg and a pulse of 67 bpm. The broader physical assessment shows no abdominal masses or palpable lymph node enlargement."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Sleep clinic — suspected obstructive sleep apnoea"
+  ],
+  "alcohol": "15 units / week",
+  "exercise": "Sedentary lifestyle, occasional walking",
+  "ipss": "IPSS score: 15/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

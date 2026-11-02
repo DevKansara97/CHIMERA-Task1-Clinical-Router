@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_25007bb807d7",
+  "pid": "PT-pseudo_25007bb807d7",
+  "task": 1,
+  "psa": 17.0,
+  "age": 61,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.462,
+  "psav": 1.29,
+  "psap": 16.1,
+  "vol": 36.82,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.85766834,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 17 ng/mL. PI-RADS 5. PSAD 0.46. Prostate volume 37 mL. csPCa 0.86.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "83 kg",
+    "height": "193 cm",
+    "bmi": "22.3",
+    "bp": "122/68 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Ex-smoker (16 pack-yr, quit 2015)",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "19 Jan 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent prostate-specific antigen elevation prompted mpMRI scheduling."
+    },
+    {
+      "s": "History",
+      "t": "A 61-year-old office administrator entered the clinical pathway after a sustained prostate-specific antigen rise spanning three years. Lower urinary tract symptoms are minimal, scoring four on the IPSS questionnaire, while haematuria, pelvic discomfort, and unexplained weight loss are absent. Smoking history totals 16 pack-years, with cessation occurring in 2015; weekend hiking and roughly 11 units of alcohol weekly characterize his routine. He resides with his wife, who acts as his primary contact. Recent ophthalmological intervention involved uneventful cataract surgery, necessitating large-print materials for correspondence. Cardiovascular status remains stable, confirmed by a cardiology review in autumn 2024 that required no active interventions. There is a complete absence of prior urological procedures, comorbid conditions, or current medications."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and symmetric; mobility: unrestricted; asymmetry: absent. General inspection shows a well-nourished individual with stable vital signs, alongside an absence of palpable lymphadenopathy or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "office administrator",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "11 units / week",
+  "exercise": "Hiking on weekends",
+  "ipss": "IPSS score: 4/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "Amsterdam UMC (location VUmc)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,63 @@
+{
+  "case_id": "PT-pseudo_927456f47c99",
+  "pid": "PT-pseudo_927456f47c99",
+  "task": 1,
+  "psa": 6.6,
+  "age": 59,
+  "months": 3,
+  "pirads": "4",
+  "psad": 0.217,
+  "psav": 2.08,
+  "psap": 3.9,
+  "vol": 30.37,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.6730961,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 6.6 ng/mL. PI-RADS 4. PSAD 0.22. Prostate volume 30 mL. csPCa 0.67.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "71 kg",
+    "height": "181 cm",
+    "bmi": "21.7",
+    "bp": "138/77 mmHg",
+    "hr": "56 bpm",
+    "smoking": "Ex-smoker (16 pack-yr, quit 2018)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "21 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical attention is required after multiparametric imaging identified a PSA increase to 6.6 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "A 59-year-old retired farmer, divorced but residing with his partner, seeks urological evaluation for a PSA trajectory that climbed from 3.0 ng/mL in early 2024 to 6.6 ng/mL this month. He manages his daily affairs independently, with his daughter handling administrative paperwork. Lower urinary tract symptoms are entirely absent, yielding an IPSS score of zero. There is no hematuria or pelvic discomfort to report. Lifestyle details include a weekly alcohol intake of roughly 25 units and chair-based physical routines necessitated by limited mobility. Cognitive screening at a recent memory clinic visit revealed intact faculties, supporting his continued independence. Surgical past includes a cholecystectomy performed in his late forties and a minor knee arthroscopy in 2019. Tobacco use ceased in 2018 after accumulating 16 pack-years. He currently takes zero regular prescriptions."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE reveals a uniformly smooth gland with standard firmness and zero palpable irregularities. General assessment shows stable vital parameters and a body mass index of 21.7. Abdominal palpation and lymph node checks return negative for masses or enlargement."
+    }
+  ],
+  "occupation": "retired farmer",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Memory clinic — baseline screening"
+  ],
+  "alcohol": "25 units / week",
+  "exercise": "Limited mobility — chair-based exercises only",
+  "ipss": "IPSS score: 0/35 (mild LUTS)",
+  "admin": "Daughter manages communication; CC on letters with patient consent.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

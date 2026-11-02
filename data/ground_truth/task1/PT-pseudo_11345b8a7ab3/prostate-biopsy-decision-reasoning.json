@@ -1,0 +1,21 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "comorbidity": "noted",
+    "fh": "noted",
+    "dre": "important",
+    "psa": "decisive",
+    "pirads": "decisive",
+    "bx": "decisive",
+    "psad": "noted",
+    "age": "noted",
+    "cspca": "not_used",
+    "vol": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Patient has a verified PCa with PSA 113. Start treatment and do I PSMA-PET for further workup."
+}

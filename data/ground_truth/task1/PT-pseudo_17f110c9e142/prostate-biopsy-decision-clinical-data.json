@@ -1,0 +1,93 @@
+{
+  "radiology_report": "Subject: Prostate multiparametric MRI | Date: 03 Feb 2025 | Institution: Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)\n\nClinical indication: Specialist reassessment prompted by a PSA increase to 6.9 ng/mL and prior biopsy bucket 'Positive'. Previous imaging yielded a PI-RADS 5 classification.\n\nFINDINGS:\nGlandular volume measures 40.33 mL. Peripheral zone imaging reveals a well-circumscribed, irregular T2-hypointense focus in the right mid-gland, spanning roughly 15 × 12 × 10 mm. Restricted diffusion is pronounced on DWI, mirrored by ADC hypointensity. Dynamic contrast sequences demonstrate focal, early arterial uptake. The transition zone exhibits benign nodular hyperplasia. Seminal vesicles remain clear. Pelvic lymph nodes show no suspicious enlargement. Bone marrow signal is uniform.\n\nIMPRESSION:\nPI-RADS 5 lesion in the right peripheral zone.\nProstate volume 40.33 mL; PSAD 0.171 ng/mL/mL.\ncsPCa predicted probability 0.8314881.",
+  "previous_notes": [
+    {
+      "date": "29 Jun 2024",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "Initial workup commenced in late 2023 after a PSA reading of 5.3 ng/mL led to a transrectal biopsy, which confirmed Gleason 3+4 malignancy. Ongoing active surveillance has tracked his biomarker trajectory. The latest assay, recorded in February 2025, indicates an upward trend to 6.9 ng/mL, driving this specialist consultation for comprehensive reassessment."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Oct 2022",
+      "val": 0.7
+    },
+    {
+      "date": "Dec 2023",
+      "val": 1.8
+    },
+    {
+      "date": "Feb 2025",
+      "val": 6.9
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.9 ng/mL",
+      "date": "03 Feb 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.15 ng/mL",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "17%",
+      "date": "03 Feb 2025",
+      "flag": "L"
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "14.2 g/dL",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "5.8 x10^9/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "191 x10^9/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "103 umol/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.7 nmol/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "61 U/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "193 U/L",
+      "date": "03 Feb 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

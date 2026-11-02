@@ -1,0 +1,102 @@
+{
+  "radiology_report": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch) | 20 Feb 2025 | multiparametric MRI prostate\nClinical indication: PSA value of \"6.77\" ng/mL, prior PI-RADS \"5\", evaluate lesion characteristics.\n\nFINDINGS: Glandal volume registers at 28.27 mL. A focal abnormality sits at the left peripheral zone base-to-mid junction, spanning 12 mm in greatest dimension. T2-weighted sequences show marked hypointensity. DWI confirms restricted diffusion alongside low ADC values. DCE highlights early, focal enhancement against adjacent parenchyma. No extraprostatic extension or seminal vesicle invasion appears. Suspicious lymphadenopathy or osseous lesions remain absent.\n\nIMPRESSION: PI-RADS \"5\" lesion in the left peripheral zone. PSA density of \"0.239\" ng/mL/mL. csPCa predicted probability of \"0.8536296\".",
+  "previous_notes": [
+    {
+      "date": "04 Sep 2023",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "During a routine wellness visit on 04 Sep 2023, Dr. P. van Dijk (GP) noted persistent lower urinary tract symptoms, quantified at an IPSS of 22. Laboratory work revealed a PSA reading of 3.8 ng/mL, marking a steady climb over twelve months. Physical activity remains robust with biweekly tennis matches, alongside modest alcohol consumption at three units weekly. Because of the ascending marker, a urology outpatient referral has been organized."
+    },
+    {
+      "date": "08 Mar 2023",
+      "author": "Dr. P. van Dijk (GP)",
+      "text": "On 08 Mar 2023, Dr. P. van Dijk (GP) conducted a monitoring session for a previously flagged PSA elevation. Recent labs returned a value of 2.9 ng/mL, resting just above the standard reference interval. The individual experiences steady urinary frequency but denies acute retention or blood in the urine. A subsequent blood draw has been planned for later in the year to monitor trends."
+    }
+  ],
+  "psa_trend": [
+    {
+      "date": "Jan 2024",
+      "val": 0.5
+    },
+    {
+      "date": "May 2024",
+      "val": 4.0
+    },
+    {
+      "date": "Oct 2024",
+      "val": 1.5
+    },
+    {
+      "date": "Feb 2025",
+      "val": 6.77
+    }
+  ],
+  "laboratory_results": [
+    {
+      "name": "PSA",
+      "val": "6.8 ng/mL",
+      "date": "28 Jan 2025",
+      "flag": "H"
+    },
+    {
+      "name": "Free PSA",
+      "val": "1.41 ng/mL",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "%Free PSA",
+      "val": "21%",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Haemoglobin",
+      "val": "16.0 g/dL",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "WBC",
+      "val": "6.4 x10^9/L",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Platelets",
+      "val": "187 x10^9/L",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Creatinine",
+      "val": "89 umol/L",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "eGFR",
+      "val": ">60 mL/min/1.73m2",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Testosterone",
+      "val": "16.1 nmol/L",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "val": "70 U/L",
+      "date": "28 Jan 2025",
+      "flag": ""
+    },
+    {
+      "name": "LDH",
+      "val": "155 U/L",
+      "date": "28 Jan 2025",
+      "flag": ""
+    }
+  ],
+  "family_history": "No"
+}

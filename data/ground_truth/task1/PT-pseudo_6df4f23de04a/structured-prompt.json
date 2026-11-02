@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_6df4f23de04a",
+  "pid": "PT-pseudo_6df4f23de04a",
+  "task": 1,
+  "psa": 8.2,
+  "age": 64,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.12,
+  "psav": 2.03,
+  "psap": 7.4,
+  "vol": 66.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.74084973,
+  "medhx": "Hypertension, Hypercholesterolaemia",
+  "meds": "amlodipine, metoprolol, atorvastatin, rosuvastatin",
+  "notes": "PSA 8.2 ng/mL. PI-RADS 4. PSAD 0.12. Prostate volume 66 mL. csPCa 0.74.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "85 kg",
+    "height": "186 cm",
+    "bmi": "24.6",
+    "bp": "160/86 mmHg",
+    "hr": "74 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "3 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "28 Feb 2025",
+  "enc_ref": "Dr. R. van den Berg (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Ongoing assessment after a previous low-grade prostate cancer diagnosis alongside persistent PSA elevation."
+    },
+    {
+      "s": "History",
+      "t": "First investigated for an incidental PSA rise in mid-2022, this 64-year-old gentleman carries a diagnosis of low-grade prostate cancer. A retired plumber, he shares a household with his wife and stays physically active through regular cycling, logging roughly 30 kilometres per session on 3 occasions weekly. Urinary complaints are negligible, yielding an IPSS score of 1; he denies hematuria or pelvic discomfort. His medical background includes well-managed hypertension and hypercholesterolaemia, treated with amlodipine, metoprolol, atorvastatin, and rosuvastatin, with a cardiology check-up completed 6 months ago. Alcohol consumption averages 13 units each week, and he reports no significant lifestyle shifts or new systemic complaints. Administrative needs include large-print correspondence to accommodate mild visual impairment, while his adult son acts as the designated primary contact. Non-smoker status is documented."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: smooth and firm; mobility: unremarkable; asymmetry: absent. The prostate appears symmetrically enlarged without discrete nodules. Systemic assessment shows normal findings overall. Blood pressure registers at 160/86 mmHg, accompanied by a steady pulse of 74 beats per minute. Palpation of the abdomen uncovers no masses or organ enlargement, and peripheral lymphadenopathy is absent."
+    }
+  ],
+  "occupation": "retired plumber",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult son (primary contact)",
+  "recent_other": [],
+  "alcohol": "13 units / week",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Visual impairment: large-print correspondence requested.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

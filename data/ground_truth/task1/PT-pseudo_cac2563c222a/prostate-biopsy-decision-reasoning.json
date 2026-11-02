@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "psa": "important",
+    "age": "important",
+    "psad": "important",
+    "cspca": "important",
+    "dre": "noted",
+    "pirads": "important",
+    "vol": "noted",
+    "bx": "important",
+    "fh": "noted",
+    "comorbidity": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "young patient with pirads5= high probability of significant prostate cancer and only one prev biopsy, increasing PSA. indicated with one more confirmatory biopsy to exclude significant disease (and curative treatment at this point)"
+}

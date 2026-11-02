@@ -1,0 +1,101 @@
+{
+  "_meta": {
+    "description": "Maps revealed form sections to the variable_weights keys they inform. Used to evaluate whether information obtained from a revealed section was actually used in the agent's decision (via non-zero variable weight). Designed for urological biopsy decision-making following EAU/ESUR mpMRI-guided protocols.",
+    "schema_version": "1.4",
+    "variable_weights_keys": [
+      "pirads", "psad", "psa", "dre", "cspca", "age", "fh", "vol", "bx", "comorbidity"
+    ],
+    "weight_levels": {
+      "not_used": 0,
+      "noted": 1,
+      "important": 2,
+      "decisive": 3
+    },
+    "notes": [
+      "primary_variables: the variable_weights keys whose source data lives exclusively or primarily in this section.",
+      "secondary_variables: keys that can be corroborated or enriched by this section but are primarily sourced elsewhere.",
+      "always_available_variables: 'psa' (baseline) and 'age' are visible in the patient card before any section is revealed; a section reveal is not required to weight them, though richer context (density, trend) requires sections.",
+      "section_s3-psa is present in the HTML form but absent from the README section table; it is included here as it appears in real reveal sequences."
+    ]
+  },
+
+  "always_available_variables": {
+    "description": "Variables derivable from the patient card (patient.psa_ng_ml, patient.age_years) that are visible before any section is revealed. Agents may weight these without revealing any section.",
+    "variables": ["psa", "age"]
+  },
+
+  "variable_to_sections": {
+    "pirads": {
+      "primary_sections": ["section_s3-mri"],
+      "secondary_sections": [],
+      "note": "PI-RADS score is available only from the MRI report. If the agent weights pirads above 'not_used', it should have revealed section_s3-mri."
+    },
+    "psad": {
+      "primary_sections": ["section_s3-mri"],
+      "secondary_sections": ["section_s3-labs", "section_s3-psa"],
+      "note": "PSAD is computed from prostate volume (MRI) and PSA (PSA trend or patient card). The MRI report is the primary source for the volume denominator that makes PSAD calculable. The labs panel may corroborate the derived value."
+    },
+    "psa": {
+      "primary_sections": ["section_s3-psa"],
+      "secondary_sections": ["section_s3-labs", "section_s3-prev"],
+      "always_available_baseline": true,
+      "note": "Baseline PSA is visible in the patient card; no section reveal is strictly required. The PSA trend section is the primary source for longitudinal trajectory — velocity, doubling time, and serial readings. The labs panel corroborates the current point value."
+    },
+    "dre": {
+      "primary_sections": ["section_s3-labs"],
+      "secondary_sections": ["section_s3-prev"],
+      "note": "DRE findings are displayed in the laboratory/clinical workup panel. Previous notes may contain historical DRE findings for longitudinal context."
+    },
+    "cspca": {
+      "primary_sections": ["section_s3-mri"],
+      "secondary_sections": ["section_s3-labs"],
+      "note": "Clinically significant prostate cancer probability is primarily driven by PI-RADS score and imaging characteristics from the MRI report. The labs panel may show a computed risk score, but the imaging findings in section_s3-mri are the principal determinant."
+    },
+    "age": {
+      "primary_sections": [],
+      "secondary_sections": ["section_s3-comorb"],
+      "always_available_baseline": true,
+      "note": "Age is always visible in the patient card. No section reveal is required. section_s3-comorb adds functional age context (frailty, comorbidity burden)."
+    },
+    "fh": {
+      "primary_sections": ["section_s3-fh"],
+      "secondary_sections": ["section_s3-prev"],
+      "note": "Family history of PCa in first-degree relatives is documented in section_s3-fh. It may also appear in previous clinical notes."
+    },
+    "vol": {
+      "primary_sections": ["section_s3-mri"],
+      "secondary_sections": ["section_s3-labs"],
+      "note": "Prostate volume is measured on mpMRI (T2 planimetry or ellipsoid). TRUS volume may appear in the labs panel. Volume is needed to compute PSAD."
+    },
+    "bx": {
+      "primary_sections": ["section_s3-path"],
+      "secondary_sections": ["section_s3-prev"],
+      "note": "Prior biopsy results (Gleason/ISUP grade, core count) live in the pathology report. Previous notes may contain narrative summaries of prior biopsy decisions."
+    },
+    "bx_isup": {
+      "primary_sections": ["section_s3-path"],
+      "secondary_sections": ["section_s3-prev"],
+      "note": "Current ISUP grade group is read from the pathology report and drives treatment selection."
+    },
+    "bx_gl_prim": {
+      "primary_sections": ["section_s3-path"],
+      "secondary_sections": ["section_s3-prev"],
+      "note": "The primary Gleason pattern is sourced from the pathology report."
+    },
+    "bx_gl_sec": {
+      "primary_sections": ["section_s3-path"],
+      "secondary_sections": ["section_s3-prev"],
+      "note": "The secondary Gleason pattern is sourced from the pathology report."
+    },
+    "ct": {
+      "primary_sections": ["section_s3-mri"],
+      "secondary_sections": ["section_s3-labs"],
+      "note": "Clinical T stage is primarily documented in the MRI report and may be corroborated by examination findings."
+    },
+    "comorbidity": {
+      "primary_sections": ["section_s3-comorb"],
+      "secondary_sections": ["section_s3-prev"],
+      "note": "Comorbidity status and life-expectancy context are in the comorbidities section. Prior notes may mention comorbidities discussed at earlier visits."
+    }
+  }
+}

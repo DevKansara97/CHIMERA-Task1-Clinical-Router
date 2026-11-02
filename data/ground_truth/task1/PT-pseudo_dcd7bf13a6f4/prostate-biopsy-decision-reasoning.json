@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "dre": "noted",
+    "psa": "important",
+    "bx": "important",
+    "age": "noted",
+    "fh": "noted",
+    "cspca": "important",
+    "pirads": "important",
+    "vol": "noted",
+    "comorbidity": "noted",
+    "psad": "important"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "74yr where it was decided to do MRI to assess potential PCa. The MRI shows high suspicion of PCa, and thus should be biopsied. Why was he not biopsied when the first MRI showed PIRADS5? (Ask about that reason before proceeding)."
+}

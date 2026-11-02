@@ -1,0 +1,21 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "cspca": "not_used",
+    "psad": "not_used",
+    "vol": "important",
+    "psa": "decisive",
+    "bx": "decisive",
+    "pirads": "decisive",
+    "dre": "noted",
+    "comorbidity": "not_used",
+    "fh": "not_used",
+    "age": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "This patient has PCa and a very high PSA. start treatment and do a PSMA-PET ."
+}

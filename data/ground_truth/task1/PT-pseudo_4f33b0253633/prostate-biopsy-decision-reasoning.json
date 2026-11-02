@@ -1,0 +1,21 @@
+{
+  "confidence": "uncertain",
+  "variable_weights": {
+    "fh": "not_used",
+    "bx": "decisive",
+    "dre": "noted",
+    "psa": "important",
+    "cspca": "noted",
+    "pirads": "important",
+    "comorbidity": "noted",
+    "age": "important",
+    "vol": "noted",
+    "psad": "important"
+  },
+  "reveal_sequence": [
+    "psa_trend",
+    "radiology_report",
+    "previous_notes"
+  ],
+  "free_text": "At what PSA level the prior biopsy was taken? If PIRADS 3 is new and PSA is significantly rising since last biopsy I would consider repeat biopsy an option"
+}

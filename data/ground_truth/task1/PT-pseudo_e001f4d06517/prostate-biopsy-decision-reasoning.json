@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "dre": "important",
+    "age": "important",
+    "fh": "noted",
+    "cspca": "not_used",
+    "psa": "noted",
+    "vol": "noted",
+    "bx": "important",
+    "psad": "important",
+    "pirads": "important",
+    "comorbidity": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Favourable risk intermediate risk PC in 73 yr old. Unclear when previous MRI+bx was performed. Reasonable to recommend another biopsy approx 2yrs after the first, especially if only 1 bx procedure before. Should probably only be treated if detected high-risk disease."
+}

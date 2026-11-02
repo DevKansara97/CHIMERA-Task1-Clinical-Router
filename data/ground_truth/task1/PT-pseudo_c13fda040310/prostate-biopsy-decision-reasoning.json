@@ -1,0 +1,22 @@
+{
+  "confidence": "borderline",
+  "variable_weights": {
+    "fh": "important",
+    "pirads": "important",
+    "dre": "important",
+    "bx": "important",
+    "psad": "important",
+    "vol": "noted",
+    "psa": "important",
+    "age": "important",
+    "cspca": "important",
+    "comorbidity": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Rising PSA + PIRADS≥4 (limited size lesion) gives high probability of undetected prostate cancer. Therefore re-biopsy indicated. However, prev benign biopsy carries low longterm risk of lethal prostate cancer so is no acute rush to perform biopsy if patient would like to wait one year. Low PSA density supports that waiting can be tolerated. Will however need new biopsy within a few years."
+}

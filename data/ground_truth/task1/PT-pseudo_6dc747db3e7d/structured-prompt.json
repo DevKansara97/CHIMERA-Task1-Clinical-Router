@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_6dc747db3e7d",
+  "pid": "PT-pseudo_6dc747db3e7d",
+  "task": 1,
+  "psa": 3.3,
+  "age": 76,
+  "months": 1,
+  "pirads": "5",
+  "psad": 0.074,
+  "psav": 0.5,
+  "psap": 2.8,
+  "vol": 44.58,
+  "dre": "Normal",
+  "bx": "None",
+  "cspca": 0.69933206,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 3.3 ng/mL. PI-RADS 5. PSAD 0.07. Prostate volume 45 mL. csPCa 0.70.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "88 kg",
+    "height": "181 cm",
+    "bmi": "26.9",
+    "bp": "132/74 mmHg",
+    "hr": "80 bpm",
+    "smoking": "Ex-smoker (32 pack-yr, quit 2015)",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Nov 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "06 Feb 2025",
+  "enc_ref": "Dr. E. Mulder (GP)",
+  "enc_type": "Follow-up - PSA + MRI",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Routine monitoring appointment triggered by multiparametric imaging revealing a PI-RADS 5 focus alongside a PSA climb to 3.3 ng/mL."
+    },
+    {
+      "s": "History",
+      "t": "At age 76, the patient has experienced a slow biochemical rise since late 2022, now plateauing at 3.3 ng/mL. A retired bank clerk, divorced and residing with his partner, stays physically engaged by cycling roughly 30 kilometres thrice weekly. His cardiovascular metrics stayed stable after an autumn check-up. Voiding complaints register an IPSS of 22, but he reports no haematuria, skeletal discomfort, or involuntary weight reduction. Alcohol intake is nil, and tobacco use ceased in 2015 following a cumulative 32 pack-year exposure. Morning clinic slots suit his transit arrangements best."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Normal examination reveals a symmetrically enlarged prostate with smooth, firm consistency and no palpable asymmetry or nodules. Systemic assessment shows a well-maintained gentleman free of acute distress. Lung auscultation is clear, cardiac rhythm remains regular, and hemodynamic markers hold at 132/74 mmHg alongside a pulse of 80 bpm."
+    }
+  ],
+  "occupation": "retired bank clerk",
+  "marital": "Divorced",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up",
+    "Cardiology — annual review (stable, autumn 2024)"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Cycling 3x/week, ~30 km",
+  "ipss": "IPSS score: 22/35 (severe LUTS)",
+  "admin": "Patient prefers morning appointments (public transport).",
+  "mri_hospital": "Radboudumc",
+  "ct": null,
+  "active_treatment_flag": 0
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "PT-pseudo_590e7b237744",
+  "pid": "PT-pseudo_590e7b237744",
+  "task": 1,
+  "psa": 9.1,
+  "age": 79,
+  "months": 1,
+  "pirads": "4",
+  "psad": 0.161,
+  "psav": 1.48,
+  "psap": 6.2,
+  "vol": 56.5,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.0,
+  "medhx": "Type 2 diabetes",
+  "meds": "metformin, empagliflozin",
+  "notes": "PSA 9.1 ng/mL. PI-RADS 4. PSAD 0.16. Prostate volume 56 mL. csPCa 0.00.",
+  "pmhx": [
+    "Type 2 diabetes"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "117 kg",
+    "height": "185 cm",
+    "bmi": "34.2",
+    "bp": "131/88 mmHg",
+    "hr": "60 bpm",
+    "smoking": "Current smoker (42 pack-yr)",
+    "last_dental": "2 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Jan 2025",
+  "enc_ref": "Dr. P. van Dijk (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current consultation addresses a PSA elevation to 9.1 ng/mL alongside a history of biopsy-confirmed low-grade prostate cancer."
+    },
+    {
+      "s": "History",
+      "t": "At 79 years of age, the retired mechanical engineer first entered the diagnostic pathway in early 2022 due to an elevated PSA reading. Type 2 diabetes has been managed with metformin and empagliflozin, with his most recent endocrine review taking place last month. He remains married and resides with his partner, who provides consistent support. Physical activity continues through running five kilometres three times each week. Urinary complaints are negligible, registering just 1 on the IPSS scale, and he explicitly denies haematuria or pelvic discomfort. A cumulative smoking history of 42 pack-years persists, accompanied by moderate alcohol intake averaging four units weekly. Mild bilateral hearing impairment is present, and he requests written documentation for all clinical discussions. Stable osteoarthritis in the right knee occasionally restricts longer distances but leaves everyday mobility unaffected."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: Prostatic contour appears symmetrically enlarged, presenting a smooth, rubbery texture without focal nodularity or asymmetry. Vital signs show a blood pressure of 131/88 mmHg and a steady heart rate of 60 bpm. The abdomen yields to gentle palpation, remaining soft and non-tender, with no evidence of palpable masses or hepatosplenomegaly."
+    }
+  ],
+  "occupation": "retired mechanical engineer",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Diabetes nurse — quarterly review"
+  ],
+  "alcohol": "4 units / week",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 1/35 (mild LUTS)",
+  "admin": "Hard of hearing — speak clearly; prefers written summaries.",
+  "mri_hospital": "Jeroen Bosch Ziekenhuis ('s-Hertogenbosch)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

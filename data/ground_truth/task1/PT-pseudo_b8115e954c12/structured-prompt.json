@@ -1,0 +1,64 @@
+{
+  "case_id": "PT-pseudo_b8115e954c12",
+  "pid": "PT-pseudo_b8115e954c12",
+  "task": 1,
+  "psa": 3.87,
+  "age": 53,
+  "months": 2,
+  "pirads": "4",
+  "psad": 0.09,
+  "psav": 1.11,
+  "psap": 2.4,
+  "vol": 43.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.7713526,
+  "medhx": "Not reported",
+  "meds": "None",
+  "notes": "PSA 3.87 ng/mL. PI-RADS 4. PSAD 0.09. Prostate volume 43 mL. csPCa 0.77.",
+  "pmhx": [],
+  "allergies": [],
+  "vitals": {
+    "weight": "101 kg",
+    "height": "184 cm",
+    "bmi": "29.8",
+    "bp": "139/69 mmHg",
+    "hr": "62 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "20 Feb 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Clinical reassessment driven by an upward PSA trajectory alongside recently identified PI-RADS 4 MRI abnormalities."
+    },
+    {
+      "s": "History",
+      "t": "A 53-year-old self-employed contractor specializing in carpentry entered the diagnostic pathway after a PSA reading of 2.5 ng/mL was recorded in late 2023. Low-volume malignancy confirmed on a previous biopsy placed him under observation, and he currently experiences no bothersome lower urinary tract symptoms, registering an IPSS score of 5. Residing with his partner, he maintains a daily twenty-minute walking regimen and consumes approximately twelve units of alcohol weekly. He is a non-smoker. Marital status: never married. Lives with partner. Comorbidities: none. Active medication: None. Recent medical encounters included a completed six-session physiotherapy course for mechanical lower back pain and routine podiatry visits for foot care, neither influencing his urological trajectory. He reports no hematuria, skeletal discomfort, or unexplained weight loss, with general health remaining stable."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: uniformly smooth; mobility: unrestricted; asymmetry: absent. The prostate presents symmetrically without palpable irregularities. General assessment shows stable vital parameters with no lymphadenopathy or skeletal tenderness detected."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Never married",
+  "living": "Lives with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Physiotherapy — lower back, six sessions",
+    "Podiatry — routine foot care"
+  ],
+  "alcohol": "12 units / week",
+  "exercise": "Walking 20 min/day",
+  "ipss": "IPSS score: 5/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "Ziekenhuis Gelderse Vallei (Ede)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

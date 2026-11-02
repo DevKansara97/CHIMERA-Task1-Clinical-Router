@@ -1,0 +1,22 @@
+{
+  "confidence": "clear",
+  "variable_weights": {
+    "dre": "important",
+    "cspca": "not_used",
+    "bx": "decisive",
+    "comorbidity": "noted",
+    "pirads": "important",
+    "vol": "noted",
+    "psad": "noted",
+    "age": "important",
+    "fh": "noted",
+    "psa": "noted"
+  },
+  "reveal_sequence": [
+    "previous_notes",
+    "laboratory_results",
+    "psa_trend",
+    "radiology_report"
+  ],
+  "free_text": "Advocate for curative treatment while unfavorable intermediate risk pc in young patient without significant comorbidity. IF he is cautious toward curative treatment, repeat biopsy to exclude higher-risk disease."
+}

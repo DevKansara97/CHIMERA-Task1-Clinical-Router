@@ -1,0 +1,68 @@
+{
+  "case_id": "PT-pseudo_e9fbcdc890f2",
+  "pid": "PT-pseudo_e9fbcdc890f2",
+  "task": 1,
+  "psa": 82.0,
+  "age": 74,
+  "months": 2,
+  "pirads": "5",
+  "psad": 1.281,
+  "psav": 9.76,
+  "psap": 62.9,
+  "vol": 64.0,
+  "dre": "Normal",
+  "bx": "Positive",
+  "cspca": 0.9339169,
+  "medhx": "Hypertension, Hypercholesterolaemia, Obesity (BMI >30), Osteoarthritis",
+  "meds": "amlodipine, valsartan, atorvastatin, simvastatin, rosuvastatin, paracetamol PRN",
+  "notes": "PSA 82 ng/mL. PI-RADS 5. PSAD 1.28. Prostate volume 64 mL. csPCa 0.93.",
+  "pmhx": [
+    "Hypertension",
+    "Hypercholesterolaemia",
+    "Obesity (BMI >30)",
+    "Osteoarthritis"
+  ],
+  "allergies": [],
+  "vitals": {
+    "weight": "96 kg",
+    "height": "185 cm",
+    "bmi": "28.0",
+    "bp": "139/80 mmHg",
+    "hr": "72 bpm",
+    "smoking": "Ex-smoker (31 pack-yr, quit 2023)",
+    "last_dental": "6 mo ago",
+    "flu_vax": "Sep 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "26 Feb 2025",
+  "enc_ref": "Dr. F. de Boer (GP)",
+  "enc_type": "Re-evaluation - prior PCa diagnosis",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Persistent PSA elevation warrants clinical reassessment after an earlier positive prostate biopsy."
+    },
+    {
+      "s": "History",
+      "t": "A 74-year-old married man residing with his partner works as a self-employed contractor in carpentry. Despite mild osteoarthritis, he maintains a rigorous exercise routine, completing five-kilometre runs three times weekly. His medical background includes hypertension, hypercholesterolaemia, and obesity (BMI >30). Current pharmacotherapy comprises amlodipine, valsartan, atorvastatin, simvastatin, rosuvastatin, and paracetamol PRN. He is an ex-smoker with a cumulative exposure of 31 pack-years, having successfully ceased smoking in 2023. Lower urinary tract symptoms are present, quantified by an IPSS score of 14, though he denies haematuria, skeletal discomfort, or unexplained weight loss. Weekly alcohol intake reaches approximately 39 units. A recent pulmonary function assessment was conducted for routine COPD surveillance. Commuting over an hour by rail, he manages his daily medications independently, relying on his spouse for logistical support."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE: The gland presents as symmetrically enlarged, possessing a firm, smooth surface devoid of palpable irregularities or asymmetry. Systemic review remains unremarkable; vital parameters are stable, and examination reveals no peripheral lymphadenopathy or abdominal masses."
+    }
+  ],
+  "occupation": "self-employed contractor (carpentry)",
+  "marital": "Married",
+  "living": "Lives with partner",
+  "next_of_kin": "Spouse / partner (primary contact)",
+  "recent_other": [
+    "Pulmonary function test — known COPD follow-up"
+  ],
+  "alcohol": "39 units / week (heavy)",
+  "exercise": "Running 3x/week, 5 km",
+  "ipss": "IPSS score: 14/35 (moderate LUTS)",
+  "admin": "Patient travels 60+ min by train to clinic; allow buffer.",
+  "mri_hospital": "LUMC (Leiden)",
+  "ct": null,
+  "active_treatment_flag": 0
+}

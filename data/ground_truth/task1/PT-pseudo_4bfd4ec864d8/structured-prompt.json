@@ -1,0 +1,69 @@
+{
+  "case_id": "PT-pseudo_4bfd4ec864d8",
+  "pid": "PT-pseudo_4bfd4ec864d8",
+  "task": 1,
+  "psa": 11.0,
+  "age": 72,
+  "months": 3,
+  "pirads": "5",
+  "psad": 0.35,
+  "psav": 1.56,
+  "psap": 8.3,
+  "vol": 31.6,
+  "dre": "Nodus",
+  "bx": "Negative",
+  "cspca": 0.833,
+  "medhx": "COPD",
+  "meds": "tiotropium, salbutamol PRN",
+  "notes": "PSA 11 ng/mL. PI-RADS 5. PSAD 0.35. Prostate volume 32 mL. DRE nodus. csPCa 0.83.",
+  "pmhx": [
+    "COPD"
+  ],
+  "allergies": [
+    "NSAIDs"
+  ],
+  "vitals": {
+    "weight": "82 kg",
+    "height": "183 cm",
+    "bmi": "24.5",
+    "bp": "118/75 mmHg",
+    "hr": "66 bpm",
+    "smoking": "Non-smoker",
+    "last_dental": "1 yr ago",
+    "flu_vax": "Oct 2024"
+  },
+  "enc_dept": "Urology - outpatient",
+  "enc_date": "02 Mar 2025",
+  "enc_ref": "Dr. H. Martens (GP)",
+  "enc_type": "Re-evaluation - prior negative biopsy",
+  "note_sections": [
+    {
+      "s": "Chief complaint",
+      "t": "Current evaluation addresses sustained PSA elevation alongside a newly identified PI-RADS 5 lesion on recent imaging."
+    },
+    {
+      "s": "History",
+      "t": "The patient, a 72-year-old retired plumber, entered urological monitoring after an initial PSA rise in early 2022. He identifies as a non-smoker and currently resides in a ground-floor apartment with his partner, having been widowed. Respiratory management involves tiotropium alongside PRN salbutamol for his COPD. Urinary symptom burden remains low (IPSS 6), characterized mainly by sporadic nocturia, with explicit denial of haematuria or pelvic discomfort. Recreational gardening continues, and he recently finished six physiotherapy visits addressing chronic lower back ache unrelated to prostate pathology. Daily activity features regular neighbourhood walks. Notably, he reports no unexplained weight reduction, skeletal pain, or systemic complaints."
+    },
+    {
+      "s": "Physical examination",
+      "t": "DRE — texture: asymmetrically enlarged gland; mobility: fixed; asymmetry: firm, discrete nodule localized to the right peripheral zone. Abdominal and cardiovascular assessments remain entirely unremarkable. Blood pressure is stable, and cardiac rhythm registers at 66 bpm."
+    }
+  ],
+  "occupation": "retired plumber",
+  "marital": "Widowed",
+  "living": "Lives in ground-floor apartment with partner",
+  "next_of_kin": "Adult daughter (primary contact)",
+  "recent_other": [
+    "Radiology — chest X-ray (routine)",
+    "Audiology — hearing test",
+    "Physiotherapy — lower back, six sessions"
+  ],
+  "alcohol": "0 units / week (alcohol-free)",
+  "exercise": "Gardening, no structured exercise",
+  "ipss": "IPSS score: 6/35 (mild LUTS)",
+  "admin": "Patient self-employed; flexible appointment slots requested.",
+  "mri_hospital": "OLVG (Amsterdam)",
+  "ct": null,
+  "active_treatment_flag": 0
+}
